@@ -18414,7 +18414,7 @@
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/manifest.json",
     "role": "api",
-    "sha256": "2efc44dd522d613e168615126f937aeef2b15cf13f02f085f5a0ecc1c4a8158e"
+    "sha256": "51f7b9072e8d708fd8f9824a421d2135ab1c3a19364b5a424f3f00f3c9552b3d"
   },
   {
     "bytes": 7378,
@@ -39046,11 +39046,11 @@
     "sha256": "60bf46dff702844aa7d3d9ae42046f32bf6cef927cb5b0a18cb197807ec194c5"
   },
   {
-    "bytes": 544261,
+    "bytes": 544608,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/stories/entities/d1.json",
     "role": "api",
-    "sha256": "1c0dcf5fef9b9752e4a4d197e5232f89b79e25a63575335eb66a83a4a0d913b0"
+    "sha256": "6bff4b67358877686aacba1e5e74f91bd2d1f206ab22c1cc2c250b350c289146"
   },
   {
     "bytes": 856885,
@@ -39375,11 +39375,11 @@
     "sha256": "6f0138899252a38964182806daa184046fe9ec0c800dd0de34ad81a0c913c8bc"
   },
   {
-    "bytes": 1511864,
+    "bytes": 1512751,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/stories/index.json",
     "role": "api",
-    "sha256": "87dab3ca7201aa82ed0774d56612e7b334422030e5c9e8014d0575c1095d03fc"
+    "sha256": "2c787bfbe36d34eb92ea7d2d75e823ffe8db784083a606de54dc2d72127871e8"
   },
   {
     "bytes": 100795,
@@ -39459,11 +39459,11 @@
     "sha256": "e3dd759791e0b55735b769d346db64797cb9ff9a530e9f717bd78a8c95d8da83"
   },
   {
-    "bytes": 98966,
+    "bytes": 97685,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/stories/relations/character/7f.json",
     "role": "api",
-    "sha256": "f7ee98b3040575819a5748859895ed40579eaf8c65e1f76d7a28b1d4ea805b18"
+    "sha256": "320f43958b6676be4a2a8e5f97289c8be01a7532d189bef168ee4d0df6e09f88"
   },
   {
     "bytes": 96284,
@@ -39473,11 +39473,11 @@
     "sha256": "78a7040c868bd6b6f8a18c136666bfc5b5607b729728be8de9060ccd26bb57dd"
   },
   {
-    "bytes": 103166,
+    "bytes": 104794,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/stories/relations/character/8b.json",
     "role": "api",
-    "sha256": "06e546c0b464c6b508da1d42eabdf1ae7f9dce92450fde4ffafa29542786d437"
+    "sha256": "5a306dbf28c577bdd03d85f0259056aca20aafc55014c275f4e6c605119a7454"
   },
   {
     "bytes": 100913,
@@ -39487,11 +39487,11 @@
     "sha256": "e9cb6578b396eb974d183076f4ba611f014abd0ea16922ad21a96b083b7a64e2"
   },
   {
-    "bytes": 101420,
+    "bytes": 100139,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/stories/relations/character/a5.json",
     "role": "api",
-    "sha256": "b37cde42b31335444d1b74239f8e97c7ade0e188bf9ee75f644fc25002d3261c"
+    "sha256": "1069fc5166516524fe768cb145ee9eb948034882a4885a68bc44b5434b2b0647"
   },
   {
     "bytes": 95637,
