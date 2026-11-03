@@ -1,0 +1,19 @@
+{
+  "schema": "haneoka-resource-catalog-v1",
+  "servers": {
+    "jp": {
+      "sha256": "69ea3c4eaf69331c9c8b7480002773ca22b2065b5e3179c0a1a892e70b77c3aa",
+      "files": 7,
+      "input": "r-e261e5c71807bf57801b",
+      "hash": "8be74134b87dacf7ce1f38967cd66745",
+      "version": "1.1.0.200"
+    },
+    "intl": {
+      "sha256": "874dc4bdceddce5eababbd641343eee41aaabc51df676536880006c8c2150702",
+      "files": 7,
+      "input": "r-6d239366cf3b7cb3c0ad",
+      "hash": "c045774b66a6c9d107739ba5ca121e6a",
+      "version": "1.1.0.200"
+    }
+  }
+}

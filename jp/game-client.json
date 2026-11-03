@@ -1,0 +1,3537 @@
+[
+  {
+    "bytes": 13238,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/00.json",
+    "role": "game-client",
+    "sha256": "15e81b0bca359d4f2d79fda70d17812198c1ad099a5e8b9905198c6433156fe1"
+  },
+  {
+    "bytes": 16325,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/01.json",
+    "role": "game-client",
+    "sha256": "9dac08b41441318c71a64170d0a13a51df29976c32d513325c3c8f5549131837"
+  },
+  {
+    "bytes": 10669,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/02.json",
+    "role": "game-client",
+    "sha256": "4ef28bfaef79bb29a9b916683efef45573ae24f8814954e7d433dd0c7974411c"
+  },
+  {
+    "bytes": 11509,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/03.json",
+    "role": "game-client",
+    "sha256": "ba99182040f9b730582124b7314c74139941a34e6ba650adfe4800ab881cd593"
+  },
+  {
+    "bytes": 12583,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/04.json",
+    "role": "game-client",
+    "sha256": "c7e0f877a3fac4cbce22e894facef7644dc9cc99bdbd1ec3dc6b3c7a62318f63"
+  },
+  {
+    "bytes": 11887,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/05.json",
+    "role": "game-client",
+    "sha256": "d0f82d32f6173e4e867d9a53d1eb51a668242a5885824283752698876dfe6cb5"
+  },
+  {
+    "bytes": 14816,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/06.json",
+    "role": "game-client",
+    "sha256": "61e22c3c4153b84bfcb0ec0736149645844b2dab15715ae154f1a77bbd417a1d"
+  },
+  {
+    "bytes": 13132,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/07.json",
+    "role": "game-client",
+    "sha256": "f709e3d1bab4573f5ac11fa6d454f269346c95dcdecd1c6c6a425236349ceef1"
+  },
+  {
+    "bytes": 12871,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/08.json",
+    "role": "game-client",
+    "sha256": "1567d78ffcfb2a775776849ec5cf108f6eae1f882627c77e6f37c5d0f403942c"
+  },
+  {
+    "bytes": 14921,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/09.json",
+    "role": "game-client",
+    "sha256": "2d1b975f42000b04b1381206f98360be897c87660c0d13ffb8ada16f9a82b50b"
+  },
+  {
+    "bytes": 14402,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/0a.json",
+    "role": "game-client",
+    "sha256": "6f2435b625b4a8d622e47c2d41df3f5c216e65b1419e48140ae26ebbe6ae7cda"
+  },
+  {
+    "bytes": 13197,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/0b.json",
+    "role": "game-client",
+    "sha256": "d0dc2d067bbf1c2825bb4260055b5852f096c815a7aff8432fd6b5f381bdc8bf"
+  },
+  {
+    "bytes": 12581,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/0c.json",
+    "role": "game-client",
+    "sha256": "e729c63a0b96fb49acbd4f256209721bfd2f864975f559e8d06cf041a7f61029"
+  },
+  {
+    "bytes": 9892,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/0d.json",
+    "role": "game-client",
+    "sha256": "a0776691a4f491e83f24595e7ff331115497c730ebf6408850d67544b5b638fc"
+  },
+  {
+    "bytes": 11934,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/0e.json",
+    "role": "game-client",
+    "sha256": "ba21d8840b4df084c9b132d971e7f9ee60e48abf08c48aa8aef6abee9aa9d4d0"
+  },
+  {
+    "bytes": 12268,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/0f.json",
+    "role": "game-client",
+    "sha256": "af381d6bb73352d0a5c387ac51b192ecb250617f2bdd4f229d12d59e92537983"
+  },
+  {
+    "bytes": 15034,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/10.json",
+    "role": "game-client",
+    "sha256": "a158fce3d840c8756bb70559c5b02a5247de57b40d84aa75e06062e9b2f54c08"
+  },
+  {
+    "bytes": 13002,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/11.json",
+    "role": "game-client",
+    "sha256": "c657fac05b00e27fdf4f434aedc4b935fb70b3318ef416ca3ae4f6fa5f0dd4bc"
+  },
+  {
+    "bytes": 12760,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/12.json",
+    "role": "game-client",
+    "sha256": "4c755f79e8e2be3c474a90ffa8712adb95233780bbb346ae151165ce7989e2c0"
+  },
+  {
+    "bytes": 10205,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/13.json",
+    "role": "game-client",
+    "sha256": "c0722128e54a7800c42df3627af311a83032e62eb52295c992fcda9d33c4849c"
+  },
+  {
+    "bytes": 12128,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/14.json",
+    "role": "game-client",
+    "sha256": "ca1cc495a32b65cd4a61e7328104c0b5863ac62b927e255277ff05c774739f75"
+  },
+  {
+    "bytes": 11705,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/15.json",
+    "role": "game-client",
+    "sha256": "15f37c84429b5669445561e8f53df30512a33d21b6baef5d8d5aa6afaea5f0ab"
+  },
+  {
+    "bytes": 14824,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/16.json",
+    "role": "game-client",
+    "sha256": "73b949af2a744157d6d0600c4c7b602b4f68d5c291c067318ea091fcca76b76c"
+  },
+  {
+    "bytes": 13253,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/17.json",
+    "role": "game-client",
+    "sha256": "63a9e14f39de06185a6052e9259e3abda5cfbf259a88c954a856d5dd3d80d8d1"
+  },
+  {
+    "bytes": 14855,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/18.json",
+    "role": "game-client",
+    "sha256": "cecff364bb835557e0d894f3b2d46f48c958ccd0745ba02206036151b146c686"
+  },
+  {
+    "bytes": 14699,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/19.json",
+    "role": "game-client",
+    "sha256": "deac0cc473bb30c6d862bf50e40d6ecbfdb2eca4b321d1e27c61eac09c5fb8cc"
+  },
+  {
+    "bytes": 11890,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/1a.json",
+    "role": "game-client",
+    "sha256": "ab4cbb47685a968e55a94aaa96ade4888d61cda9057be8a4315f1f940f25de5c"
+  },
+  {
+    "bytes": 11265,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/1b.json",
+    "role": "game-client",
+    "sha256": "2d1c32c6fbc3b660e3fa69bf0ec6b4437a3a68064f52e86b46c8cb87f31a8400"
+  },
+  {
+    "bytes": 11836,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/1c.json",
+    "role": "game-client",
+    "sha256": "d85eecd041bad23bbc3751f97cac7324f59f904e6d8e73c595012556c1caf995"
+  },
+  {
+    "bytes": 12964,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/1d.json",
+    "role": "game-client",
+    "sha256": "fe39450f925bf6520f8344fe365f81d32baab1c9652d802ac0589923ce5b595e"
+  },
+  {
+    "bytes": 13154,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/1e.json",
+    "role": "game-client",
+    "sha256": "2b864b79f1972e7f34ef9ab727e389f6cbe0187272e2d887d7302fb359201512"
+  },
+  {
+    "bytes": 13821,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/1f.json",
+    "role": "game-client",
+    "sha256": "91e539fc1c19fbc8b6b71808e60d70a1a61d0b174bb0f368b63ca6cf8d2908ca"
+  },
+  {
+    "bytes": 10557,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/20.json",
+    "role": "game-client",
+    "sha256": "6e2219300fc195bcde6d7dbc95823fceef0f4defa4c38cf209715edc844336b3"
+  },
+  {
+    "bytes": 13526,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/21.json",
+    "role": "game-client",
+    "sha256": "f51953c4b725d16bba17423457d48a3b9118e1451da0f4e50edf2a3a16e47856"
+  },
+  {
+    "bytes": 12715,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/22.json",
+    "role": "game-client",
+    "sha256": "9129cfd1466cc1b654654b432529444bbd857121ddc18801e50d9f88304b14f0"
+  },
+  {
+    "bytes": 9667,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/23.json",
+    "role": "game-client",
+    "sha256": "7cfad968576edf5b0982334da5cdbe132c830ee111e36bfa7527ab3349ca182b"
+  },
+  {
+    "bytes": 14580,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/24.json",
+    "role": "game-client",
+    "sha256": "7efc64cd242db94c9c96337dc24fb3a8bb0ae974790530bec11aa5ea2a62848b"
+  },
+  {
+    "bytes": 13094,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/25.json",
+    "role": "game-client",
+    "sha256": "072fc34f2fb8c0091d31cc17d5a1c195ee43b2a66af738abe8144df8e2c65ec4"
+  },
+  {
+    "bytes": 10595,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/26.json",
+    "role": "game-client",
+    "sha256": "b6cb0ad5f03db04f37a2853cc2b3eb8d9d9bf3bf46a346b8bebedcf6d68bef41"
+  },
+  {
+    "bytes": 13734,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/27.json",
+    "role": "game-client",
+    "sha256": "91ce4b6d4c57c93a3bb0a1b20a58bdc90f33c67a74873d9ac6358fcdcc38aa5e"
+  },
+  {
+    "bytes": 9478,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/28.json",
+    "role": "game-client",
+    "sha256": "a92a294cf918eed1960d017d5130b4883a4bcf2baa52a1d6e18274a43faeb506"
+  },
+  {
+    "bytes": 12493,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/29.json",
+    "role": "game-client",
+    "sha256": "1b250134d05ef7fe77eb73e76a76d9ba94559602e0918791f7478ab55e904cb8"
+  },
+  {
+    "bytes": 14359,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/2a.json",
+    "role": "game-client",
+    "sha256": "cb65c28b7a61cd7fbf20149253bf4a51a5deec8807c84fe31081713bf9b56f72"
+  },
+  {
+    "bytes": 12075,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/2b.json",
+    "role": "game-client",
+    "sha256": "09d30ab6da3f8f4a46755ec3acb013cee85229115043a210e6b71bdad086a5f6"
+  },
+  {
+    "bytes": 10643,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/2c.json",
+    "role": "game-client",
+    "sha256": "2283f1b48a64f0cc3101e6b25b99dba84f4e8085e7d9b67d95a3773dcd88b4b2"
+  },
+  {
+    "bytes": 16898,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/2d.json",
+    "role": "game-client",
+    "sha256": "5582458991001b574b8f8c608f5f9f9f9d416109746026ef3c704f1545606ad3"
+  },
+  {
+    "bytes": 14244,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/2e.json",
+    "role": "game-client",
+    "sha256": "74510e208cd5e2cb3ad82f3c759e06cd1dc6c38128b64f596d3f070b8dc5f9e5"
+  },
+  {
+    "bytes": 12971,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/2f.json",
+    "role": "game-client",
+    "sha256": "9dc79dc3c1d70f6e92c267d8b759873bb4d01469c4df5ea958fefd53850c9cf1"
+  },
+  {
+    "bytes": 12524,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/30.json",
+    "role": "game-client",
+    "sha256": "5385d3001c0ce241097f18c23d0be112717d7b13b96dc4f01cdc25d746e86154"
+  },
+  {
+    "bytes": 12110,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/31.json",
+    "role": "game-client",
+    "sha256": "2257f590f8afa66aabf80e60e756d887ba53fdd65a8d470dd35e07c51ef678db"
+  },
+  {
+    "bytes": 10278,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/32.json",
+    "role": "game-client",
+    "sha256": "2ad68356c646375cbe23951a93b0dc90bd518c45315c92e115ca045bcc1f5bdc"
+  },
+  {
+    "bytes": 14150,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/33.json",
+    "role": "game-client",
+    "sha256": "d266b50b9c6fd84832c188907d94b3ddf9e33154b89724c4ccfd18c65dce20fa"
+  },
+  {
+    "bytes": 11030,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/34.json",
+    "role": "game-client",
+    "sha256": "b1aa0260cfa514333974b9683c9a30a3139a9c4b96c1f850be1e56ea6b0f6c20"
+  },
+  {
+    "bytes": 13145,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/35.json",
+    "role": "game-client",
+    "sha256": "eae37fdcca016fec901a73c9f4dec1d4c8e2725b380e231fa494861e4a9a0f5d"
+  },
+  {
+    "bytes": 14637,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/36.json",
+    "role": "game-client",
+    "sha256": "d4f53a09f22dd177fe7b14eebca1a917d40b0a8885e015500a2212973331c02a"
+  },
+  {
+    "bytes": 12416,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/37.json",
+    "role": "game-client",
+    "sha256": "30719ed537a2f43c7e275f74121d3642bc332414777fcee56b0fe0598aae4502"
+  },
+  {
+    "bytes": 11514,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/38.json",
+    "role": "game-client",
+    "sha256": "501b8405e63c614a7d65304247c19f466d51346ae7ff0eb7362e417529677ce5"
+  },
+  {
+    "bytes": 14635,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/39.json",
+    "role": "game-client",
+    "sha256": "356677bbc160e1123edb6049baefe77e64f3c6b39e785b9a2194c2a07c0f8839"
+  },
+  {
+    "bytes": 11354,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/3a.json",
+    "role": "game-client",
+    "sha256": "63f9807fcf0bede87a9624b29240eb9b269605bcb6d2ff1a176400be987a8eac"
+  },
+  {
+    "bytes": 12746,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/3b.json",
+    "role": "game-client",
+    "sha256": "67db29c948574e0930388e2ddd3c96dc04cc104ea8e3c2cf7e2830c538760b55"
+  },
+  {
+    "bytes": 13655,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/3c.json",
+    "role": "game-client",
+    "sha256": "59524ee6e24e80a864789206c17e33e1c0ebf4bd94a1e9a0b5e79d0c8d65b5b2"
+  },
+  {
+    "bytes": 12216,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/3d.json",
+    "role": "game-client",
+    "sha256": "80e1510c4fc2e5922693c2749e0e1ad5deac73ea2ffeb6cfce088e05a896c161"
+  },
+  {
+    "bytes": 12681,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/3e.json",
+    "role": "game-client",
+    "sha256": "d924f5d59e443315701b33338ba6d95feb632a0b1eec369722a005c1ca65cbc1"
+  },
+  {
+    "bytes": 16061,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/3f.json",
+    "role": "game-client",
+    "sha256": "106dea36e74280706cbb0a23658ed51c034ee35837602c9357a8ed993e0a8386"
+  },
+  {
+    "bytes": 12180,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/40.json",
+    "role": "game-client",
+    "sha256": "090d60b1c096196bc6d2b2a9570892fce7653f2db274eb9ab759aaf9ce3c1ad9"
+  },
+  {
+    "bytes": 13857,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/41.json",
+    "role": "game-client",
+    "sha256": "385a1707f46f857b8bc26f6b55adddbefac3b5efc2181d2b3f869e9b27136426"
+  },
+  {
+    "bytes": 13222,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/42.json",
+    "role": "game-client",
+    "sha256": "7a07e8b9027e101249d288813b2984b180e0b066b57df2ec82f1d92dbe7a2fcf"
+  },
+  {
+    "bytes": 10994,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/43.json",
+    "role": "game-client",
+    "sha256": "099180d67ea8f960966d0e3d91774d16e06b9eecd64283a380eea64af6000f0d"
+  },
+  {
+    "bytes": 12710,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/44.json",
+    "role": "game-client",
+    "sha256": "1e6425ff77241629f3fed9cc751af7de12dec27e5ffe3c462a1e777aa743855f"
+  },
+  {
+    "bytes": 12797,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/45.json",
+    "role": "game-client",
+    "sha256": "a3658b62936af6faf799b24abe08474dc8909e88c1593f96ba804708f93f8e2a"
+  },
+  {
+    "bytes": 12410,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/46.json",
+    "role": "game-client",
+    "sha256": "d129862516985edc812748ac83e4527d32d1c29eeef660a9031dcb292325d68c"
+  },
+  {
+    "bytes": 10114,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/47.json",
+    "role": "game-client",
+    "sha256": "c8a91b659b8c5104dc3c74914dbb8e1ab615f9889793ffb27d240b5e38eb853c"
+  },
+  {
+    "bytes": 12200,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/48.json",
+    "role": "game-client",
+    "sha256": "1351ccffd386265a4534c61db14e2147677a49289c90610a2a1a17cf277d088d"
+  },
+  {
+    "bytes": 14157,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/49.json",
+    "role": "game-client",
+    "sha256": "440e694c48d0b24cb4e40169d8440aabe241ee0685dff4bce216e11235933340"
+  },
+  {
+    "bytes": 11850,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/4a.json",
+    "role": "game-client",
+    "sha256": "2e6a28fe1b527f9de2c914fcdec4276303a310f707cf15f58f8de14194f84ce1"
+  },
+  {
+    "bytes": 10409,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/4b.json",
+    "role": "game-client",
+    "sha256": "49472da3fc5c3ff3f9d26ca0771310cedeff1f691d5e0a2dcb7c36701e10a594"
+  },
+  {
+    "bytes": 12978,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/4c.json",
+    "role": "game-client",
+    "sha256": "c1abc450eec90c50976d8ba1d2c1e8e794f4ffdfe9f8409825358d5f265391ac"
+  },
+  {
+    "bytes": 14851,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/4d.json",
+    "role": "game-client",
+    "sha256": "413940c81161a477780e501d3f1be0cf901a2acda48a52b7c436938444e3b958"
+  },
+  {
+    "bytes": 9225,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/4e.json",
+    "role": "game-client",
+    "sha256": "cf315bc7f5cea6848464c49d0ef6a8705fc809be4ea83642090818eb54d14b20"
+  },
+  {
+    "bytes": 14151,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/4f.json",
+    "role": "game-client",
+    "sha256": "d2b9a6f37db1c192914f2ec41813dfba2c0cffacef7802c44cb48ab040354ae9"
+  },
+  {
+    "bytes": 13101,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/50.json",
+    "role": "game-client",
+    "sha256": "f087973ecbf79e8ad5a6b5c14253872d8f9a482328896fe6b7b06e0e8d1bbf26"
+  },
+  {
+    "bytes": 16081,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/51.json",
+    "role": "game-client",
+    "sha256": "62e02b0a79df0032d190f854f8ac6114919848ee5ed9857538b6ad07a032691d"
+  },
+  {
+    "bytes": 13507,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/52.json",
+    "role": "game-client",
+    "sha256": "e20e97ef4962bde464e609f6d37ddeb00fd2e9e430472f434131cf5c49af6826"
+  },
+  {
+    "bytes": 10544,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/53.json",
+    "role": "game-client",
+    "sha256": "bb34bfb0206e49a31ba6ec727a8ae973325e9086fdd11dd82bcdb638ba577084"
+  },
+  {
+    "bytes": 11601,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/54.json",
+    "role": "game-client",
+    "sha256": "097695e2a44d1b29dad6ba9be8bba8ffe637288a4306be64d564ba62dd0da837"
+  },
+  {
+    "bytes": 12993,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/55.json",
+    "role": "game-client",
+    "sha256": "882b7934c4eb32d93d52b1dc9f73e0676c3f0a3f2678f4c4a99656fca333d4f4"
+  },
+  {
+    "bytes": 17712,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/56.json",
+    "role": "game-client",
+    "sha256": "d0e1751887c37eef6ff5641a9eff4148396ecdae076734ea15b57b00d346b42c"
+  },
+  {
+    "bytes": 13613,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/57.json",
+    "role": "game-client",
+    "sha256": "b0897548d5a590d266ee15861fe1349efeab5b2261410c1bd32e06d9bb91e79d"
+  },
+  {
+    "bytes": 12795,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/58.json",
+    "role": "game-client",
+    "sha256": "25a6fee13119eff0e2650ac1e7df1cd9dd8406f5d86fcdeb8e300a41d842bda8"
+  },
+  {
+    "bytes": 11739,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/59.json",
+    "role": "game-client",
+    "sha256": "541ccd7c236a0faf24dd1241c0395023790546f8ecd1ef63fc0da9f5c165afae"
+  },
+  {
+    "bytes": 14110,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/5a.json",
+    "role": "game-client",
+    "sha256": "fe36e495ec20ace1a15a2c114d54ed066545cc24572cb479da19d4cc7523dbbe"
+  },
+  {
+    "bytes": 13163,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/5b.json",
+    "role": "game-client",
+    "sha256": "4f28c496758e4a1686059bc203c5e9dae8c0823a86a5994b5d330d2aecaaf7dc"
+  },
+  {
+    "bytes": 12965,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/5c.json",
+    "role": "game-client",
+    "sha256": "651f9a21879c85b3689e4f8501307803d6d3423bdd5fe647a64155abf78beef3"
+  },
+  {
+    "bytes": 12436,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/5d.json",
+    "role": "game-client",
+    "sha256": "f13a41d4112295cf23a98b036b8a151c37fb12a4fca04b4afb2a305c1beb845c"
+  },
+  {
+    "bytes": 11590,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/5e.json",
+    "role": "game-client",
+    "sha256": "ff2a574274ec8b38b0d0e855bc83c268b9ebd68bd5183bf74c3be6ebe01b0574"
+  },
+  {
+    "bytes": 14081,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/5f.json",
+    "role": "game-client",
+    "sha256": "c551426fec456c1eb5864f8801b1205fd3d8280950667e773a6f73c27f178838"
+  },
+  {
+    "bytes": 11169,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/60.json",
+    "role": "game-client",
+    "sha256": "3157f5c0d76c3148f8c48acf48d0accb2d6fe1d0c06629872ac4ca4e22a9e562"
+  },
+  {
+    "bytes": 12361,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/61.json",
+    "role": "game-client",
+    "sha256": "15bd02148cbef7cb5a0a44b8983c4461aca5b031e323fbfe84538247358acfdd"
+  },
+  {
+    "bytes": 16630,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/62.json",
+    "role": "game-client",
+    "sha256": "dbddcf6f067a5942dc66137d97ae2acdebe4a95ece4a8e09d4685502417ad8f7"
+  },
+  {
+    "bytes": 11221,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/63.json",
+    "role": "game-client",
+    "sha256": "b609406c7ea30f0b28221573d5e2e2c39d59993975d4a3f29ff78e4950a7b1b2"
+  },
+  {
+    "bytes": 11905,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/64.json",
+    "role": "game-client",
+    "sha256": "3981e562488a6d0e1d93019d5114b34dc9c86d54a87ffee4448a4a370b9064ed"
+  },
+  {
+    "bytes": 13761,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/65.json",
+    "role": "game-client",
+    "sha256": "1361988ad0dc032ab7cb7d1b673bab379afc70c16d05121b1124b7fa50428d90"
+  },
+  {
+    "bytes": 15348,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/66.json",
+    "role": "game-client",
+    "sha256": "e2d41c73463c713d208fae4694eda48143982db98ddebddd880474995822e63b"
+  },
+  {
+    "bytes": 13958,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/67.json",
+    "role": "game-client",
+    "sha256": "79e8e46cc679ffe6c87014d3198710bd4bd54846642d74f8b064bd1077ff9b3b"
+  },
+  {
+    "bytes": 11739,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/68.json",
+    "role": "game-client",
+    "sha256": "d8fd3858a0aadd93c736129478b3c8e8f1263636662316af5231bc8983abc1c8"
+  },
+  {
+    "bytes": 12704,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/69.json",
+    "role": "game-client",
+    "sha256": "621646787a765ca6516139fc17a80c2de7c4eeba43aaff5e308e86e7a2ab6820"
+  },
+  {
+    "bytes": 10178,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/6a.json",
+    "role": "game-client",
+    "sha256": "7f56e0fca455a342cf288f2f22485da4cfff06114dc03276545e73888464ab4d"
+  },
+  {
+    "bytes": 14152,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/6b.json",
+    "role": "game-client",
+    "sha256": "35a3759867dbf28efd237cfc1b5c7dfe57e0afb55be116c33bd487b483776a8a"
+  },
+  {
+    "bytes": 13467,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/6c.json",
+    "role": "game-client",
+    "sha256": "97da8309c00f562f4703d806bb3c24fbe0b1828c7a73f9f86909cc9f9e13c08d"
+  },
+  {
+    "bytes": 13777,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/6d.json",
+    "role": "game-client",
+    "sha256": "bfd998d7ad91ebb719f379e12c696434c3202cd1aac5a64dfd06cb077818799e"
+  },
+  {
+    "bytes": 13829,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/6e.json",
+    "role": "game-client",
+    "sha256": "7deba93e525bade06d9292c44e86f960e4a4098843146c2eb59eed64ff2f12c5"
+  },
+  {
+    "bytes": 15043,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/6f.json",
+    "role": "game-client",
+    "sha256": "fb7e7f3e976e54a4725c33ced654a44308009e5b481adc206cad0566a16b88eb"
+  },
+  {
+    "bytes": 12554,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/70.json",
+    "role": "game-client",
+    "sha256": "b7ac3d69b1c822774e10fa6ad18803d5b12a2ee69d081f99fdbbc4b5cd267241"
+  },
+  {
+    "bytes": 13335,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/71.json",
+    "role": "game-client",
+    "sha256": "9854d204c1b2bd5bc2ea969a0865df77d0656beed7f3823d87e0390a8f0dc57e"
+  },
+  {
+    "bytes": 16616,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/72.json",
+    "role": "game-client",
+    "sha256": "1429b82b6de397c518afff3308d850e97cb2ccb35129395cdd29a61e9620acb3"
+  },
+  {
+    "bytes": 13004,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/73.json",
+    "role": "game-client",
+    "sha256": "3181b3a8bb8d7f135d6b00b508a9c155c815c03116aa9ae5e03a1053c945fc56"
+  },
+  {
+    "bytes": 12339,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/74.json",
+    "role": "game-client",
+    "sha256": "d358f6bf27a9b8c4ee8e4d40974e257908ffca7d6a47c81250811b0e1ba3eca7"
+  },
+  {
+    "bytes": 8998,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/75.json",
+    "role": "game-client",
+    "sha256": "133c6e35d3555d737a6791cdcfde8a91cf38bfd620fc3f4f5cd9ee6bdad6a2b4"
+  },
+  {
+    "bytes": 11934,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/76.json",
+    "role": "game-client",
+    "sha256": "d1dc7c253b1b229d5cf85f1dfb296b9d9c087901ca0c722c8831e0385c02a9a5"
+  },
+  {
+    "bytes": 13543,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/77.json",
+    "role": "game-client",
+    "sha256": "f7df3dbb298fc698b6cdb603bae9619d84a036ac1f692457ab15daa88773a29c"
+  },
+  {
+    "bytes": 12304,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/78.json",
+    "role": "game-client",
+    "sha256": "6947ae54580d72ea05782c0a815529acbbecea14a6e13be3ec9d0c54040ed27d"
+  },
+  {
+    "bytes": 14283,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/79.json",
+    "role": "game-client",
+    "sha256": "2b0c4cb68b50e7ac49fa3a03638c1a7cc9217995fecf672e1add4427bfbe1a75"
+  },
+  {
+    "bytes": 14813,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/7a.json",
+    "role": "game-client",
+    "sha256": "ec528044e7f96f6e48b7643008a6ff3c5ebdfc9c9cefc15ca15f4e25f6eed7e5"
+  },
+  {
+    "bytes": 12530,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/7b.json",
+    "role": "game-client",
+    "sha256": "a60ee714ad588f42442e8ddc5bbb38e6e9c5dcb4dc42d015713dd5b1c866954d"
+  },
+  {
+    "bytes": 13424,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/7c.json",
+    "role": "game-client",
+    "sha256": "e9e02f1cbba508620b6412e443c4f95c20c9a13359aa7c8ada21ec6253844a34"
+  },
+  {
+    "bytes": 13752,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/7d.json",
+    "role": "game-client",
+    "sha256": "4df7048672ab7997257b4779af710b00cd5b4d5727b85469e46ea9d7215d94ae"
+  },
+  {
+    "bytes": 13433,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/7e.json",
+    "role": "game-client",
+    "sha256": "bedb2b63b860cb3fd4992b8365ed41eb31863c6254cc338b97e1c79351406bc8"
+  },
+  {
+    "bytes": 17154,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/7f.json",
+    "role": "game-client",
+    "sha256": "6748cfa8981925a39837fd48a2db05f655f1ec73adea8fe37d9df5180b044113"
+  },
+  {
+    "bytes": 11304,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/80.json",
+    "role": "game-client",
+    "sha256": "d9f4f3498a4c7a9feb241b2d41c11d3f64fbcd679ffcd34c41def8b82b1f9984"
+  },
+  {
+    "bytes": 12565,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/81.json",
+    "role": "game-client",
+    "sha256": "16129c162d95cc125121c4abccf68b21fcccb6acbd82401f2c91626f62e45669"
+  },
+  {
+    "bytes": 12394,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/82.json",
+    "role": "game-client",
+    "sha256": "de64b460b0143a6f7be8db8b990ce6fc079d1be284e0affe07ab7ed809f870e6"
+  },
+  {
+    "bytes": 14406,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/83.json",
+    "role": "game-client",
+    "sha256": "0bed215ddc807ee78ce05ceca9aed6af6a8c7bd891ec120494d9c226d7d04ab1"
+  },
+  {
+    "bytes": 13413,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/84.json",
+    "role": "game-client",
+    "sha256": "5ad28d9937ff15299c2a84cd57bb139597e032a2e261b4c22eb851786e316d66"
+  },
+  {
+    "bytes": 15498,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/85.json",
+    "role": "game-client",
+    "sha256": "3eb1235b073b39c2ebac7172dff14115a159a1deb84d2aad62c7e96326cce1fd"
+  },
+  {
+    "bytes": 12847,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/86.json",
+    "role": "game-client",
+    "sha256": "9a2d3efd83b8f7e6a81ee81c5dfc90e5e9b9585d84bf225ba5be58fe2d2cd223"
+  },
+  {
+    "bytes": 10127,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/87.json",
+    "role": "game-client",
+    "sha256": "f5804d746f1400a428d9f0969f802edd3ba85150e3305f4de15e6b7be9244b7d"
+  },
+  {
+    "bytes": 12415,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/88.json",
+    "role": "game-client",
+    "sha256": "7f02abef338851a44723a083ba031c8061887b70fd70500d5fdc7294c932f411"
+  },
+  {
+    "bytes": 11031,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/89.json",
+    "role": "game-client",
+    "sha256": "e5e71455d33c503f0c0a0d35fdf9944b03acc14ba711e5f3828f21856151dfec"
+  },
+  {
+    "bytes": 12768,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/8a.json",
+    "role": "game-client",
+    "sha256": "78e52d32a69c950ff578f78f890818087de20863ceebde6e94be493cb7597289"
+  },
+  {
+    "bytes": 10692,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/8b.json",
+    "role": "game-client",
+    "sha256": "348694e3f238f4ca5bbc6f807f65f8a0012959773209fd3bf35824c5f0f5bed9"
+  },
+  {
+    "bytes": 12863,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/8c.json",
+    "role": "game-client",
+    "sha256": "d4727fed9e7c03a8acb266b836933a30e450345403bc1704e0473b6dd4c044fa"
+  },
+  {
+    "bytes": 13885,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/8d.json",
+    "role": "game-client",
+    "sha256": "fc9ef57345d4eb7b06105d8521fe4d2083612b9b5a096de499368495c31191a8"
+  },
+  {
+    "bytes": 12258,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/8e.json",
+    "role": "game-client",
+    "sha256": "20b40d4c76c4a42b1e01858ce4091af5e856287f3cba10543cf3f14e78accf2d"
+  },
+  {
+    "bytes": 12042,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/8f.json",
+    "role": "game-client",
+    "sha256": "c3811f750260fb0e93a9538f133f2939e0479a31912d698637de93ea40c90cbf"
+  },
+  {
+    "bytes": 14186,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/90.json",
+    "role": "game-client",
+    "sha256": "3823c4bf5885c11a129301feb7067150ea3308771dea328ec0aa34c0c99ecb4f"
+  },
+  {
+    "bytes": 16047,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/91.json",
+    "role": "game-client",
+    "sha256": "59454e7e7e665e5029a889764d996584a4f9a62efe1019403eac065fe732b1c4"
+  },
+  {
+    "bytes": 12400,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/92.json",
+    "role": "game-client",
+    "sha256": "9e35afa047e06c9b9de1c7da38e2c899c153aa30ba93d411b2e8623e2757d280"
+  },
+  {
+    "bytes": 9719,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/93.json",
+    "role": "game-client",
+    "sha256": "47dd6d4be66bf8b8cbea60821ff682ced301fb5164be403460281850bf71b581"
+  },
+  {
+    "bytes": 14645,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/94.json",
+    "role": "game-client",
+    "sha256": "fa0bac72ec4be59a5efd21880e853cd0be8a62ecd7795179013fec076a47a4c2"
+  },
+  {
+    "bytes": 11130,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/95.json",
+    "role": "game-client",
+    "sha256": "443254402512ecc7e01caec92e2eee1e2121254185de9ad361573d784a83244b"
+  },
+  {
+    "bytes": 14156,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/96.json",
+    "role": "game-client",
+    "sha256": "7e203c6b969be0187cfd2aefeb5f7e1c5ed07a001ef40ff8e639d406ea311390"
+  },
+  {
+    "bytes": 12546,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/97.json",
+    "role": "game-client",
+    "sha256": "6d19716b6ced42345489dcf8539666ba82ca66f2217546bba789efa68b8ca093"
+  },
+  {
+    "bytes": 11536,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/98.json",
+    "role": "game-client",
+    "sha256": "90862ff8c7a3df1901e74a381b02f4fd3fd18c53765d1dfd06619c54e327110d"
+  },
+  {
+    "bytes": 13689,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/99.json",
+    "role": "game-client",
+    "sha256": "d2c0bb997ce22c0724a4b8a7feed0cdce7f7c2b17431a652448ee895cf228d56"
+  },
+  {
+    "bytes": 13898,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/9a.json",
+    "role": "game-client",
+    "sha256": "ec666e851dfa11de143e529218e4e4f1a9227a8ec02a85d5903859ae889e6ec8"
+  },
+  {
+    "bytes": 12445,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/9b.json",
+    "role": "game-client",
+    "sha256": "b9fb5ab8ea8c087e9fd25b8fd33db6ff9551ea3d8aaa97ea34f171767470167e"
+  },
+  {
+    "bytes": 12227,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/9c.json",
+    "role": "game-client",
+    "sha256": "34402fa02e8de28f59f96bf7193625320dfef6eee09aff6fa86aca458b5fc646"
+  },
+  {
+    "bytes": 14789,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/9d.json",
+    "role": "game-client",
+    "sha256": "5248a990e13c64932cdad39ce05dd921c28ff80bca52277577950ebb4e3b47c4"
+  },
+  {
+    "bytes": 14570,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/9e.json",
+    "role": "game-client",
+    "sha256": "fc6c9ede7413ec94ca2094c10e2e8011b0cae06b066fee1a701325654f9293ef"
+  },
+  {
+    "bytes": 10684,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/9f.json",
+    "role": "game-client",
+    "sha256": "38a5e7426ee6610784a65887186a4c7932db2eaa5e17f5e51e6757c2aad59bf2"
+  },
+  {
+    "bytes": 14698,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a0.json",
+    "role": "game-client",
+    "sha256": "9ed6de8149b1598cdc5a4844644be72c969129d8f108f4b808509a1011a6aa35"
+  },
+  {
+    "bytes": 9122,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a1.json",
+    "role": "game-client",
+    "sha256": "524a003d3bb9015cf3d9428e9124720c71b2a33ce43c036dadc31b8de7fd5068"
+  },
+  {
+    "bytes": 9988,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a2.json",
+    "role": "game-client",
+    "sha256": "924b7bf3ba1b96e579fd4b03aef47009dd6d915d8f15dd7d33cb9cdf43f95628"
+  },
+  {
+    "bytes": 12355,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a3.json",
+    "role": "game-client",
+    "sha256": "afab93051225aceb82c390ba586f9afa45e81909d1ed5a6b635082874c11dc8c"
+  },
+  {
+    "bytes": 14910,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a4.json",
+    "role": "game-client",
+    "sha256": "83d603ffc82828992ff8c246d85ff9788f43cc54ac512fae1e2e428b5954f9b5"
+  },
+  {
+    "bytes": 9671,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a5.json",
+    "role": "game-client",
+    "sha256": "a94bc876bcb5855cc35b61b4d9694b90b63eaa7edea95abf52da9169c618459b"
+  },
+  {
+    "bytes": 14557,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a6.json",
+    "role": "game-client",
+    "sha256": "460f3dbeece9feb9cdf55cf798348c9950702fb4bc0c863ee544954676fad58c"
+  },
+  {
+    "bytes": 12794,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a7.json",
+    "role": "game-client",
+    "sha256": "ed4f25b6d76f395799f4da7539ed1adaf1a371b5351c084e4b64b376d814286d"
+  },
+  {
+    "bytes": 14105,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a8.json",
+    "role": "game-client",
+    "sha256": "eceafbd2fb382fe9c866bffc1bfe69d1a722846c6eb4404573b92fe6e89f2da8"
+  },
+  {
+    "bytes": 10595,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/a9.json",
+    "role": "game-client",
+    "sha256": "0fae0467dcf92f342412cea8d28f1d470e00b71e98947c5a11e85cf327c4cce5"
+  },
+  {
+    "bytes": 12488,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/aa.json",
+    "role": "game-client",
+    "sha256": "2f92be5d65db89947b3a31cd6eb6962e4468ce7c0147d1be640a77d3024fe946"
+  },
+  {
+    "bytes": 12528,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ab.json",
+    "role": "game-client",
+    "sha256": "9041b43332778e0a522ff3731afc5edb23d6d62cd0b9a16de0d5073bd5cf235c"
+  },
+  {
+    "bytes": 14383,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ac.json",
+    "role": "game-client",
+    "sha256": "06e7d33ca33d0bd0fc27421d90164f6df672e6ac0da36e80414f94da60837df4"
+  },
+  {
+    "bytes": 12994,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ad.json",
+    "role": "game-client",
+    "sha256": "98e49d31aea2ca4cddb0a3625bc1e921d3b50c05f73b13127cbec2ae8b3c8c75"
+  },
+  {
+    "bytes": 13024,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ae.json",
+    "role": "game-client",
+    "sha256": "7fd79e95ad6dc608343ef25ee42434414f17d76edda963dbd0134e2905ca4abe"
+  },
+  {
+    "bytes": 13157,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/af.json",
+    "role": "game-client",
+    "sha256": "0c98198cb15f8eb5c2ceea760963d5b73c915c7087ad4fc0a4f7f8ecf96f2fe2"
+  },
+  {
+    "bytes": 11736,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b0.json",
+    "role": "game-client",
+    "sha256": "f975fc6a28cb05dafe27f2bbd71c77199e63e25cc15599a62712c8c238e5a46c"
+  },
+  {
+    "bytes": 14678,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b1.json",
+    "role": "game-client",
+    "sha256": "aa172c934675446ce9e2201e21f47fb6364154e119eeb5dac64f4fbe0ea72501"
+  },
+  {
+    "bytes": 12015,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b2.json",
+    "role": "game-client",
+    "sha256": "0c7787c19643a5b1665d0aa2fb08dce29bce6757d82c77796656590182c2377a"
+  },
+  {
+    "bytes": 14784,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b3.json",
+    "role": "game-client",
+    "sha256": "15123067d0b9a7ddef8a6f34b3789620666999d0ce705a025303050b1ea6c4ce"
+  },
+  {
+    "bytes": 12902,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b4.json",
+    "role": "game-client",
+    "sha256": "5794404c7372a5998625bdb6ba787edc340d23c6810851ee561e996683fb829b"
+  },
+  {
+    "bytes": 12355,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b5.json",
+    "role": "game-client",
+    "sha256": "b4cf349733e6d2cf5e012ab0a1b4e5132da5d28bc5f1042987446dc2c0c94429"
+  },
+  {
+    "bytes": 14011,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b6.json",
+    "role": "game-client",
+    "sha256": "320a8f8c65ac0951c7bae73513ddf7b3cd07fb33dc613ff1cb7d30abce6133f2"
+  },
+  {
+    "bytes": 10374,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b7.json",
+    "role": "game-client",
+    "sha256": "c78f50ac152204bf69b477806b65cd54afb5eee9d3a096e819b5ed9401cbd387"
+  },
+  {
+    "bytes": 15301,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b8.json",
+    "role": "game-client",
+    "sha256": "c4c2ea611de3347e44f41c992d4c506e7ffdcf6883c0ebd8f995f04452cd38d5"
+  },
+  {
+    "bytes": 11611,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/b9.json",
+    "role": "game-client",
+    "sha256": "c081e601c3b5fba6803f33cd10804bb991c832b639bf64f36272cf3c2745de45"
+  },
+  {
+    "bytes": 14239,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ba.json",
+    "role": "game-client",
+    "sha256": "24bd23c6315bd07ae2bbd8a56144f429e15f384edd9002b6e85dd3543fe8d45c"
+  },
+  {
+    "bytes": 9094,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/bb.json",
+    "role": "game-client",
+    "sha256": "744e12c7027e2d1da8b3fe241873a7d047ee24a62879113e17a7f09a560b887f"
+  },
+  {
+    "bytes": 14085,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/bc.json",
+    "role": "game-client",
+    "sha256": "29659049d9dd055b6468bf0e455af5e0094a3e50538d574260a4da4eb2355532"
+  },
+  {
+    "bytes": 11420,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/bd.json",
+    "role": "game-client",
+    "sha256": "9d1e69bd0fc9e75c40132cab6244c1269b8f7bf34e658aafea83011dea25b767"
+  },
+  {
+    "bytes": 14335,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/be.json",
+    "role": "game-client",
+    "sha256": "0e20c901551c093cfe8c1a7368684ef2d7d3d8e633a479b0a38c61f83beafef5"
+  },
+  {
+    "bytes": 13232,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/bf.json",
+    "role": "game-client",
+    "sha256": "826e358f90a41ed6a0b57e33f0cdd36bfd056690808e4701648b63457314fd27"
+  },
+  {
+    "bytes": 12069,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c0.json",
+    "role": "game-client",
+    "sha256": "36499ed03eac0ed688e941b63f3c91666715ff6f1c111b8a33de2f297c4fd544"
+  },
+  {
+    "bytes": 13197,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c1.json",
+    "role": "game-client",
+    "sha256": "72df8f12c535bd140a809a893869dcdd056d5f915c7cfcfbe9085cde661f0840"
+  },
+  {
+    "bytes": 14896,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c2.json",
+    "role": "game-client",
+    "sha256": "485924e10bb6642679fa249d16073699e71a12934534ad2f5b79a221b12a1a4a"
+  },
+  {
+    "bytes": 13484,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c3.json",
+    "role": "game-client",
+    "sha256": "f1e32101a957708c1160ea25b02b0fbd3bc6be071e5d9919064b84183324b46d"
+  },
+  {
+    "bytes": 12796,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c4.json",
+    "role": "game-client",
+    "sha256": "a7c19bcd82f47fe25127f949c2002a5cce48753dcdb2f4f6e3bdd6eca35436be"
+  },
+  {
+    "bytes": 12412,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c5.json",
+    "role": "game-client",
+    "sha256": "1004f77bd38d5807d1c373021b249dd0d2f383dcfda2ddf9c7c38d5eed24d217"
+  },
+  {
+    "bytes": 12526,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c6.json",
+    "role": "game-client",
+    "sha256": "9460d219c4f0763b0a32e3e9988da9727c19fed69ff78135c1076327928fab86"
+  },
+  {
+    "bytes": 16669,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c7.json",
+    "role": "game-client",
+    "sha256": "ed992bb4ccce99ae8508be3f3c5d3d87d85beeece6ab42c462ca1ecb48cef658"
+  },
+  {
+    "bytes": 12905,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c8.json",
+    "role": "game-client",
+    "sha256": "686c2c46198ffa9715dc359a898aff85b39345b8b508e95a0d42716fd69bbe60"
+  },
+  {
+    "bytes": 11891,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/c9.json",
+    "role": "game-client",
+    "sha256": "19b4090b02b3e428c6f793e0013d74332544ae0f7918c7fce0a718a03d2d9ce6"
+  },
+  {
+    "bytes": 12509,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ca.json",
+    "role": "game-client",
+    "sha256": "ed769a98ef77a87a35f7bafcf3d296664b0cbd163a5db4e7098d0691c2b932f1"
+  },
+  {
+    "bytes": 16351,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/cb.json",
+    "role": "game-client",
+    "sha256": "7a50150785f671f2aa9f585ae805b6341580613546e24c88c18f0a5c740c8e20"
+  },
+  {
+    "bytes": 13148,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/cc.json",
+    "role": "game-client",
+    "sha256": "da3048c7c30dcb1c71acc620eadacb0a240ab746ebe5ce91d8ec5af5c35b91be"
+  },
+  {
+    "bytes": 15732,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/cd.json",
+    "role": "game-client",
+    "sha256": "47cea35347f3dce5af4d3c829b45484007695a753b8ac07981278859a19c40bb"
+  },
+  {
+    "bytes": 15067,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ce.json",
+    "role": "game-client",
+    "sha256": "9dd33836eec3139226faba063931600ee9491369475c7e51d279ab4096929e5a"
+  },
+  {
+    "bytes": 9814,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/cf.json",
+    "role": "game-client",
+    "sha256": "db9202f2a2c985bb52fed66a6ee2bd7002e5b5acb63aee6fc3d78446253593ef"
+  },
+  {
+    "bytes": 13085,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d0.json",
+    "role": "game-client",
+    "sha256": "eb94bae0fb009486abfccf377f0a373c913bc04f5cde21f9861e5caaafb4c890"
+  },
+  {
+    "bytes": 15075,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d1.json",
+    "role": "game-client",
+    "sha256": "7d7a693118ecbbb31b72548e3f41c507c43d789953b1a506f9b09412ee788cbc"
+  },
+  {
+    "bytes": 13369,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d2.json",
+    "role": "game-client",
+    "sha256": "2b5d99165c9307bc00e924397128b59c9f22c3687d539d74ef74904a3ec89a7b"
+  },
+  {
+    "bytes": 12380,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d3.json",
+    "role": "game-client",
+    "sha256": "bf5d928e49d17371bbddb292fc3963b7e8e06a12d053325021f172c952ec4ba6"
+  },
+  {
+    "bytes": 13878,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d4.json",
+    "role": "game-client",
+    "sha256": "5e79c5678c361dd3c5714ab1126197b56d43ee934e668de26e93ff1f042c5b4e"
+  },
+  {
+    "bytes": 14179,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d5.json",
+    "role": "game-client",
+    "sha256": "0fba7b49ebc352d3a0c5ad39c08163e1a46247c0e35224fd216bf33d669acd4d"
+  },
+  {
+    "bytes": 12210,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d6.json",
+    "role": "game-client",
+    "sha256": "de6be677f8ecb4fcc87733bc87b858304ca3585d8ecf1acf48868737eb8290d0"
+  },
+  {
+    "bytes": 13250,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d7.json",
+    "role": "game-client",
+    "sha256": "50bdf44c880c29b143bad62fdc6495434984ec79711b6d55431e46af7c88b8bb"
+  },
+  {
+    "bytes": 10194,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d8.json",
+    "role": "game-client",
+    "sha256": "b53d7fd22ade1e79b5f2d91bc590b22ab185695e3eb9747669961e6c53dbf86f"
+  },
+  {
+    "bytes": 13651,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/d9.json",
+    "role": "game-client",
+    "sha256": "eb3e762e39c792512bed866e7614e3a125593c621613976ea30673f0947942c4"
+  },
+  {
+    "bytes": 9351,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/da.json",
+    "role": "game-client",
+    "sha256": "5c8718c4a202d8519573983c8df8427e0d790da2e39692a475914b39d81c7c04"
+  },
+  {
+    "bytes": 15477,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/db.json",
+    "role": "game-client",
+    "sha256": "3ea2293ee5f37817ae13b7631369d76a4993cd3f7d787660d51657447c03cd2f"
+  },
+  {
+    "bytes": 12136,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/dc.json",
+    "role": "game-client",
+    "sha256": "9c3792a20fabeff14853808cb56bc3dbdd6de5184057c26e4ac3c83d543fc398"
+  },
+  {
+    "bytes": 11755,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/dd.json",
+    "role": "game-client",
+    "sha256": "887c68cc3999b00c6ddf932bd4e660fe3ddeaae64039491dacdc1c8803abc127"
+  },
+  {
+    "bytes": 12875,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/de.json",
+    "role": "game-client",
+    "sha256": "2a6e0e1d4be47326453481b88f8ec749314c0ee757642cd05180a06696055730"
+  },
+  {
+    "bytes": 11784,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/df.json",
+    "role": "game-client",
+    "sha256": "1f257f7b60c31ae956a0a6bc0c967bad98e23cf6435574bb05f6d2e9833952cc"
+  },
+  {
+    "bytes": 12501,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e0.json",
+    "role": "game-client",
+    "sha256": "8d4f542cc03b0ba46fb6015bf44e44ac664d82fd4e8993328ab61f8be71871cd"
+  },
+  {
+    "bytes": 10514,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e1.json",
+    "role": "game-client",
+    "sha256": "3e740a1aebc9d5b625c1612bd814af7f45766e31cf293abb8379ffa79231cf08"
+  },
+  {
+    "bytes": 11073,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e2.json",
+    "role": "game-client",
+    "sha256": "85966dde8e92e4828b623fd44de6ed851489cc44a3cb7ff7192df87f916f92b2"
+  },
+  {
+    "bytes": 13681,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e3.json",
+    "role": "game-client",
+    "sha256": "a9f5cec3dee7ee7aa66874514c091ebbc9d77ca68a7ba3438b2408e8466a3cd6"
+  },
+  {
+    "bytes": 16170,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e4.json",
+    "role": "game-client",
+    "sha256": "0417e25ea47bee21b552eec7fdf97719d926ee29600e09b58d9b748ffab48f38"
+  },
+  {
+    "bytes": 12794,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e5.json",
+    "role": "game-client",
+    "sha256": "d02a5cf92fd098fc89029f3d540518160702789c34675d0cb466b335bf382e03"
+  },
+  {
+    "bytes": 15484,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e6.json",
+    "role": "game-client",
+    "sha256": "3118f351f25b805a8845fe10369872c908852b14a05d34c15e553de8eb78b207"
+  },
+  {
+    "bytes": 12085,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e7.json",
+    "role": "game-client",
+    "sha256": "70ced0fe21993ed8672a4066d1e76ca606d9c9ffd461e7240691099e1190ec9c"
+  },
+  {
+    "bytes": 10952,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e8.json",
+    "role": "game-client",
+    "sha256": "75249040741740776aa84d2309167830c8335be3f00eb4ecbc4b16b11db14dea"
+  },
+  {
+    "bytes": 13738,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/e9.json",
+    "role": "game-client",
+    "sha256": "0dae2f1a1d7df1682ffd708699af246f429c84052f114cf7d78746c7d00d7578"
+  },
+  {
+    "bytes": 12606,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ea.json",
+    "role": "game-client",
+    "sha256": "4f73cb98664a5e1916eabb60eca06fcd37b2bb09f0c329646786916620b7c08e"
+  },
+  {
+    "bytes": 16733,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/eb.json",
+    "role": "game-client",
+    "sha256": "6916245bbf62914fca99f98a2012b9995d7d5b6d82138c0361358d191ca9e622"
+  },
+  {
+    "bytes": 10515,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ec.json",
+    "role": "game-client",
+    "sha256": "0a78fd1e9aa951f1b716d722e8c6970583dce8f4249a8c3fa6b66a1b80d3c648"
+  },
+  {
+    "bytes": 14416,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ed.json",
+    "role": "game-client",
+    "sha256": "d5a99c8c0c7a110802b8bc821ca50857ad690d0bbc80979e8ad7bcc722e4f4d0"
+  },
+  {
+    "bytes": 15166,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ee.json",
+    "role": "game-client",
+    "sha256": "155df848876e7e3d0bf082697fa195b96675c7030f5da9bcbf263f20cf6ea8ef"
+  },
+  {
+    "bytes": 13920,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ef.json",
+    "role": "game-client",
+    "sha256": "89be3d155795bdb8e345f1b0d53ea6667f0245c6ee9244cdebb02c971e84c481"
+  },
+  {
+    "bytes": 14270,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f0.json",
+    "role": "game-client",
+    "sha256": "98030dd22a53aaa6b06b70e9bc653f13d4979a50bfc340c7aa7fce47da39210b"
+  },
+  {
+    "bytes": 12882,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f1.json",
+    "role": "game-client",
+    "sha256": "d7c55f03ecca0c1f0628c607b7de407a099aa1cf944857131bbec26a44db70d3"
+  },
+  {
+    "bytes": 17947,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f2.json",
+    "role": "game-client",
+    "sha256": "d3a4dba2e741688ad6a7b2ac28c61d0df844adab696a3cdd69f1a207552a559c"
+  },
+  {
+    "bytes": 11810,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f3.json",
+    "role": "game-client",
+    "sha256": "2cb64661f9b954742a7086045aecbaf1ef828bb2ce287d58848be5ee2bdb9d9c"
+  },
+  {
+    "bytes": 15307,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f4.json",
+    "role": "game-client",
+    "sha256": "d823af4a80ab6ac3bf8318bb7e3dcaa078f83622f0dd0da236050b7c99261f4e"
+  },
+  {
+    "bytes": 14768,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f5.json",
+    "role": "game-client",
+    "sha256": "81a3615bc09b457d229b078ac39574e4cbb619eda622da2689e48e8c39417e24"
+  },
+  {
+    "bytes": 16143,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f6.json",
+    "role": "game-client",
+    "sha256": "4dd7834294e6dec833560eb743399c429b652b89032be476c682f1daa2b99622"
+  },
+  {
+    "bytes": 13298,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f7.json",
+    "role": "game-client",
+    "sha256": "317114354c06cbedb40b5d2eb35092ecefc16a97b24c15c1ac8d0ca5025102ff"
+  },
+  {
+    "bytes": 14123,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f8.json",
+    "role": "game-client",
+    "sha256": "f94f29fa22ed64da64d876b10e9a68556116b61bd2422da8ab1e73df1ab41cc7"
+  },
+  {
+    "bytes": 13109,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/f9.json",
+    "role": "game-client",
+    "sha256": "2994bf7a1c98ca51a6a427b51a42333a0e3c5145671ea40b09a5af8d1db67212"
+  },
+  {
+    "bytes": 10604,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/fa.json",
+    "role": "game-client",
+    "sha256": "f53a110858ad28226bd9bf903aa69cf6c93d8c5bd92f5411a0b18527c75a9493"
+  },
+  {
+    "bytes": 11059,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/fb.json",
+    "role": "game-client",
+    "sha256": "060837612f9dcda89dae72aa9d965a258d5b2daef4bd732dd98ed4b354e4a43e"
+  },
+  {
+    "bytes": 11737,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/fc.json",
+    "role": "game-client",
+    "sha256": "8a49e2f931c08c882fb7a6d81a4acbc1bf806dbd214213bf4f3ed36ae3ec2a3b"
+  },
+  {
+    "bytes": 11708,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/fd.json",
+    "role": "game-client",
+    "sha256": "c792cd187c320eb286782e31a908d7dc8a6861a25f1bbeea9bfc1d832a5a6c27"
+  },
+  {
+    "bytes": 12999,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/fe.json",
+    "role": "game-client",
+    "sha256": "fc82651452bd63aa3e6bc414699a48e5499011a2af31ca257cfe45b3fafefc46"
+  },
+  {
+    "bytes": 14159,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/addressables/index/ff.json",
+    "role": "game-client",
+    "sha256": "295d7ea5cbb2f9c8052d26dc6f5215a069e0799431274e2112c5b4f9e4b97be9"
+  },
+  {
+    "bytes": 42805,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "game-client/manifest.json",
+    "role": "game-client",
+    "sha256": "a5ad2dba561014d05f2d0f211a086abab49adf3b645aea789abe8d261cf0c38d"
+  },
+  {
+    "bytes": 12800,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterAdv.bin",
+    "role": "game-client",
+    "sha256": "0cfad23d8ed51165f7b32ae12f0fb86ff7c29d12b68f1817a45d9ad9ac20898e"
+  },
+  {
+    "bytes": 1984,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterAdvChat.bin",
+    "role": "game-client",
+    "sha256": "9a67207b4182b5c8632561648befa207e94965ae5b48dcd3e0be52fdd110e007"
+  },
+  {
+    "bytes": 7776,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterAdvPlayTime.bin",
+    "role": "game-client",
+    "sha256": "32d43d7cabd831bcba8bb8d50725635170d9c628ccfb58bfe52c8250e9957cee"
+  },
+  {
+    "bytes": 192,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaDailyReward.bin",
+    "role": "game-client",
+    "sha256": "75e5fd871cbe72952a0a69a7e160060db112b404382f1bce822dda58eae2ed74"
+  },
+  {
+    "bytes": 608,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaDpMatchingBucket.bin",
+    "role": "game-client",
+    "sha256": "e48939a80c8cb913a0d8b3ae8f122f30db7768eef62cc06ae75b2e4ca1bd1f03"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaLeague.bin",
+    "role": "game-client",
+    "sha256": "9e5d5c28b793d244765a079ea78612f5f14b2f8253c766f4cbd950ba84651331"
+  },
+  {
+    "bytes": 1792,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaLeagueRegulation.bin",
+    "role": "game-client",
+    "sha256": "3eff49c7e426bf8ecdf49bb50756d938a3c21d4726ba93f0e85054456cbed31a"
+  },
+  {
+    "bytes": 1184,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaPromotionReward.bin",
+    "role": "game-client",
+    "sha256": "5f64c1616fa6ba692bd4789175d4fb48c993d78c3d295870151a881e642cec5d"
+  },
+  {
+    "bytes": 1152,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaRank.bin",
+    "role": "game-client",
+    "sha256": "e0684f37edc07b5e2281921ad7b528c4cf52481f4607f023cecdff1432580a22"
+  },
+  {
+    "bytes": 768,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaRankingReward.bin",
+    "role": "game-client",
+    "sha256": "3663eca5e6a5cdf1ae37bf75ad57f4faacae0db414d7a5e79a840428b6f12785"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaSeason.bin",
+    "role": "game-client",
+    "sha256": "2e61921e91793f101c894f054567600a302e52f5a9f7909e5f56b9b4dd7756b4"
+  },
+  {
+    "bytes": 1376,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaSeasonReward.bin",
+    "role": "game-client",
+    "sha256": "fe2e88f657fd5ca16c7b48ab307807d22e0e3962f5abe1fc5e6d2c1eb37af19c"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterArenaSupportItemEffect.bin",
+    "role": "game-client",
+    "sha256": "1cb5a97c6a34be11c1709e9e4c3b67e47cdc3743964e6174596cc99f4d5a004f"
+  },
+  {
+    "bytes": 768,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBackground.bin",
+    "role": "game-client",
+    "sha256": "1f343fcb1f312cf5af1ec62f65ff5005fc09f1bffae38a20ce8fa5d69317d362"
+  },
+  {
+    "bytes": 512,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBand.bin",
+    "role": "game-client",
+    "sha256": "128bf4d0748987954409cd5800f60f21634d868d289c615872c1f717eebf719a"
+  },
+  {
+    "bytes": 512,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBandItem.bin",
+    "role": "game-client",
+    "sha256": "c7707144109535397acf187f490d4e7bb94ff9afa3abe02a293cf95fde752d0e"
+  },
+  {
+    "bytes": 4672,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBandItemLevel.bin",
+    "role": "game-client",
+    "sha256": "b77b1e7c7aedc861f07e58c4a04610fa34dfa280ed839162da740504d47ccd39"
+  },
+  {
+    "bytes": 9920,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBandItemSkillEffect.bin",
+    "role": "game-client",
+    "sha256": "f483eba82055305b08c286c82c67a7df3f8b806a1f2b3007b8a3fdeecfc47886"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBandRank.bin",
+    "role": "game-client",
+    "sha256": "e2ba60929ce663442c3e5175b308120c1c031af32d538b629bfeab60170cb6c0"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBandTypeRank.bin",
+    "role": "game-client",
+    "sha256": "1f2b8ef3e0f6bc2a184602de2575d3b33a0d60350b57c2b8b0fa0a2aaff0149e"
+  },
+  {
+    "bytes": 768,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBattleLivePlace.bin",
+    "role": "game-client",
+    "sha256": "2ad3121d924dc912d57890c80ae6859ec0eef799e8b5ef0006938d07794e70d8"
+  },
+  {
+    "bytes": 1248,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBattleLiveReward.bin",
+    "role": "game-client",
+    "sha256": "029d0b90aca41064a88a32604f872f97867f6d21d10763245f03efd29a51f71e"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBiliChatBubble.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBiliChatFrame.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBiliChatTheme.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterBiliParameter.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCampaign.bin",
+    "role": "game-client",
+    "sha256": "fee83b6ee2dcec85e5333be4bcb2413d6ed73f86f89ee0f931fad58a08811eea"
+  },
+  {
+    "bytes": 736,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCarouselHelp.bin",
+    "role": "game-client",
+    "sha256": "6e3772edd31a515d0f3e27a3461893356573a8579baf6fb2fc15551b93b756a3"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterChallengeLiveEventPoint.bin",
+    "role": "game-client",
+    "sha256": "7bc9e6bcd7b2aaff09ee46f1c52e75d0946566de8ecfac07bca4c3f009b2119f"
+  },
+  {
+    "bytes": 448,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterChallengeLiveEventReward.bin",
+    "role": "game-client",
+    "sha256": "847686bc1516b39489b2acf05f1b0a00f77fee0b36e4fb18c0aa0f4b48503a0d"
+  },
+  {
+    "bytes": 416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterChallengeMusic.bin",
+    "role": "game-client",
+    "sha256": "b9a29f94358ddd51621550de273bf684d1ce7fad60e75cbfd50ec2716c02c1a4"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterChallengeMusicBoostBonus.bin",
+    "role": "game-client",
+    "sha256": "9f4f1943588ad441e5f3a3eaaf57c8396bb4abd3e90171ad6cf89067923af02c"
+  },
+  {
+    "bytes": 1888,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterChallengeMusicRankingReward.bin",
+    "role": "game-client",
+    "sha256": "84dcfaebf036d7b256c6b36c2308ff92fa166739c7fd24bacb97d0156cf5054b"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterChallengeMusicTotalRankingReward.bin",
+    "role": "game-client",
+    "sha256": "85d2b85fbccc37d5cf42851415413b29f4fb8ef62886f867329249dc61786be5"
+  },
+  {
+    "bytes": 2528,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacter.bin",
+    "role": "game-client",
+    "sha256": "03f2856df8ecdb266540984b0707280fb99caf9e5ed50bdaef0df7d0ba542284"
+  },
+  {
+    "bytes": 2048,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterCostume.bin",
+    "role": "game-client",
+    "sha256": "81f7a692e721e11a825db3477d1a6c5a59764509ae567d5e2c8f1c50dae506ea"
+  },
+  {
+    "bytes": 928,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterCostumeGroup.bin",
+    "role": "game-client",
+    "sha256": "b6c4ff581d4dfc55fa43465bf97fb3be96e049de8846b5a9d4e1c6739b891954"
+  },
+  {
+    "bytes": 672,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterFriendship.bin",
+    "role": "game-client",
+    "sha256": "268715db637e0d14b24c03fe14566f844a00c3495dff996b9dc41118e3d77fc0"
+  },
+  {
+    "bytes": 544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterFriendshipRank.bin",
+    "role": "game-client",
+    "sha256": "3b228f7ffd2af2de2b3ac272cd777816af66a9425a2925e150db5a043f03bef7"
+  },
+  {
+    "bytes": 2336,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterFriendshipRankReward.bin",
+    "role": "game-client",
+    "sha256": "ae684f661ea2f98be817b0051e9801f12da598050b1b8dbd00b810597850e8e6"
+  },
+  {
+    "bytes": 13120,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterMission.bin",
+    "role": "game-client",
+    "sha256": "bb0a32f1740b5cde8942b3a21fb157387d11579ab20cd544e994959ba25e4e65"
+  },
+  {
+    "bytes": 672,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterRank.bin",
+    "role": "game-client",
+    "sha256": "26670321cd8c6efb240e5d93e431aad5dfdfa6b474eeb6e973a11ae742e28e4c"
+  },
+  {
+    "bytes": 2176,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterRankReward.bin",
+    "role": "game-client",
+    "sha256": "22bb046cb0740dd88efe85f5e78eec55e3ecd9c5e63730053c1e0205b2aa7b19"
+  },
+  {
+    "bytes": 576,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterTotalRank.bin",
+    "role": "game-client",
+    "sha256": "6ad0857e71bfa9e1ef62b3f085b17c986cea1a662a260b0d8d1e442dfd631449"
+  },
+  {
+    "bytes": 5184,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCharacterVoice.bin",
+    "role": "game-client",
+    "sha256": "688ab0d756c5648148a24a2e9a5054a836d8ad48f15ed606401569ca3b13344a"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCircleMission.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCircleMissionReward.bin",
+    "role": "game-client",
+    "sha256": "4e39a219553c488e6ceb63ad5e7d7a30af1973e0b0bdc47aa4aeb31a9d09cb4f"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCircleRank.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCircleRankUpReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCircleRankingReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCircleWeeklyRankingSettings.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterCommonTrigger.bin",
+    "role": "game-client",
+    "sha256": "f39250de26a9ebf8e96eee151d0ac341b84a78eb828e707e3a8f86de4a3d6be2"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterContentUnlock.bin",
+    "role": "game-client",
+    "sha256": "ae0cfe8a4aacea3bb0e21d44e5751b3961ff0b966ed0a609f669cc9fe81692b4"
+  },
+  {
+    "bytes": 42,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "game-client/master/MasterDataSystemVersion.txt",
+    "role": "game-client",
+    "sha256": "602cef1a0898f7cfaca80fb5afaed096d2f47bf48c74db16a79e5ae69dd48a47"
+  },
+  {
+    "bytes": 11264,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterDegree.bin",
+    "role": "game-client",
+    "sha256": "2841779d50bd545058bfd648946348ad839877c840ed4331a7deb39bb4227201"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterDisplayTarget.bin",
+    "role": "game-client",
+    "sha256": "e8b025a4b7e91b8f323c96eb9d8e4b16a632700ff3dbbb3357b1b99c9722dc61"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterDownload.bin",
+    "role": "game-client",
+    "sha256": "0be71fb67de4f9192fd3cd1a14c0ea9bbc14d8f051d32b951f00fa3886b06054"
+  },
+  {
+    "bytes": 640,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEvent.bin",
+    "role": "game-client",
+    "sha256": "a911b9b8cd08cbbde28e7c69018aa73a07e3f01388966efbe15ad4d68849ca31"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventAchievementLoopReward.bin",
+    "role": "game-client",
+    "sha256": "a669a9639636a147bfd166ccbc0808355259f2c06ef51d243a076c134d6ed3b8"
+  },
+  {
+    "bytes": 2592,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventAchievementReward.bin",
+    "role": "game-client",
+    "sha256": "9cf22280b67bb23993a13f53b9d7ee279147fe899876f6b463d345d9003a3377"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventBoxGacha.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventBoxGachaReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 1280,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventEffect.bin",
+    "role": "game-client",
+    "sha256": "233b266d9da85cd5b36f35a1f7f7adf9cee4dcb5e63cbd091537e2584ac1e363"
+  },
+  {
+    "bytes": 1728,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventMission.bin",
+    "role": "game-client",
+    "sha256": "7ec25a205d2e0630f2b136c7234d0587ad2fbc8e5874b970204ad285e6eb4004"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventPickUpCard.bin",
+    "role": "game-client",
+    "sha256": "8a73a9753cb646d69910cab72e17ad3e27b161c374abd02e4072aa4aa6407a18"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterEventRankingReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 1024,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterExchange.bin",
+    "role": "game-client",
+    "sha256": "c4d23faf4e75c01c9bcf3445d2346e70a2abbcf672d32792173d06f73eedecdd"
+  },
+  {
+    "bytes": 416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterExchangeCategory.bin",
+    "role": "game-client",
+    "sha256": "6ab15ccd3a6c08fbc0e970d88ec765c31102113709c197a5d8f02cb7d60c63d1"
+  },
+  {
+    "bytes": 4416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterExchangeProduct.bin",
+    "role": "game-client",
+    "sha256": "088b790cb07751fc7f38433215a13d02cf4c87326e109f26cef937f2c82e4e39"
+  },
+  {
+    "bytes": 544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterExternalContent.bin",
+    "role": "game-client",
+    "sha256": "8684bac76ce30c2790718a47a14aca9566911bc717816d3cf62dd306be7cb1e6"
+  },
+  {
+    "bytes": 480,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterFaq.bin",
+    "role": "game-client",
+    "sha256": "5a87e9e7cd230c9dd567bd6b7f336b8d17b3f292f59c32ea2f74efd1f771faae"
+  },
+  {
+    "bytes": 1632,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGacha.bin",
+    "role": "game-client",
+    "sha256": "2b0c17a6a8902d51ea403a3f2e271df80be2142df899a7392eb375cad4358c58"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaBonus.bin",
+    "role": "game-client",
+    "sha256": "5150d8d723a316b780106894c37de09b9a9af9fe6b26723387d65cf18ee8fee5"
+  },
+  {
+    "bytes": 416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaBonusLot.bin",
+    "role": "game-client",
+    "sha256": "bbf5442f7d3ef913c08ee140045db100e23f4f1565f1cbed14c5346bcbcc16e6"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaGimmick.bin",
+    "role": "game-client",
+    "sha256": "c3736625a8f4cde2beac38fa3210a5684d102c34600e0a3b27539d8a70ed50b2"
+  },
+  {
+    "bytes": 1184,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaLot.bin",
+    "role": "game-client",
+    "sha256": "6e974e61561133c3aaa6043c21cdffdd55483a20c5b4381f6144287af174dea5"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaMemberAnimation.bin",
+    "role": "game-client",
+    "sha256": "a4bd805300f876b66797416413c8f5aa204236397bc5299259a03960ff199b4b"
+  },
+  {
+    "bytes": 928,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaMemberAnimationLot.bin",
+    "role": "game-client",
+    "sha256": "f2b3f6392782bd5c7d871bb3a6af3f1240ae52c8f55a1002fb5f034521745580"
+  },
+  {
+    "bytes": 3584,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaPrize.bin",
+    "role": "game-client",
+    "sha256": "8d5dd546c1fe16652782dc55d52b250b7a0940b0b0650361250e0a5d4ac99f35"
+  },
+  {
+    "bytes": 736,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaProduct.bin",
+    "role": "game-client",
+    "sha256": "1010c0fd72d0912f825158d3e7815ea21010a5626a6fca7d06c4ecf9b4ca3b58"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaSnapAnimation.bin",
+    "role": "game-client",
+    "sha256": "61a2b069436fa3eb2dbdb08fe76adebeea3337a238afb913fb09019928e38065"
+  },
+  {
+    "bytes": 544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaSnapAnimationLot.bin",
+    "role": "game-client",
+    "sha256": "f8804a4b44e80b9c17e13ec32e70e397255508ea3b162d1b0da28e797ee7dc4f"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaStepUp.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 928,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGachaView.bin",
+    "role": "game-client",
+    "sha256": "908d5ed19caef9928d47c69776be9d2353bd07232a537b2f7a79a7a146579f30"
+  },
+  {
+    "bytes": 448,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGekisouLiveRankReward.bin",
+    "role": "game-client",
+    "sha256": "bea8739889941f0c0f380914e72b96f41353d56c50642bbcb02fe2ca665e0bff"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGekisouLiveRankingEventPoint.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGekisouLiveRankingEventReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 576,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGekisouSkill.bin",
+    "role": "game-client",
+    "sha256": "ca302211debeb935a41f8d5dc5737eeab04fd2a7fcb421dbe376276d7361e049"
+  },
+  {
+    "bytes": 2496,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGekisouSkillEffect.bin",
+    "role": "game-client",
+    "sha256": "e510f00e53981c7e0c85b00fdb60562c2b48f4ce2d0759e0c5fba093f29b77a8"
+  },
+  {
+    "bytes": 1568,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGekisouSupportSkill.bin",
+    "role": "game-client",
+    "sha256": "598656aaff800b659518eb998be68907d18b60a243d042deef1a09f999d0f733"
+  },
+  {
+    "bytes": 15872,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGekisouSupportSkillEffect.bin",
+    "role": "game-client",
+    "sha256": "3ca9d7494f54da448eb6e1c072263ab44f8351a9a862a6315dc341e75c79e7a9"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterGemHistoryReason.bin",
+    "role": "game-client",
+    "sha256": "4638b4b112eef59c96860c7827a96e75abd934c4b5bceee8da0e9a0160ea32fb"
+  },
+  {
+    "bytes": 416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterHelpCategory.bin",
+    "role": "game-client",
+    "sha256": "3bb90865a6e4ec7146842bfef3a6cc9a772416f57d0ac9b77190781b95cd2afa"
+  },
+  {
+    "bytes": 1888,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterHelpSubCategory.bin",
+    "role": "game-client",
+    "sha256": "da29d47bccceec6f0443d776ba61d72db6695380a25f5d6f1cb0bcdaecab67dd"
+  },
+  {
+    "bytes": 896,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterHomeBanner.bin",
+    "role": "game-client",
+    "sha256": "4d6cd9b40eb5e952e361da9c5ca4de387ca49c908e0e7a35535b461b086c6523"
+  },
+  {
+    "bytes": 2400,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterHomeSpot.bin",
+    "role": "game-client",
+    "sha256": "6f56ab04a4487184ddceb1102026eaa4658e0dddc7179090391a7ce0bfc506d8"
+  },
+  {
+    "bytes": 192,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterInvitationImage.bin",
+    "role": "game-client",
+    "sha256": "3ba18ba5c28a96f56f616a517dd7d84966f9171dd874b9fe9c2d95f217df7546"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterInvitationMission.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 160,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterInvitationReward.bin",
+    "role": "game-client",
+    "sha256": "fb79c8720c004e1a41fcb1782d5915f2c2c87c8f06ef74489c7db2ea99fbff95"
+  },
+  {
+    "bytes": 192,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterInvitationSuccessReward.bin",
+    "role": "game-client",
+    "sha256": "1a5ba769e4e5f82661da80141ffaeaf2c409d4924260d231f98c9063aeb28355"
+  },
+  {
+    "bytes": 4256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterItem.bin",
+    "role": "game-client",
+    "sha256": "6a7672f73f1517bb26467ebe341e6d58c222de08183cf04040279508bb7fc930"
+  },
+  {
+    "bytes": 2432,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLeaderSkill.bin",
+    "role": "game-client",
+    "sha256": "c45f72d16ff65041b7faf9e0c416acfda8c86af3dda459f486b7e57493b9d54f"
+  },
+  {
+    "bytes": 13536,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLeaderSkillEffect.bin",
+    "role": "game-client",
+    "sha256": "3a093032c78aa2c93d93c394a2b47f99c02f4a817025bcf7b7d3e8ccc90607ac"
+  },
+  {
+    "bytes": 2656,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLimitedMission.bin",
+    "role": "game-client",
+    "sha256": "a020f9c003d4061c0c0f943f273b4199c60a1bc459ecb827616dc8d6f65e3de6"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLimitedMissionGroup.bin",
+    "role": "game-client",
+    "sha256": "1cbf1cc5fee6067848650959e23e71c8f40fbf9669015a1ea6bd47dd20440e31"
+  },
+  {
+    "bytes": 4320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveArenaRankReward.bin",
+    "role": "game-client",
+    "sha256": "e8727db3bb54980a2b817a99cf12e6e3658235bc6c9986338fd922daebd3a65e"
+  },
+  {
+    "bytes": 1248,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveArenaReward.bin",
+    "role": "game-client",
+    "sha256": "029d0b90aca41064a88a32604f872f97867f6d21d10763245f03efd29a51f71e"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveBandHighScoreRating.bin",
+    "role": "game-client",
+    "sha256": "15440a45e3e3e53ca6115773f756eb528b79ecc0f76045f4a4376602208e6fd7"
+  },
+  {
+    "bytes": 704,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveCampaignReward.bin",
+    "role": "game-client",
+    "sha256": "187747aeeb2c885b564929aebb284a7f7ce3d5f0b065bb05df9b8dd0081015b3"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveChallengePoint.bin",
+    "role": "game-client",
+    "sha256": "823196e9c9d3d9902937ef9877aadc87e57d66dd9619465092010a8292be6ce4"
+  },
+  {
+    "bytes": 736,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveCharacter.bin",
+    "role": "game-client",
+    "sha256": "3057b775d3c7f1903e9956d5026105ef2df2cd5d3d31619cc398c74ccf9ffcbc"
+  },
+  {
+    "bytes": 448,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveCharacterOption.bin",
+    "role": "game-client",
+    "sha256": "8095fca19569c3a67e1da423c03252e44e678d712b6e9fbb15d99f45fb016d15"
+  },
+  {
+    "bytes": 768,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveComboScoreBonus.bin",
+    "role": "game-client",
+    "sha256": "9a66942fc7d9f9284e07be19efb48dec21015b2b7599e70f4fdc8587a3efd7bd"
+  },
+  {
+    "bytes": 1280,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveDialogueCommon.bin",
+    "role": "game-client",
+    "sha256": "976165deb81ed6e88860c52e4c39bc330d66c0e965aee14f93538d1d5ffdce6d"
+  },
+  {
+    "bytes": 4096,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveDialogueFixedPair.bin",
+    "role": "game-client",
+    "sha256": "6a1f699e580538ecb2c660f85294a4e35ade024a566acd911a81355a4666c54e"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveEventPoint.bin",
+    "role": "game-client",
+    "sha256": "9ee97da445073611e8f9814c5ab2652578e3756500dc45570cb8f846801c0b5a"
+  },
+  {
+    "bytes": 448,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveEventReward.bin",
+    "role": "game-client",
+    "sha256": "59baaa612396dc3cc79897ec37d8a2e45be567fc120677e3b1f519b7cafc7487"
+  },
+  {
+    "bytes": 1248,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveFreeReward.bin",
+    "role": "game-client",
+    "sha256": "3e8275cd63380f39f07f611d18351e8f0aeed6583e59aa589c0c5dbfe9cd0f32"
+  },
+  {
+    "bytes": 192,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveGekisouCall.bin",
+    "role": "game-client",
+    "sha256": "4a9757a5e05d46cc47cad4990312d59fdefe894758c94d8e175c98f493092b77"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveGekisouLuckBasePoint.bin",
+    "role": "game-client",
+    "sha256": "dabebeb7570c57d86b0c35d08d0ae0bc1352565d3aa20f9c49be47fbcf5b2edd"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveGekisouLuckBonusLot.bin",
+    "role": "game-client",
+    "sha256": "c0cc9e8b0ff9e4c57de235c9b84625c63974c3d4a78afe6db2279f07f76f661f"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveGekisouMatchingBucket.bin",
+    "role": "game-client",
+    "sha256": "a6c5ca4fd8492e296a52ef41875f5bb8e92381990c4f88c2cf41f72d129533fb"
+  },
+  {
+    "bytes": 544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveGekisouRankingScoreBonus.bin",
+    "role": "game-client",
+    "sha256": "5307a57bdd70cc9d6d103f93c1a4f05c518fc9a082a8dab0e8f05ee819abb25d"
+  },
+  {
+    "bytes": 1312,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveGekisouVoice.bin",
+    "role": "game-client",
+    "sha256": "f6f5db4cec6746ee4fa2ce11b1613f578c3384bb01bb03ba9300ca325b309b24"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveHaptic.bin",
+    "role": "game-client",
+    "sha256": "7704575d87593afda92cf1fc76f451d8559330f52aa77d7400e15146fc001325"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveHapticRecipe.bin",
+    "role": "game-client",
+    "sha256": "369d91606f1b5173742b6ece897a9a2912f501ef156532ff87066e450e1030f5"
+  },
+  {
+    "bytes": 576,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveJudgementAreaOffset.bin",
+    "role": "game-client",
+    "sha256": "720613cd13e983400a9ef6e5655dd3dbb95aac06fddb82649430ee11856afc30"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveJudgementParameter.bin",
+    "role": "game-client",
+    "sha256": "562169f6ab8b7d1a86e650e2ddf3bf6edf0c7516799340023216d9ac619a4113"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveJudgementSprite.bin",
+    "role": "game-client",
+    "sha256": "116f9013dbe692bdc7d1585d05dbb88d24f614bab5962d54a4dbc2cb3734cd95"
+  },
+  {
+    "bytes": 2720,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveJudgementTiming.bin",
+    "role": "game-client",
+    "sha256": "55ea71f9f0020b954dc3811a1c17029bd0df689d69b2f5d0c321857c293c8d5e"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveLaneSkin.bin",
+    "role": "game-client",
+    "sha256": "fd5840e8e579090b66cc6e82c47ba8fa19863f59bef10e0ebb209449fe11a8bf"
+  },
+  {
+    "bytes": 8352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusic.bin",
+    "role": "game-client",
+    "sha256": "2f36c17ad64aa1bae412404f60c1def97e8dd910e36dae4ed5bceef0ad953312"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicAnotherVocal.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 480,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicBoostBonus.bin",
+    "role": "game-client",
+    "sha256": "9de5a75b5db8bb2b4cd8a53601b7101bd6a23f353c8c5435718f515016d558b1"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicCategory.bin",
+    "role": "game-client",
+    "sha256": "3cb46beb5c0fea60b1b13b9d41f58a2fa222e72253ed7a6cf3bbab9ac4e9b43a"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicComboReward.bin",
+    "role": "game-client",
+    "sha256": "68868d16b7eb361d82e1a5b6ef0493030d405f3635db333cd2778337c95a1a00"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicExpReward.bin",
+    "role": "game-client",
+    "sha256": "cbc2c500f2769f3c212f418a648762d662d6c53cf6fd28af4d841388d384c5ea"
+  },
+  {
+    "bytes": 1344,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicLightColor.bin",
+    "role": "game-client",
+    "sha256": "adb3d9e073a140c26e8fb5e9947c623defb8c4c8b8b790642926fda61be334f8"
+  },
+  {
+    "bytes": 576,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicPenLightColor.bin",
+    "role": "game-client",
+    "sha256": "a78bf7db6b53e94445f31930fe6277d83c9a11ca62bc3863f2ce17c74d4e697e"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicReleaseEffect.bin",
+    "role": "game-client",
+    "sha256": "4b63e12854b8a15c59f100a4e3693b6c9bbf7e032253400dba6957c322f2b467"
+  },
+  {
+    "bytes": 4640,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicScore.bin",
+    "role": "game-client",
+    "sha256": "948f9fda4b0dc9efc88db1bb2a043ef3ab8cd5b497e691598903018e5cefdd08"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveMusicScoreReward.bin",
+    "role": "game-client",
+    "sha256": "9af93224777db5941539767f430a27bed1ebc12e085b0f90971822a8524bb7d0"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveNoteEffectSkin.bin",
+    "role": "game-client",
+    "sha256": "6bed4fa08ac4b26604ed4ce580c8ff5f735f7d25072f8fb788cf2b62427e7151"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveNoteParameter.bin",
+    "role": "game-client",
+    "sha256": "683b91f1c3c2ff64d0b3911bb95573505b92ec70262c32e7816c16c06ff8728c"
+  },
+  {
+    "bytes": 640,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveNoteSe.bin",
+    "role": "game-client",
+    "sha256": "b40c0ba749d5b5fd8884ef417529fac7d41ed2d1cccad9f85dd9d39c4ee42344"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveNoteSeGroup.bin",
+    "role": "game-client",
+    "sha256": "e79353b413f54e8be1a4985ec5df52bf3c4c9a50064ec7e231ab7c5ffffa0ef4"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveNoteSkin.bin",
+    "role": "game-client",
+    "sha256": "8f1d92b9e031bf84125405ad9a9e0cf427d8ad406b8f7e80b4efb0be1cc72cf5"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveQualitySettings.bin",
+    "role": "game-client",
+    "sha256": "0635dd0a4ff06a2669cd24a349824cbd5ef7da38dbf8f1d2270dfb02debe36c7"
+  },
+  {
+    "bytes": 8928,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveScoreRank.bin",
+    "role": "game-client",
+    "sha256": "34cae79eb81dd4785eb8c3eecd4f8078ce780135cbe1e19ab20828b160222c51"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveSe.bin",
+    "role": "game-client",
+    "sha256": "98db52aece51adb1467862387450077866b5a9f5c70117f0084d00a60d47a7a6"
+  },
+  {
+    "bytes": 1312,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveSettings.bin",
+    "role": "game-client",
+    "sha256": "10c9403d79b18fdf2f8de6506f544bcffd27b6944bbcd0baa720c36bfbfac51e"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveSkill.bin",
+    "role": "game-client",
+    "sha256": "7595f1f4436a41a4980e12c87182d7c1604cadc3797e554af09981bf898cd768"
+  },
+  {
+    "bytes": 1152,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveSkillEffect.bin",
+    "role": "game-client",
+    "sha256": "0c6954d8f5b087fb5b5f26759e9b9c6e0a6ae36bd135bc3f359b9a5450db88dd"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveStageVideo.bin",
+    "role": "game-client",
+    "sha256": "18b4a7a079f05f72ef60fb0a3dd177f934c00c52b125269c6d19219c1b000694"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveStamp.bin",
+    "role": "game-client",
+    "sha256": "f346a0fd1b750eed5e70adf821f111518effe2bbe9ffebe49c20b772b4dec7f2"
+  },
+  {
+    "bytes": 1504,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveStartCharacterVoice.bin",
+    "role": "game-client",
+    "sha256": "465c2c6520fa4eaecb539c363129a78161c1b9d537416345117efc7089a9aff5"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLiveTotalHighScoreRating.bin",
+    "role": "game-client",
+    "sha256": "3b3c015bb3497a9d64e591bf2135ab1c0823475aa5278a0a31af8babd3a0e49c"
+  },
+  {
+    "bytes": 544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLoadingComics.bin",
+    "role": "game-client",
+    "sha256": "aca92d723c4bd08250c71b209a3e448085248103dbac2eab47c96b422af24f1f"
+  },
+  {
+    "bytes": 448,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLoadingTips.bin",
+    "role": "game-client",
+    "sha256": "81d6a6b0e8e50058001ee0c6f9363149ff745686c3878f31cfcc22bbc9a58714"
+  },
+  {
+    "bytes": 576,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLoginBonus.bin",
+    "role": "game-client",
+    "sha256": "bd154e4c6f4f32af1b381d941fd047866dc39719bbbb0bc25ec877919d227a91"
+  },
+  {
+    "bytes": 768,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterLoginBonusSlot.bin",
+    "role": "game-client",
+    "sha256": "744f0a4a44e1cd41e9818dac3a6e1d165ad9d43f42f81977db0a4cd75656ce3b"
+  },
+  {
+    "bytes": 4320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemberCard.bin",
+    "role": "game-client",
+    "sha256": "a62ed92a92348eab76024ab0affba72a520a878793a8fbf15a70b415d45f017f"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemberCardAwake.bin",
+    "role": "game-client",
+    "sha256": "67ff1def325ecbfc95887e1e8cffa279da57b9c41828081d5a836fcf248612bb"
+  },
+  {
+    "bytes": 2752,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemberCardAwakeResource.bin",
+    "role": "game-client",
+    "sha256": "b21b9a468a1b21a4d7b3c78f9b792c53e5cd74cb6b9d10b2e17bfe000069a89d"
+  },
+  {
+    "bytes": 5088,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemberCardLevel.bin",
+    "role": "game-client",
+    "sha256": "150710372d8dadac7c8267de8ab4640c85678cdc52113b30a84c8d0135a0681c"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemberCardLevelLimit.bin",
+    "role": "game-client",
+    "sha256": "c018d90d22526473b1698b9f8dd4bc30c803c4fed85d570f68416563f402b8d4"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemberCardRank.bin",
+    "role": "game-client",
+    "sha256": "4b5f2091b737a57cab91f8d2be58f52106601cfb55c1589ee07d685d2239cdd4"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemoryMemberLevel.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemoryMusic.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemoryMusicBonus.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemoryMusicGroup.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMemorySupportLevel.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 10528,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMission.bin",
+    "role": "game-client",
+    "sha256": "c8419fed6447d5eac7eecb6250c2ae43815d74872adadaff27a2d6e84aa64829"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMissionLiveChapter.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMissionLiveMission.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMissionLiveRewardGroup.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMissionLiveStage.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 3488,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMissionReward.bin",
+    "role": "game-client",
+    "sha256": "ed8700175e23d308a5eb2eec18f5ec9944431e11e4dcf84247665e6c012e12e2"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMonthlyPass.bin",
+    "role": "game-client",
+    "sha256": "7ee27f937067174466c4b54332fe8017b3d2f5ca2ad75c591f8e75637ce47103"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMonthlyPassContinuationReward.bin",
+    "role": "game-client",
+    "sha256": "4c28ffbcb504dc39600bd3b8d06b7058690f7e23b58e50d665b2ca02722e3204"
+  },
+  {
+    "bytes": 800,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMonthlyPassDailyReward.bin",
+    "role": "game-client",
+    "sha256": "f9b739beafcc752841bdd83dba0f0e6eb89bcf69ef061f8d34607de592d45ab8"
+  },
+  {
+    "bytes": 192,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMonthlyPassFirstTimeReward.bin",
+    "role": "game-client",
+    "sha256": "b687e8d969a8b8ff2d63fdd2ec1641686c7f7e32633f5825f1e22ebac3ccc089"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterMonthlyPassPurchaseReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterOfflineBonusExpFactor.bin",
+    "role": "game-client",
+    "sha256": "e80a8527ffb73186c36251852780aabd8708f6068b723f861420de622fe94c6f"
+  },
+  {
+    "bytes": 1088,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterOfflineBonusItemLot.bin",
+    "role": "game-client",
+    "sha256": "106786fa5d5744b2877e3847af599a3b27d312609dcc8fa18da8ef7a67a9f1c4"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterOfflineBonusUnit.bin",
+    "role": "game-client",
+    "sha256": "69668e8579b7e1480181cc8cce410084b0b2ac52e5126d5a538e3b1e88e79a42"
+  },
+  {
+    "bytes": 12000,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterOfflineBonusUnitLevel.bin",
+    "role": "game-client",
+    "sha256": "1e9e398cd702460b5f8d103c7f53ed994fdbd4e288b4442ac7e21b870ad70012"
+  },
+  {
+    "bytes": 2880,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterOptionDefault.bin",
+    "role": "game-client",
+    "sha256": "838d72d29bb2cc38f2a8a8cf9db234dd145e8121ab219e486902304604b1d675"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterOptionPresetDefault.bin",
+    "role": "game-client",
+    "sha256": "87a57dc5613a32998e985c3edf824da622ca052cf1987ba6047035f8086ae002"
+  },
+  {
+    "bytes": 448,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterOptionRange.bin",
+    "role": "game-client",
+    "sha256": "b7edfcd5c94470ed675dc9e9413512dcc4ae5958fc7a15067d4042dade991810"
+  },
+  {
+    "bytes": 1536,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterParameter.bin",
+    "role": "game-client",
+    "sha256": "b460aca8c3822bf3d413d835e99cb0420ccaa186796bffa17c2afa5c84f5959d"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterPieceExchange.bin",
+    "role": "game-client",
+    "sha256": "43a5fb40772bf359bc6f0e8a9f3f375004c8d3e7423668eeda1958fa011b922d"
+  },
+  {
+    "bytes": 4064,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterPlayerData.bin",
+    "role": "game-client",
+    "sha256": "3678f54da37d5a4bbb96e078f24be5a4ce8064550aed0197f913fcd1b3ac7971"
+  },
+  {
+    "bytes": 5056,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterPlayerRank.bin",
+    "role": "game-client",
+    "sha256": "ff5c2318fd3b976a16d716c17b35a90ab79fd4253314bbb5053b15a02cee0ae3"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterPlayerReport.bin",
+    "role": "game-client",
+    "sha256": "3342c3c3d798f475d1a1bbfa7f419484ee5e1597b75a9c972073fd98a8de026e"
+  },
+  {
+    "bytes": 544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterPresentType.bin",
+    "role": "game-client",
+    "sha256": "8cb9e9e692388d24741d97985eb43937588ae42a4c988c63f1a61ae24dd0356d"
+  },
+  {
+    "bytes": 320,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterProfileCardItem.bin",
+    "role": "game-client",
+    "sha256": "f7066012d9db4595c1fb8a3188e151e38c37ad19a24960db3ae8200e59049976"
+  },
+  {
+    "bytes": 288,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterPromoImageLanding.bin",
+    "role": "game-client",
+    "sha256": "3c761575df04129531ce13b78eccb3dee8d08c7f9bdd7fc2add57f06aa9468a0"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterPromoVideoLanding.bin",
+    "role": "game-client",
+    "sha256": "9088a73e7fd4aeb2163a4212232d9036c63c10e744e1fc5b15e181bff98fdca7"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterRealLiveSchedule.bin",
+    "role": "game-client",
+    "sha256": "9a8d681e35c6511e7ff5feb372c9fab5ffc9364298eba4bcf5703cae09a2ba00"
+  },
+  {
+    "bytes": 2624,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterReward.bin",
+    "role": "game-client",
+    "sha256": "9dbd090e4a9b63d1fd450292094b5ce599a29dd17ae2d95cf2d7f385d87bbbc7"
+  },
+  {
+    "bytes": 576,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSeasonPass.bin",
+    "role": "game-client",
+    "sha256": "c79c350c53695834443f36a82dc3b0905a7dfe280f37dd81eba564332d2fd8a1"
+  },
+  {
+    "bytes": 512,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSeasonPassLevel.bin",
+    "role": "game-client",
+    "sha256": "681ecf2da5cedd6606101046bcbac1c2ed22b61edbe5075ddcdd3b37be1a8e15"
+  },
+  {
+    "bytes": 2336,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSeasonPassLevelReward.bin",
+    "role": "game-client",
+    "sha256": "22de64ef7eb10e7deff277fcdded90fb64dc4e3dd81269f955bc960eec067138"
+  },
+  {
+    "bytes": 4736,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSeasonPassMission.bin",
+    "role": "game-client",
+    "sha256": "39acafed3c7cb93fe01546a0374f0cd68af0d8176164bf936a85c96a2f27f6c2"
+  },
+  {
+    "bytes": 1472,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSeasonPassReward.bin",
+    "role": "game-client",
+    "sha256": "88e84600e63b1b40b402ab0c3502f1a76fd5581410755dbb8dd85f82daec274b"
+  },
+  {
+    "bytes": 3136,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterShop.bin",
+    "role": "game-client",
+    "sha256": "4519adb99a4b6803a58d6509c83fe4f33ddff0eed3f1ca59434a7270bb8aabae"
+  },
+  {
+    "bytes": 2304,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterShopProduct.bin",
+    "role": "game-client",
+    "sha256": "00ca26488f93367fc2f72b7a7a02a76848d68f16371a99faecad8f34bca85f60"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterShopTrigger.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 2592,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillCondition.bin",
+    "role": "game-client",
+    "sha256": "690a8741f75477857d5d518d897060525befa49b364e0296c6bc7fd382ca88fe"
+  },
+  {
+    "bytes": 3776,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillConditionSet.bin",
+    "role": "game-client",
+    "sha256": "a0cc20bd441c019b863afce340a44fa88772e97cbd523d8393594c7f28ac1789"
+  },
+  {
+    "bytes": 832,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillCumulativeCondition.bin",
+    "role": "game-client",
+    "sha256": "50c20e819b338f20adaed70f21433b37ab0ec816d3b5716f229d803d6bb0dfeb"
+  },
+  {
+    "bytes": 544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillEffectSetting.bin",
+    "role": "game-client",
+    "sha256": "a24268c20cb87e053285d509eb6304a6a467bc1b1f6846ccfeb783772e7e5511"
+  },
+  {
+    "bytes": 448,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillIcon.bin",
+    "role": "game-client",
+    "sha256": "38b0c32ed6a7ce1ff926c973a2e885d52fbd64ff20265ae234207235b026c595"
+  },
+  {
+    "bytes": 51616,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillLevelResource.bin",
+    "role": "game-client",
+    "sha256": "8e5765e49c5b568ccb3fb336f1e48ca1eae75a205267adf10559f80b5f4402d9"
+  },
+  {
+    "bytes": 352,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillRating.bin",
+    "role": "game-client",
+    "sha256": "44e79b4163d7e5caaef877b4b24f66f6bb9ffaa05c5501f753dbb2a1f5a89ff2"
+  },
+  {
+    "bytes": 672,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSkillTarget.bin",
+    "role": "game-client",
+    "sha256": "79edc22feee63af1852b0c51573a581aaeaf8b3e3c828ae5be7a4dc373a2fc2b"
+  },
+  {
+    "bytes": 32544,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSound.bin",
+    "role": "game-client",
+    "sha256": "8a8438b4889d967aa1a66ee45c81c5a0df3e557daa6073babe2bff067b909d0d"
+  },
+  {
+    "bytes": 3776,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSoundCueSheet.bin",
+    "role": "game-client",
+    "sha256": "feb34eac16861b7d05615da0c52127bc51ae63ebf1793d8c43aa35b44bbb849c"
+  },
+  {
+    "bytes": 1792,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStamp.bin",
+    "role": "game-client",
+    "sha256": "9aeb5e9fc0f428aea3716de74e40335729f83a191161c9e35b9683f4a8f301e9"
+  },
+  {
+    "bytes": 672,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStoryChapter.bin",
+    "role": "game-client",
+    "sha256": "66e4bb8a489e1b3e1d4e8aed3b0ad42ae403e3fcf1ae0f19f8682cf315bff789"
+  },
+  {
+    "bytes": 4672,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStoryEpisode.bin",
+    "role": "game-client",
+    "sha256": "ca82ab551b7f9aa967589b6bccc94ccf43e74e15c93d951e025faef8a708b2db"
+  },
+  {
+    "bytes": 2336,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStoryFriendshipEpisode.bin",
+    "role": "game-client",
+    "sha256": "e72c1e517f4da248ee1c67280ef4d43124a590230e8f302e463f5ade604eef2b"
+  },
+  {
+    "bytes": 2944,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStoryHomeSpotTapTalkEpisode.bin",
+    "role": "game-client",
+    "sha256": "af79974263cb87e171808c8440c66ea19e385c39c6a72d0500bcbbd0ec5076d6"
+  },
+  {
+    "bytes": 3264,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStoryLiveResultEpisode.bin",
+    "role": "game-client",
+    "sha256": "8e8b2f6a5320630cf1829e32d4244a1b16323f6338c207f66a11f9a5d37b5550"
+  },
+  {
+    "bytes": 416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStoryLoginLanding.bin",
+    "role": "game-client",
+    "sha256": "c5386071baab31ed05d8430bd1570f0cb19c28cbe11450581b07698c194ac5e5"
+  },
+  {
+    "bytes": 736,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterStoryReward.bin",
+    "role": "game-client",
+    "sha256": "2f067cf45738f6c446aee8a5e42f2f1801b1662872c148f46e9dc670c1b1c84e"
+  },
+  {
+    "bytes": 3392,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSupportCard.bin",
+    "role": "game-client",
+    "sha256": "06d3643945bcc9ba69d4a50302a323f028bfd7a59863167738979fe7f94f7457"
+  },
+  {
+    "bytes": 5824,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSupportCardLevel.bin",
+    "role": "game-client",
+    "sha256": "518d450103eb38acb1589cecf9e84870011904c4a47a5ada589cec5f03449a03"
+  },
+  {
+    "bytes": 576,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSupportCardRank.bin",
+    "role": "game-client",
+    "sha256": "0bbea8a73dfbacd52c289bf5008b8da7f66f06dd84f685df510e0db6837d1fe1"
+  },
+  {
+    "bytes": 1216,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSupportSkill.bin",
+    "role": "game-client",
+    "sha256": "3fb59b315a95f43a61df7c2091b03a391d0bfe65ff06d9cc6b0ced2a1491eff0"
+  },
+  {
+    "bytes": 12704,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterSupportSkillEffect.bin",
+    "role": "game-client",
+    "sha256": "2d17d566e710d85b8835077a30b9997ac6d7775ad0df665896b67ececa8e8f66"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterTag.bin",
+    "role": "game-client",
+    "sha256": "06ff54d2fa7d2e3a197d5c6a3e6b79de34aadd5aa13d1a52e3a41df60b41dea3"
+  },
+  {
+    "bytes": 10976,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterTalk.bin",
+    "role": "game-client",
+    "sha256": "f5e71d438bda96f871e9c89da0bda2615d4e1e9f3c83ce85796c9541dd4fdb52"
+  },
+  {
+    "bytes": 255840,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterText.bin",
+    "role": "game-client",
+    "sha256": "ad53f4c5229c3764d04c87dd031f5436a058140ac78d64bb1a19d0fee95d88e8"
+  },
+  {
+    "bytes": 416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterTitle.bin",
+    "role": "game-client",
+    "sha256": "7c57c488066657c5f39a963d3f07225fdb333b708a00a601947ea2a7cc9cee2d"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterTryLevelReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterTryMission.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterTryMusic.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterTryMusicTotalScoreReward.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 1600,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVideo.bin",
+    "role": "game-client",
+    "sha256": "e4542af1697d65c6dcc17739060e12ea330f7a4e865c2c2748af7486a80e5be9"
+  },
+  {
+    "bytes": 256,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVideoLiveTop.bin",
+    "role": "game-client",
+    "sha256": "635b7e3f918733be2724c0edfcf6964a56bc2559a3d2464fcc2fb16f6b28734e"
+  },
+  {
+    "bytes": 384,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVip.bin",
+    "role": "game-client",
+    "sha256": "eb503cad1b39517fce8e9e0ffdfc1ee52a0aaf25840282f1d201205ff884b432"
+  },
+  {
+    "bytes": 224,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVipDailyPoint.bin",
+    "role": "game-client",
+    "sha256": "86d6001ce5cbfbded5a9b830603b7f75929e9766e17caaabb23c4e31fd801047"
+  },
+  {
+    "bytes": 672,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVipDailyReward.bin",
+    "role": "game-client",
+    "sha256": "1e586f5c909b6c747b7f9244a626f2fd49a993c4f9779d2fba2afe9eb8ebf87f"
+  },
+  {
+    "bytes": 1088,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVipRankBonus.bin",
+    "role": "game-client",
+    "sha256": "e2dcc4facbbc9fa781b175f6ad95933e01ea07a0ca954b8f8e3032745d1532ee"
+  },
+  {
+    "bytes": 128,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVipRankPack.bin",
+    "role": "game-client",
+    "sha256": "752b4a933a11a8b6535c3bbfa0051af1c3c9882c8b3746c0f10f4b13db834f39"
+  },
+  {
+    "bytes": 416,
+    "mediaType": "application/octet-stream",
+    "path": "game-client/master/MasterVipRankUpReward.bin",
+    "role": "game-client",
+    "sha256": "0e32688fa346a54e63738b22994e9e7685826759d78323bd3e1ca106a010f23a"
+  }
+]

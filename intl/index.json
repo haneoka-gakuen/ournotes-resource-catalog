@@ -1,0 +1,11 @@
+{
+  "groups": [
+    "api",
+    "assets",
+    "game-client",
+    "metadata",
+    "objects",
+    "runtime"
+  ],
+  "release": "r-6d239366cf3b7cb3c0ad"
+}
