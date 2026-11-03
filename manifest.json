@@ -2,9 +2,9 @@
   "schema": "haneoka-resource-catalog-v1",
   "servers": {
     "jp": {
-      "sha256": "69ea3c4eaf69331c9c8b7480002773ca22b2065b5e3179c0a1a892e70b77c3aa",
+      "sha256": "40a557d5c7e394e57117c52269eb62a5e07f4d11b5e4af72c40ebd21779e834d",
       "files": 7,
-      "input": "r-e261e5c71807bf57801b",
+      "input": "r-1b4ec2f1346af904d60b",
       "hash": "8be74134b87dacf7ce1f38967cd66745",
       "version": "1.1.0.200"
     },
