@@ -35,6 +35,517 @@
     "sha256": "b3684780690a4d8f933370b44c858c0e7c190d742331db98658b90a0e954b8fd"
   },
   {
+    "bytes": 1240809,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/51/gacha-d3b5820b72f142712af6.mp4",
+    "role": "runtime",
+    "sha256": "fc8d8ce717c0bdf58acac991bfa08a6e43aaf7c44364a1f22a84323d10b3100f"
+  },
+  {
+    "bytes": 3118115,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/51/gachaIntro-5a07e5969cdcce99cfe1.mp4",
+    "role": "runtime",
+    "sha256": "ac5089d25401573df75621f0019e4289f804121442f4bff7724922d967c04fdf"
+  },
+  {
+    "bytes": 5152937,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/51/gachaPreview-48823b8eb300b4727312.mp4",
+    "role": "runtime",
+    "sha256": "e4d650ce549dbea145e1647ec67eee99f6476de3d3bf2b1dfa6af0e6d869f283"
+  },
+  {
+    "bytes": 1545156,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/51/showcase-67b7034c5d7cb25c299b.mp4",
+    "role": "runtime",
+    "sha256": "971fcb91bd9ee61a3c72a4ffd6704891389c2d0184eca1faa04869dbd4b3e969"
+  },
+  {
+    "bytes": 2369031,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/51/showcaseLoop-8451d5c0691f528361e4.mp4",
+    "role": "runtime",
+    "sha256": "50cecadd03fa55890c5164aa55fa72b2c7d283d057a5a8ae03c30a0783266c89"
+  },
+  {
+    "bytes": 1918800,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/52/gacha-484c2508dcb2ad169973.mp4",
+    "role": "runtime",
+    "sha256": "0688f44dc57d25ecf4fc14248ab29cbb5c11985d559e5881076f7ff12c818780"
+  },
+  {
+    "bytes": 3861922,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/52/gachaIntro-85dd1b8f331686c8238d.mp4",
+    "role": "runtime",
+    "sha256": "eba6f4a4e5bb8b89c1def97bb6898e47d6684fca58839b2515bd94bb9d8df763"
+  },
+  {
+    "bytes": 1311721,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/52/showcase-775cf91dd2cb243c801a.mp4",
+    "role": "runtime",
+    "sha256": "55359df2bf29b338565c2ba8ae5452509ac90284a7c280b3b72f3b7e3c73187a"
+  },
+  {
+    "bytes": 3462495,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/52/showcaseLoop-7730b5a73092a731117b.mp4",
+    "role": "runtime",
+    "sha256": "4819a87a92b6b9cbd19621a3ece35d0522caf8637e2cb4c7d4fc160a8bfcf58d"
+  },
+  {
+    "bytes": 824950,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/53/gacha-67554728bf477cad9347.mp4",
+    "role": "runtime",
+    "sha256": "cdbd499367002ec6b41a2c677b20a55d61e33b5ed3a342591f805b46d979d169"
+  },
+  {
+    "bytes": 2565343,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/53/gachaIntro-aaaf0030797c6efbc4a1.mp4",
+    "role": "runtime",
+    "sha256": "9d3020066bc7f440029418b4bf385f3a005a078731bef80a8fff6067bdd82800"
+  },
+  {
+    "bytes": 1316416,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/53/showcase-29cffd05dfb0ba924f3e.mp4",
+    "role": "runtime",
+    "sha256": "953b699c920faca0622048fd426fae45d2893bb227c5fb025498ab5d54166a22"
+  },
+  {
+    "bytes": 1955799,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/53/showcaseLoop-944907d530e745cd5121.mp4",
+    "role": "runtime",
+    "sha256": "589f3a4864e514f327c3697dbbb4e524ab0e5385aefcfaa3b21bb0fb28dce206"
+  },
+  {
+    "bytes": 1943660,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/54/gacha-8f35eb7e66a43bc2711c.mp4",
+    "role": "runtime",
+    "sha256": "75ddb5b14ae78e87e22605c1a26ac5628e5e53ac811a7c5e77653084ce5adc15"
+  },
+  {
+    "bytes": 3763488,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/54/gachaIntro-054f25feaa732cbe62e1.mp4",
+    "role": "runtime",
+    "sha256": "fcc061ff53ac3459ad252b0cfda8fdc1e89158052dce2f8f1496928d3c33314a"
+  },
+  {
+    "bytes": 1151706,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/54/showcase-66f562edbb402ce5984f.mp4",
+    "role": "runtime",
+    "sha256": "ac0e4ccd25120bcc335e1f1bc52884f5b06ab7b50fdee40d92fc0a9db4e5d148"
+  },
+  {
+    "bytes": 2846141,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/54/showcaseLoop-a341959abe4e0aa0bfaa.mp4",
+    "role": "runtime",
+    "sha256": "33596bfc0bde86d6809e7c0ffab7667e9e0f387125fd1ac4a08662aa1dd07436"
+  },
+  {
+    "bytes": 2077038,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/55/gacha-800a995e20bb2a1d6421.mp4",
+    "role": "runtime",
+    "sha256": "4c86894fad7a779144448475918f40510f29bee7e8492db1d47ea33aec401528"
+  },
+  {
+    "bytes": 3234001,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/55/gachaIntro-2add468f53704fac68de.mp4",
+    "role": "runtime",
+    "sha256": "47cf97d8cbde7c20743384f813df4468feb118d0f6bc4865b2fea24882323e32"
+  },
+  {
+    "bytes": 1021476,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/55/showcase-44b80451142187c79cde.mp4",
+    "role": "runtime",
+    "sha256": "60e76cf6c71449b4257681014a850908fc9db22249b9c3b8961acea1879922ef"
+  },
+  {
+    "bytes": 2362828,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/55/showcaseLoop-239cb0a57d2a7827803f.mp4",
+    "role": "runtime",
+    "sha256": "2dbab04090c853394fb78ea82e4a9e87446b314852a4873ecc4da263ce9e287d"
+  },
+  {
+    "bytes": 1922736,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/56/gacha-ef80213b15b7ddacf513.mp4",
+    "role": "runtime",
+    "sha256": "3d73b2f415d756707dd8d56ebebf75f22a0544aa26f5384f6e2b1b3e29f131ef"
+  },
+  {
+    "bytes": 4237681,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/56/gachaIntro-eb3b2a1a84de5878e70b.mp4",
+    "role": "runtime",
+    "sha256": "c908afcc765f6463afec56457ba17219b20711bf0ac8e1bacb9363e3a65606fd"
+  },
+  {
+    "bytes": 1153239,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/56/showcase-2c1a0ff938d7c778ed72.mp4",
+    "role": "runtime",
+    "sha256": "574a369fd8ed4fbf2649fdfc655bd45681ee2afc06eb147e8b47d0446d1677c2"
+  },
+  {
+    "bytes": 2848868,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/56/showcaseLoop-4b67a169d1ed44741d66.mp4",
+    "role": "runtime",
+    "sha256": "469ac37993a4f9341a46777331dd5fe48f22248bcc138ccf4887376f8e352190"
+  },
+  {
+    "bytes": 2223911,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/57/gacha-cbb5e47086b616f725fe.mp4",
+    "role": "runtime",
+    "sha256": "8b0152b94b84721cb56fd3f95b5c9549af08dfd887df8680da78f6a5741c3466"
+  },
+  {
+    "bytes": 4042601,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/57/gachaIntro-9db3cb9954be116556cc.mp4",
+    "role": "runtime",
+    "sha256": "42b4779fe0b0ea984862f9cd4e0efc67da0b2c36eedc5e503fe074eb3356fe7c"
+  },
+  {
+    "bytes": 1656867,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/57/showcase-fd74e41f5be66f5b1d95.mp4",
+    "role": "runtime",
+    "sha256": "8708b51deee3d4e1f52548f177ac85dab63ab48d7c24767eb7db223ee4289ba1"
+  },
+  {
+    "bytes": 2976006,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/57/showcaseLoop-86bde8779134eea9c6ef.mp4",
+    "role": "runtime",
+    "sha256": "2210e165fdd9b2ab5cfcbafc25ea917e3ab0c3173a4faed81009eb38763cc9cf"
+  },
+  {
+    "bytes": 1740583,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/58/gacha-2f420e5e8b2e043801c2.mp4",
+    "role": "runtime",
+    "sha256": "f63e856bef37668f683801e74103ab64ddc8298016209fb67f84f8dfd8641453"
+  },
+  {
+    "bytes": 2836174,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/58/gachaIntro-7723ac6c1eb93dcac296.mp4",
+    "role": "runtime",
+    "sha256": "f0ab2e0bdabc8969134dc5017e0493f754b5a2701693ef657fc8c7a703bd8bd7"
+  },
+  {
+    "bytes": 1264352,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/58/showcase-eea192edcb9c2c75a6d9.mp4",
+    "role": "runtime",
+    "sha256": "52f9c2c0ab6c827947cae4666c669ca54835000f494407318aa2895d22861cfb"
+  },
+  {
+    "bytes": 1890904,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/58/showcaseLoop-d9ee4000f09ba929fa12.mp4",
+    "role": "runtime",
+    "sha256": "8692dfdbd0866414aa29ea9c74abeba0d599fae1bb768f84a415c58eacd67413"
+  },
+  {
+    "bytes": 1674487,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/59/gacha-cf47aa13b615a48d1c2f.mp4",
+    "role": "runtime",
+    "sha256": "dc2829442d33c42299cc09bb719513f72af341658bac844ba838606c461905fd"
+  },
+  {
+    "bytes": 3109688,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/59/gachaIntro-a9bfe19a04177baf921e.mp4",
+    "role": "runtime",
+    "sha256": "17110c14fea73f5cf944437287cec815c4cce375f2cf9b8f5d186c14dd4b2efd"
+  },
+  {
+    "bytes": 1077386,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/59/showcase-d1d3d33f00478d3f95d1.mp4",
+    "role": "runtime",
+    "sha256": "b3493b38a53cef695a2e3d4efb0f8f2f81bd5a2906781c8d3e86c32d8cf083eb"
+  },
+  {
+    "bytes": 2257622,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/59/showcaseLoop-df077c02cf849016f180.mp4",
+    "role": "runtime",
+    "sha256": "c0c8b54225aa25950b313efab644a72695d9f3a9a33ecb7d0ed398bc2ca145d6"
+  },
+  {
+    "bytes": 1705968,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/60/gacha-69d7be3e84718c2dc552.mp4",
+    "role": "runtime",
+    "sha256": "bf2a911f440d8299ba35e9522785defad14e3fddf8a9a0d2abbe4ad903408932"
+  },
+  {
+    "bytes": 3854198,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/60/gachaIntro-15b4ffad2b856d167b8f.mp4",
+    "role": "runtime",
+    "sha256": "bd92f9d0038a4ceae39a1809ec073f788ead9eb12156dfea102ddd3fa354cf48"
+  },
+  {
+    "bytes": 1859605,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/60/showcase-417dac8ba151b5b7eade.mp4",
+    "role": "runtime",
+    "sha256": "5e18f7bdfd497a34d25c4f10a91fae751e5dc39311683a081df8687cf16f0a3e"
+  },
+  {
+    "bytes": 2912059,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/60/showcaseLoop-5bf7c91d73eb69962dcb.mp4",
+    "role": "runtime",
+    "sha256": "43de7d7665758278b9df3ba9ff7c7cdece54e3e606c056cbac6daf123124e1bc"
+  },
+  {
+    "bytes": 983667,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/61/gacha-10af0146ada3764c0bba.mp4",
+    "role": "runtime",
+    "sha256": "1e2162f6a9ee350662632bdd66693f1d64fd723684b32d626d3a4fc7d98df901"
+  },
+  {
+    "bytes": 4171590,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/61/gachaIntro-79a9134e1dc5d8bdd6ed.mp4",
+    "role": "runtime",
+    "sha256": "bbe3c414abb463f219bda88a9378e648522f8a6d6cfc7522a87c572df9b8ae9c"
+  },
+  {
+    "bytes": 1470729,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/61/showcase-e3c5e1df6b2fd4fe6a86.mp4",
+    "role": "runtime",
+    "sha256": "9f2fddb6391819db85a091b235d6790add1e221b9b61ec68b6e29bba5851303e"
+  },
+  {
+    "bytes": 2718466,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/61/showcaseLoop-c582ebc4496220469963.mp4",
+    "role": "runtime",
+    "sha256": "16d190a18a785991963e0d3421c7998e2f25ae7d6e0aef6df1c097bc52d1c348"
+  },
+  {
+    "bytes": 1345175,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/62/gacha-5b882710edf884c925e5.mp4",
+    "role": "runtime",
+    "sha256": "e19d1d43537dc6946f355896536375435e1f8e5fa2db9ae090987ff828759033"
+  },
+  {
+    "bytes": 5725766,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/62/gachaIntro-f745a9b7d48ab11ae251.mp4",
+    "role": "runtime",
+    "sha256": "9a74268cb2372550ac5ed37df05cad486f8fdd24ba4e79bff91231c6456cfcfe"
+  },
+  {
+    "bytes": 1768775,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/62/showcase-8949adabb7078ad07e75.mp4",
+    "role": "runtime",
+    "sha256": "2f66ce95b38aaa3966df9d6497e3d50ad948c8c78f9942cee4e10275e45b7e1d"
+  },
+  {
+    "bytes": 4635717,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/62/showcaseLoop-dd9b1139c4f3506264dc.mp4",
+    "role": "runtime",
+    "sha256": "89209660621fb58de39625fc6655abda4685dfd78fa20f68cacab34a558c3593"
+  },
+  {
+    "bytes": 1572371,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/65/gacha-0611f08556db30b8f9c9.mp4",
+    "role": "runtime",
+    "sha256": "7c8468d9d011b2b3af70613639c79eea65f7416119a591404870a5e78de706d5"
+  },
+  {
+    "bytes": 2175950,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/65/gachaIntro-e834569c2ac984231b8b.mp4",
+    "role": "runtime",
+    "sha256": "5fa12ad494ab8c4c31c773705e190eafe4bcf73d6a6587e1ba6f7c67302083a1"
+  },
+  {
+    "bytes": 1263371,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/65/showcase-59653add8e220d2ec43f.mp4",
+    "role": "runtime",
+    "sha256": "2e51fd17d9fa12ea19c96194a1ad505ac60eb42aee32bf41f731e9ff61665314"
+  },
+  {
+    "bytes": 1261799,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/65/showcaseLoop-66a51877fb23bc5432bf.mp4",
+    "role": "runtime",
+    "sha256": "4419f91e9150efc63265e28b87ca244b09fd2596c7281d6022c2866292f605ff"
+  },
+  {
+    "bytes": 1406091,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/66/gacha-65b7b1d2b2e889423013.mp4",
+    "role": "runtime",
+    "sha256": "7614bb5f30c7a8b4694b5bd53ed8ef883c5704fa2c22b8003b6885b08f859916"
+  },
+  {
+    "bytes": 2470723,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/66/gachaIntro-d2b6d8c6b6f58cd7eff6.mp4",
+    "role": "runtime",
+    "sha256": "f816d5b685c8e59c9fa8b3f771a205ba1b979131cddfcd272d99f1c81ed991da"
+  },
+  {
+    "bytes": 687272,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/66/showcase-10a8db67443546f28b81.mp4",
+    "role": "runtime",
+    "sha256": "8d20949d5f4f1ab5f1198fa883994fc35cd96136587b4ab965fa7db180110fba"
+  },
+  {
+    "bytes": 1567455,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/66/showcaseLoop-0c7d724ac3e0383e5431.mp4",
+    "role": "runtime",
+    "sha256": "95239aaf33036d01ecbf4cc171a3a7be57c021e77f095fea9bd0d2fea1f5176e"
+  },
+  {
+    "bytes": 937151,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/68/gacha-1ad9ec04e5fad904fa69.mp4",
+    "role": "runtime",
+    "sha256": "be24f5d8bfeb61568cf1358aa026b7f2f61db0e746740da2200a454d19971bbe"
+  },
+  {
+    "bytes": 3642710,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/68/gachaIntro-5dbe8ca74fc9a03f5dcb.mp4",
+    "role": "runtime",
+    "sha256": "33cd1bf289b7b0b2be586b0156f60d87e3f2fcafc1697e5f142b2a1525b9057f"
+  },
+  {
+    "bytes": 1373741,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/68/showcase-fbb08353662b0f32380c.mp4",
+    "role": "runtime",
+    "sha256": "2b39ecda67c906217b2a2f20cd17c20eeec8c9c5532f312b8fdeecaeb13c26d3"
+  },
+  {
+    "bytes": 2639671,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/68/showcaseLoop-d0bd5fb7c8c495582600.mp4",
+    "role": "runtime",
+    "sha256": "1637cf148aff1e0a41b3acd4d5e8a6d62eafaeff9d296a8bbd975cd6311348d9"
+  },
+  {
+    "bytes": 1753024,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/69/gacha-b5858a4240b1af307448.mp4",
+    "role": "runtime",
+    "sha256": "e34d66a6a23236457bd9509ca74c5e6665d598cb10bd4d7cbe83385f4c548d84"
+  },
+  {
+    "bytes": 4947759,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/69/gachaIntro-1d2feee3ee72d298509e.mp4",
+    "role": "runtime",
+    "sha256": "c1ded31837165849c5a974cbade79a4d8d365e2f4dd2beca736cefc28fa9afa2"
+  },
+  {
+    "bytes": 1061178,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/69/showcase-55ef8de567b603590a2d.mp4",
+    "role": "runtime",
+    "sha256": "3380387dc00aa5930adb1040fa13557287a853b93114dfeb6ac8a4e701f24287"
+  },
+  {
+    "bytes": 3511199,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/69/showcaseLoop-03cb2f8bea8b6cad6145.mp4",
+    "role": "runtime",
+    "sha256": "d494e6858be3a8df70b47de010f5488e13bb62829ad5e5123d4349cad01af24c"
+  },
+  {
+    "bytes": 505702,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/72/gacha-e4cac12d59e9164018d1.mp4",
+    "role": "runtime",
+    "sha256": "94dc6e967fc095a60a91b6c618738137eedd0237a08fe4d24b62627a54f5ed5c"
+  },
+  {
+    "bytes": 3300573,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/72/gachaIntro-519c0a683f7d4b6fadab.mp4",
+    "role": "runtime",
+    "sha256": "c4eaa02fde97dd24a0a0c002ac1aa70f94682d9568c8673d1d9b32da6616c21c"
+  },
+  {
+    "bytes": 929942,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/72/showcase-bbec5d4cdb5e4e510f4b.mp4",
+    "role": "runtime",
+    "sha256": "507d2473221f63df2094c0824d948f607bac76209f4a081ba0a7646502f3c894"
+  },
+  {
+    "bytes": 2219681,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/72/showcaseLoop-8a23a705673f5f3ecc18.mp4",
+    "role": "runtime",
+    "sha256": "078d67442d784201ae1910fc6ed492274029e2e418da00e29ad5c77ae2d8bd88"
+  },
+  {
+    "bytes": 1215100,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/73/gacha-281213fe63a166a28772.mp4",
+    "role": "runtime",
+    "sha256": "2f33c67fcd46e9d3063fd412a30f06f3adb247c1ffc8ba53e8c3d98edac418a9"
+  },
+  {
+    "bytes": 1582052,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/73/gachaIntro-c0e74747be55eeb2f530.mp4",
+    "role": "runtime",
+    "sha256": "442aaede35f74deac6f6d2fa8e5214ffd07a8e703fdfaf37b6540d063e74eb0d"
+  },
+  {
+    "bytes": 989170,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/73/showcase-1aae20a611d1971fcda8.mp4",
+    "role": "runtime",
+    "sha256": "2bd2575b4d202f8d90f6557b656d831ec0bf6dfb9d0d5937bb62e8469870b360"
+  },
+  {
+    "bytes": 2072969,
+    "mediaType": "video/mp4",
+    "path": "runtime/card-videos/73/showcaseLoop-3cb80c9f1cf6730a86bc.mp4",
+    "role": "runtime",
+    "sha256": "9166c1b1cfaebe72fc18891d39fbfb5d139337b343a0aac62dfce1718f28fbd9"
+  },
+  {
     "bytes": 5152937,
     "mediaType": "video/mp4",
     "path": "runtime/cri/51/member_preview_movie/video.mp4",

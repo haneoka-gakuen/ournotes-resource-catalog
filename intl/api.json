@@ -7700,18 +7700,18 @@
     "sha256": "9573294a720305d03d784dfd5a912ed3ba419a1b0db3560924fd00c0bfd17d5f"
   },
   {
-    "bytes": 19625,
+    "bytes": 20104,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/10.json",
     "role": "api",
-    "sha256": "eabae5efa62c653b0d7d152944a040e5d36b3d6d933c501bdba126f0255b4031"
+    "sha256": "faca442d90e6041bbae5ca76362bb2aac0a5b13152a89fbb47680cfa9657f599"
   },
   {
-    "bytes": 31290,
+    "bytes": 31769,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/12.json",
     "role": "api",
-    "sha256": "ccb0fb74a5f017508ccbb9dab724263ff88e364f6efaaf5718dc946acbf17583"
+    "sha256": "de361e83fad975d05a6a756452ae4399e16f4cfd98f8683ca10ee98aee674dfa"
   },
   {
     "bytes": 14953,
@@ -7749,11 +7749,11 @@
     "sha256": "1d70eb2eaeca961079eb484c5a93fc98a744e7cd2bd6b32db7912c03c4c81deb"
   },
   {
-    "bytes": 27037,
+    "bytes": 27516,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/1f.json",
     "role": "api",
-    "sha256": "5ccb8df0226aca31f1687aaaff3d117dbc6b1eba7803d00705f04543b1b641f3"
+    "sha256": "5f833afe67a5e904cee55096d84cd3ef36fd334757c3f2928706cac457bdc54b"
   },
   {
     "bytes": 15102,
@@ -7763,25 +7763,25 @@
     "sha256": "1584e7ec3f1fb50d04efe29d7713bcd450355650d58c4b71891f8794c8386163"
   },
   {
-    "bytes": 42419,
+    "bytes": 43021,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/33.json",
     "role": "api",
-    "sha256": "44251571de27473d50bcfa368fc61ea7061e6fda44cb486ef3071e1e6da1e87f"
+    "sha256": "1d4febff5dbd97e1d0b19f67a3b661c6616f1b688fe6b7b7dd1cd11bc8322865"
   },
   {
-    "bytes": 19583,
+    "bytes": 20062,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/38.json",
     "role": "api",
-    "sha256": "723fa017bd7484057fc971f75e3364e8f6eafcfd398d1c12f848f27b957698c0"
+    "sha256": "fc52fead421a430c337b15f0c53733d7372cde5e7c85138f10b1c5a631a389ef"
   },
   {
-    "bytes": 19490,
+    "bytes": 19969,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/3b.json",
     "role": "api",
-    "sha256": "077cdf1a443f2be212418908eec8becfc9a247f04bbcf97fb31f82c4f91ee737"
+    "sha256": "3f83d2c84dd8de3c156a439670a34e83e072b4ed85e3e2305b8888b1b1b79387"
   },
   {
     "bytes": 14976,
@@ -7847,18 +7847,18 @@
     "sha256": "3f7fc3964ab45850df7630cc7bab742b30c773270e0d3398d9e05696896164c1"
   },
   {
-    "bytes": 39102,
+    "bytes": 39581,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/59.json",
     "role": "api",
-    "sha256": "1a302c6850d323d8ed5860d1be5b97d275128f2a1cf3af1eae6d597ae2e5328c"
+    "sha256": "ee8c6c38742e7096d28d43ec15733900f1389ac60bececd0810e470144162b54"
   },
   {
-    "bytes": 19457,
+    "bytes": 19936,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/61.json",
     "role": "api",
-    "sha256": "650599b2a8115d1f2f19f1d6e6556460cda3393ce1f6d6d0a5b0673bbe481b7a"
+    "sha256": "b4d5da04d4f207944cfd838d1178c15bb43a9f80621eddc14f0b993a3ebdd887"
   },
   {
     "bytes": 14496,
@@ -7896,11 +7896,11 @@
     "sha256": "f6fe95fb5470d1eadb8ac6284815ec7c97b25d31e28f81c287442a92ec366973"
   },
   {
-    "bytes": 38979,
+    "bytes": 39458,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/7f.json",
     "role": "api",
-    "sha256": "38bff33785c1d1857f78765b94b1d358613a800f7ff9fc44bc8c7801bbecc9da"
+    "sha256": "909c472382831a46742d6b562fd2af6ac5060f3851012ce8f07c78ec7043a63d"
   },
   {
     "bytes": 14795,
@@ -7938,11 +7938,11 @@
     "sha256": "369ecf142208a039ae0ba236eba99c1ea57a042bc65d75fdd41580f287abb18e"
   },
   {
-    "bytes": 23106,
+    "bytes": 23585,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/8c.json",
     "role": "api",
-    "sha256": "7918db19e07395831d1edad11f500254a9a12580cf9fd64a5d80d99d17955d3d"
+    "sha256": "ae8ecd941e1f0929216210cad4c01f4b1acf607e4174650059fb4aacdb6c1e8d"
   },
   {
     "bytes": 22845,
@@ -7966,25 +7966,25 @@
     "sha256": "5563f2332b6c22c791304f444fe4ccad8eaaf7826aa1df7db641838b5864dae9"
   },
   {
-    "bytes": 27529,
+    "bytes": 28008,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/a3.json",
     "role": "api",
-    "sha256": "25551efe44186cbfd4948ae8e60887b2ec56015b727ec94b8b01364a719efb34"
+    "sha256": "969dbbbdec7a930f72898c745b6b1af08f30e7ad52d5ae5dd47183bc9b85376a"
   },
   {
-    "bytes": 39082,
+    "bytes": 39561,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/a5.json",
     "role": "api",
-    "sha256": "a54f56fa86b2042e51d5b1a5db081a22c4b56caafad2a6d7e00e92f4231e500a"
+    "sha256": "d0b7dd7faf30173f9f58d30e61ddb8269771957d76169ab8e955821ec58a4164"
   },
   {
-    "bytes": 19346,
+    "bytes": 19825,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/a8.json",
     "role": "api",
-    "sha256": "2bb91b68a2a8263b60ac0d94982f9c9ba5e242d37ba977d722f0cab5ab7b1f4e"
+    "sha256": "fb1253ea8710a8135d7e05dc6011ab57daa0540dc4f52e64ceed2b1b777d7bec"
   },
   {
     "bytes": 22698,
@@ -8001,11 +8001,11 @@
     "sha256": "4d5c7a3735484956220e2625602f6a27a57a8bb71da5dc06a8000f946457a92f"
   },
   {
-    "bytes": 19336,
+    "bytes": 19815,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/ad.json",
     "role": "api",
-    "sha256": "942f4420e0997f4abfb6b28fcf6a531980d4918fe5078e9451bce830e2849a8f"
+    "sha256": "9f420978d911a7c014d84aace106e56e02b1d7ce4d1188511754865eb22e1b37"
   },
   {
     "bytes": 15068,
@@ -8043,18 +8043,18 @@
     "sha256": "5597a6ed43ba4f96e47b0c95be783680fb7897852ebfdaa565d9d70061053197"
   },
   {
-    "bytes": 34400,
+    "bytes": 34879,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/c6.json",
     "role": "api",
-    "sha256": "60d94271228b66272b608d421958ebb5b1c97914a45c7fc4f7f7a7395d2aca98"
+    "sha256": "a8f0343303e4ddf7c7bfb41238d80aca918948148c3ed4f7093cb657df796b1e"
   },
   {
-    "bytes": 16402,
+    "bytes": 16881,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/cb.json",
     "role": "api",
-    "sha256": "d0b792a979988d8b473a149b0720cef8d2800a37c1555480e15780f14d7e4ed3"
+    "sha256": "335a867b436017de92cfeaec8ec82a4def26b7a013e16d2282d37fd405e6acb2"
   },
   {
     "bytes": 14969,
@@ -8099,11 +8099,11 @@
     "sha256": "534363debd5855ff81d762038de78df17eec3d396d837f92569b8a8ac1fb4261"
   },
   {
-    "bytes": 31273,
+    "bytes": 31752,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/ec.json",
     "role": "api",
-    "sha256": "0801f0d0d9e2b0c44a3de56ccabdee3798d864ea30139c2743971eb69668f11a"
+    "sha256": "ab11d42f2e2b96d2bb0935a95a10a0b1d25495f7b5c69c7cd076b769c6ea24ba"
   },
   {
     "bytes": 23097,
@@ -8113,11 +8113,11 @@
     "sha256": "ce4f4bd02230eb35411b40595d7fb2da1c95727183e7fc0a7ead82ff44caec46"
   },
   {
-    "bytes": 19200,
+    "bytes": 19679,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/entities/f4.json",
     "role": "api",
-    "sha256": "a054f7b8bb29a612b8dff46615267b83cc9972244a41cbc2069868fcbf573fe7"
+    "sha256": "33ac69ab4d1fdbc36cdad0ee872f6e2b278d9c53bfbbcbcd2e34edb2999e87f1"
   },
   {
     "bytes": 22587,
@@ -8155,11 +8155,11 @@
     "sha256": "2ccfd315dd627f0c912a93e29af7e147c5f1539da07e7018dfe3d6e48f7d0b7e"
   },
   {
-    "bytes": 181760,
+    "bytes": 190505,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/index.json",
     "role": "api",
-    "sha256": "f13c3eb0b2a7ce2059df1857b3ef04baffd49c7f70e40d43e9d0018cf675706c"
+    "sha256": "7c000c52e4f1a1bb867628f80ee1b1069c014608048e714a78f107e67370f98e"
   },
   {
     "bytes": 4084,
@@ -8169,11 +8169,11 @@
     "sha256": "4107f8462e8cf256f0add6c06cb3c0d747e136af3954528fcdd41c8680c3083d"
   },
   {
-    "bytes": 8186,
+    "bytes": 8788,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/1c.json",
     "role": "api",
-    "sha256": "9660b8881484cf46c734203fe69f6af1dd0bfd5312c1984e994a838cb8c56d72"
+    "sha256": "204e6716808907dc8c2b2b2a48b6b8dee437898bfb7f71f7a5473997798b9df9"
   },
   {
     "bytes": 3968,
@@ -8197,39 +8197,39 @@
     "sha256": "24a313adcce9f2f6d2ace8a49c32182f863451fe852a26b87d3c817367d5bf72"
   },
   {
-    "bytes": 9729,
+    "bytes": 10208,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/42.json",
     "role": "api",
-    "sha256": "90493f081af1f3e5dea48f3df9a5ddb39163d186d6b502b536e25a3c0e2264e4"
+    "sha256": "87b1bf8159c0397eab04eb4cf47ab80de82855814c79666173c0d6eb2bb35125"
   },
   {
-    "bytes": 7616,
+    "bytes": 8095,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/44.json",
     "role": "api",
-    "sha256": "496ceb3a67a79406e50cc1619f12ab924da23fcb348a523df1f17de68f36c114"
+    "sha256": "245f25ef9837cfdce0d32da0374bc29a3ff1ce34c01d22c94c3b31da6314d08e"
   },
   {
-    "bytes": 7572,
+    "bytes": 8051,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/47.json",
     "role": "api",
-    "sha256": "6530c0b9af3b2073f50f63212edf491944d9f77e0632e97afb38f999a8576943"
+    "sha256": "5053fb24ef1f3d3e0808d8214c00312cec863af979dac7d54628a6b4a3fccc8f"
   },
   {
-    "bytes": 7433,
+    "bytes": 7912,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/63.json",
     "role": "api",
-    "sha256": "3239ab7f2fdf1d380989ad9952a7874343c9f01a5df14c60158f1f53d91cb2ff"
+    "sha256": "b0160b59431f8cb27835bcf9f3b583ebb4126860af263da7fff07a0b788d324d"
   },
   {
-    "bytes": 7671,
+    "bytes": 8150,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/6a.json",
     "role": "api",
-    "sha256": "4259b94d92adf89cacc7b631af96d030d7498fa101344014d1503b080a126fca"
+    "sha256": "48af49083b9e2a2d58520eb4bc741d6915abbb3b876de2300045f5809556edd7"
   },
   {
     "bytes": 8187,
@@ -8239,25 +8239,25 @@
     "sha256": "18f810c59d2e0ae21309f46875e4ecf41e57eea2b59d8a480a4e0d0dc317209c"
   },
   {
-    "bytes": 11280,
+    "bytes": 12238,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/89.json",
     "role": "api",
-    "sha256": "5a55a7dc129dd9633c2033001628932e75e12b3a3853706af0b716fabd817799"
+    "sha256": "29711e36b6913a030a28569ff8c56425ff5c04808d8d20efd68f18a0aeb72e3c"
   },
   {
-    "bytes": 10088,
+    "bytes": 10567,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/8b.json",
     "role": "api",
-    "sha256": "39558c934becaf0a76480e7fe5ed8fd28a145fb41c7b147c00b816b3137a76b6"
+    "sha256": "60c52f19c7170f4869cd733f49d2ac690776671740eafc02cafc1d585947c5bb"
   },
   {
-    "bytes": 7878,
+    "bytes": 8357,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/a0.json",
     "role": "api",
-    "sha256": "391affd25f2911312a4c7b5893e45c7b2009c3abca07fb3b9de23ef7a3864855"
+    "sha256": "3e2b5cbd4c1f0825360555c8cf73c204f30a6c46ae3fde67e8db96f336a9121c"
   },
   {
     "bytes": 8391,
@@ -8267,39 +8267,39 @@
     "sha256": "1ab75f790e76140977780fce7f984e63625b9261a2128bb2fa600ec667d0f56c"
   },
   {
-    "bytes": 7638,
+    "bytes": 8117,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/ac.json",
     "role": "api",
-    "sha256": "c532aa1d9265d0586442409e8a1e35edf596e4b33f4ad926ab884045792ce9e7"
+    "sha256": "7807cdda93f3c6ad6f4a69a03793edccb78c6d030d7432e72f183ed396e053dd"
   },
   {
-    "bytes": 7539,
+    "bytes": 8018,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/b1.json",
     "role": "api",
-    "sha256": "1644b45d36b7579bbb6617cf202566f5e52c571935aa8fc7ea19a20fac95f8a9"
+    "sha256": "71b2343af1711f5cbfad06fa9431b719bde6d1f43e47d9cfc6f628c3018c3c93"
   },
   {
-    "bytes": 7448,
+    "bytes": 7927,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/b4.json",
     "role": "api",
-    "sha256": "96ca8d7276d5805ff8daa9cfb01ad2d3ee021c340efe2352e856dc32147d71a9"
+    "sha256": "75efca76d31112db031f1c0db229c64b4761d489caa68a0c91e3712aee2f0e9d"
   },
   {
-    "bytes": 11268,
+    "bytes": 12226,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/d0.json",
     "role": "api",
-    "sha256": "5dcfff6c30b81e1933af22c8f5be8b609a42420378f7805eab1a0afdf8d485c9"
+    "sha256": "0407630b35f9ac24f66fdbf16e1bb8ff0e65125f9a5040e3970bbe1b78c4d72f"
   },
   {
-    "bytes": 7561,
+    "bytes": 8040,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/d5.json",
     "role": "api",
-    "sha256": "a90aab59488dc3d18132dd6349530e12730c6df8b3f075c634996395ff51959e"
+    "sha256": "a78c697f795507e3d8414cc2f274c74653e8182070ffa1e609e72455fd76f924"
   },
   {
     "bytes": 4302,
@@ -8309,18 +8309,18 @@
     "sha256": "48b29689072f4dda40dff99fc80473dbd3155861acf14fb5966e3525a4aacbb9"
   },
   {
-    "bytes": 7849,
+    "bytes": 8328,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/ec.json",
     "role": "api",
-    "sha256": "d6b197c007c1a53ac9fbf3932bcc869b4a800765b61907d2cef62165c808c6cb"
+    "sha256": "fa7d584a4432e7e4873cb2b106f10b11c5579194793491b5556b884ea4b37fc8"
   },
   {
-    "bytes": 7780,
+    "bytes": 8259,
     "mediaType": "application/json; charset=utf-8",
     "path": "api/v1/catalog/cards/relations/character/f6.json",
     "role": "api",
-    "sha256": "1ffe6d2e018a492a3afc1786eb0c086683478e7d50fcd637eabdf738f85d038a"
+    "sha256": "229fcd2bf7eeb4c46af28f7377d1edae00b4014eaebf604dd8c9b6fb9beb3c28"
   },
   {
     "bytes": 4151,

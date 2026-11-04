@@ -129850,6 +129850,13 @@
     "sha256": "a3b3eac0cd3f02a8cec26e84aab9a89e122b776e4cfba642b9ac98945a777af2"
   },
   {
+    "bytes": 25580,
+    "mediaType": "application/json; charset=utf-8",
+    "path": "metadata/card-videos.json",
+    "role": "metadata",
+    "sha256": "7d46f70a15fe9a527ef7e0ac6983a9d8daa70a734428d330ad6c2afe4163fb2c"
+  },
+  {
     "bytes": 23881548,
     "mediaType": "application/json; charset=utf-8",
     "path": "metadata/cri.json",
@@ -129903,7 +129910,7 @@
     "mediaType": "application/json; charset=utf-8",
     "path": "metadata/pipeline-recipes/pipeline.json",
     "role": "metadata",
-    "sha256": "12ee49cc3da248fcdb46dea9e203d5001f39e941053b86385a51851bb2ff8db4"
+    "sha256": "e58442f60ef7e29319ae1c6ade97908c074bcc78e43d2b23b0e2a5c0d298b444"
   },
   {
     "bytes": 164,
