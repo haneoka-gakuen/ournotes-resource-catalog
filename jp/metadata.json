@@ -112228,7 +112228,7 @@
     "mediaType": "application/json; charset=utf-8",
     "path": "metadata/live2d.json",
     "role": "metadata",
-    "sha256": "3adfbebfd6967d3f8cc5e2ccc4f65e438d0bf59eae314cfafc6490e091318fef"
+    "sha256": "e07e83d829fd38814d2de990c3d837f119c4f072bc7c6253031b23eeca70e622"
   },
   {
     "bytes": 162,
@@ -112256,14 +112256,14 @@
     "mediaType": "application/json; charset=utf-8",
     "path": "metadata/pipeline-recipes/live2d.json",
     "role": "metadata",
-    "sha256": "33b3ac013e62c044a164a9f2e65b66988a80ddbb67ea2ae0c8080bc837540722"
+    "sha256": "ae37cac8b6fd6842d1bdfa561e96cc289a71a5dc7884f0259ed2c79148def9eb"
   },
   {
     "bytes": 174,
     "mediaType": "application/json; charset=utf-8",
     "path": "metadata/pipeline-recipes/pipeline.json",
     "role": "metadata",
-    "sha256": "65c597ce4b97059a8b6d8ab6c5dc6cf8f9ef89d4fa2f957674b5b95c03abcabd"
+    "sha256": "a0cc514c5ff4621b5efc8cfe824cd667750a46cd2e5643d88d20c4f4264d134b"
   },
   {
     "bytes": 164,
