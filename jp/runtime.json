@@ -214536,6 +214536,13 @@
     "sha256": "484fc34391a5ef6f1988bbed53498fcc20f7c791705b4fea9e79d5750f61f941"
   },
   {
+    "bytes": 1438111,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/001_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "810f28209aaa1be01d1493ac0c3abe6aafba56c37befa58d4f1759ad9cd36b72"
+  },
+  {
     "bytes": 8003,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/001_casual_spring_01/model3.json",
@@ -215740,6 +215747,13 @@
     "sha256": "41594a7a20c0d61a36708ca25f2ec2a6188ca878862cf10c09acc502e5d54086"
   },
   {
+    "bytes": 858542,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/001_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0c7a39dd4548d88501337367371c65400faed6bd84ed99cd679c913addeb0e53"
+  },
+  {
     "bytes": 1361,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/001_live-mode_live_01/model3.json",
@@ -215829,6 +215843,13 @@
     "path": "runtime/live2d/001_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "2c56097eb267f7cbea2c0e05c7bbad89fdb5aa243e9441ca40f21fd4cfc2884e"
+  },
+  {
+    "bytes": 831775,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/001_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "eecd1ae85f71268ff8799c13524d926ffb2e5d92e546102215e9cd6160105f40"
   },
   {
     "bytes": 1183,
@@ -216137,6 +216158,13 @@
     "path": "runtime/live2d/001_live_01/model.moc3",
     "role": "runtime",
     "sha256": "826bd5a54a5202ff7dbe46311b9593c7342fd1f965e8039befec8318fa32e8d3"
+  },
+  {
+    "bytes": 1310869,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/001_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "af19f2db9632be22b0f22f4fe610dba1b397862ed84ae23309ef97f3c79b270a"
   },
   {
     "bytes": 7969,
@@ -216846,6 +216874,13 @@
     "sha256": "e67ed68ed1755b8f00d75929b26c707843ba3aad80fc484d763eb12adaa6ed7d"
   },
   {
+    "bytes": 5822631,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/001_school_summer_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "200b138872eb4e0f72681c33a29bf0ffd8187e57ffc3bfcdafff11f6c5c97a12"
+  },
+  {
     "bytes": 8021,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/001_school_summer_hs_1st/model3.json",
@@ -217553,6 +217588,13 @@
     "sha256": "57868084b123e31ad595c65e11afa931cd8a8e76994c9a44cd804f2ff0ee349f"
   },
   {
+    "bytes": 2848629,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/001_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "1dbee593d97a2834e60e8e38c8ab0296d8ccf089c6f4b922e1b7b0647e216142"
+  },
+  {
     "bytes": 8018,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/001_school_winter_hs_1st/model3.json",
@@ -218258,6 +218300,13 @@
     "path": "runtime/live2d/001_school_winter_jhs/model.moc3",
     "role": "runtime",
     "sha256": "86467b64c5ee3cfe287bd953c18e03d98a8d1858fabd4d0f9316aca84fd62fa1"
+  },
+  {
+    "bytes": 1358639,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/001_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "73dac93a47bd8805277d6c8e382b2fa9551b8c3991a8d9797f5090f4895b56c3"
   },
   {
     "bytes": 8008,
@@ -218993,6 +219042,13 @@
     "path": "runtime/live2d/002_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "af53b434f3e43d314efff25ad12b9639bf10f4b096f7460b0549b17f7369f5aa"
+  },
+  {
+    "bytes": 1564512,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "1f1ab7ae19d3f22c64b1e9060358a60cdf00e092e136837bbd8606be296317f8"
   },
   {
     "bytes": 8436,
@@ -219742,6 +219798,13 @@
     "path": "runtime/live2d/002_casual_spring_01_glasses/model.moc3",
     "role": "runtime",
     "sha256": "7111912543c93effc1552913542f2dbcce3ac9718a81dd261d2aac1fc992b3b9"
+  },
+  {
+    "bytes": 1564512,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_casual_spring_01_glasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "18c59ae4891b6efa3dede8562bc8f596f80088926dbda7cb951a4b2065478980"
   },
   {
     "bytes": 8468,
@@ -220997,6 +221060,13 @@
     "sha256": "46fcea1d0da7268d548c513069e9c764d051d309c9ced6bd439484824f19b978"
   },
   {
+    "bytes": 1280754,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "9718e30aece562762f6971aa6a31121951bca2a8d6aec75eb9fc688c0fefa8af"
+  },
+  {
     "bytes": 1534,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/002_live-mode_live_01/model3.json",
@@ -221093,6 +221163,13 @@
     "path": "runtime/live2d/002_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "c7094a9797eeac3c3936e5bfed516e8087b976c4d808bd1ffbb67500b2b49205"
+  },
+  {
+    "bytes": 1256205,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e094045c0108796f209a36f6f9ec6e74ac0cc9e7239959ca95f3db9753097886"
   },
   {
     "bytes": 1180,
@@ -221429,6 +221506,13 @@
     "path": "runtime/live2d/002_live_01/model.moc3",
     "role": "runtime",
     "sha256": "4f8e927658e129ce96959810b05e77989ceacaa2f4ba321da3d6983c61835aa2"
+  },
+  {
+    "bytes": 1739203,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "6ac80555ce57c52e91d7cc1347667fabb203c0bfe4dde9dc863299147d029148"
   },
   {
     "bytes": 8399,
@@ -222180,6 +222264,13 @@
     "sha256": "4857d1df3a241aef57c79c77a7fc85aef8210b85c9e8c0563e06be5a5d23045b"
   },
   {
+    "bytes": 2392623,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_roomwear_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "9b82089aa60f64d01dd837fc42eaaa9f72709552932bc6f1da0111fd05e96297"
+  },
+  {
     "bytes": 8415,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/002_roomwear_01/model3.json",
@@ -222927,6 +223018,13 @@
     "path": "runtime/live2d/002_roomwear_01_glasses/model.moc3",
     "role": "runtime",
     "sha256": "737f60e0a7729fd587d60d83bc13bc537c9943c091e1f2fab45d12d80085b596"
+  },
+  {
+    "bytes": 2392623,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_roomwear_01_glasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "6778ff1777b84c245591b72e357abcdf5c154f91348645ee10292ad8548759af"
   },
   {
     "bytes": 8446,
@@ -223678,6 +223776,13 @@
     "sha256": "75a16ce3acb825c4d1a824a6b2fa7b2a1508b966d52814b7d26a9ad841180e12"
   },
   {
+    "bytes": 6112117,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_school_summer_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e19ad467618bf0099a3a4ede51b8c19385c620a2b562ec5003cee02f43da1056"
+  },
+  {
     "bytes": 8453,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/002_school_summer_hs_1st/model3.json",
@@ -224425,6 +224530,13 @@
     "path": "runtime/live2d/002_school_winter_hs_1st/model.moc3",
     "role": "runtime",
     "sha256": "0cdcd359f8dfd17e28eb15c3292c698f3e1e06285d7ff0fca01809e4c58b1b9c"
+  },
+  {
+    "bytes": 3074699,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "cd85b5b6fcabccd1c7d2d94862475d17ff0eb1dafce6a68d224b34774cbc49a3"
   },
   {
     "bytes": 8451,
@@ -225176,6 +225288,13 @@
     "sha256": "6bb52f63eebb7e3519f7136fac84c927ad496faac111eb9b3c52c2a201d61e98"
   },
   {
+    "bytes": 3100536,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/002_school_winter_hs_1st_glasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "09094b661443c5f40cb9f039da69bfac8008f6a5599461dee0b23e91e6e4e9f3"
+  },
+  {
     "bytes": 8484,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/002_school_winter_hs_1st_glasses/model3.json",
@@ -225804,6 +225923,13 @@
     "path": "runtime/live2d/003_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "8ff085a20a1ba77eb1e2ace4089e26505bb1911f6bc177e2c98b5ce453734605"
+  },
+  {
+    "bytes": 1180898,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/003_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "028f1da1e5adccd91e58b87ce992d756c67e6d824eec6b010c0a757c6f2ead1d"
   },
   {
     "bytes": 6556,
@@ -226821,6 +226947,13 @@
     "sha256": "511f64ea5574b028b40f675aa375474791d9f1a5d0518b9eb526883c57e36fdd"
   },
   {
+    "bytes": 1088927,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/003_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0fec23e417390f91802619c22a900d2f1bb3811e7a4b03ca4f5e95a6eacbba9a"
+  },
+  {
     "bytes": 1533,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/003_live-mode_live_01/model3.json",
@@ -226917,6 +227050,13 @@
     "path": "runtime/live2d/003_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "903a42430de8e92e2f2da592a0647e3c79e86045d7526402b7fa359a614913ca"
+  },
+  {
+    "bytes": 1009148,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/003_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "625002576aa368c1827017cc6e92a89b11fd9daae4aebdc69bc29f5be9926703"
   },
   {
     "bytes": 1179,
@@ -227134,6 +227274,13 @@
     "path": "runtime/live2d/003_live_01/model.moc3",
     "role": "runtime",
     "sha256": "9a7f2166e49a20c02465fa656a61d0b03883cd18fd7766bbcc7defed24a33d61"
+  },
+  {
+    "bytes": 1130814,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/003_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "492d1f6f6de3aa8acfc918f9fede7832bc64ed22b8510c4a5ec3482e73953539"
   },
   {
     "bytes": 6519,
@@ -227703,6 +227850,13 @@
     "sha256": "7d78b827f0d0de62abce546e4bf4d8df89e98f1b21ac826483923e8b3d874043"
   },
   {
+    "bytes": 1212667,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/003_school_summer_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "9e812121b6f9146027120c352876dc009e526128896bcf8e252d16bdb8e5b3f8"
+  },
+  {
     "bytes": 6560,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/003_school_summer_jhs/model3.json",
@@ -228268,6 +228422,13 @@
     "path": "runtime/live2d/003_school_winter_jhs/model.moc3",
     "role": "runtime",
     "sha256": "e1d98660bef5b8b2581f32bc595643bdd0fee693bc916d46f9cac00e694f845f"
+  },
+  {
+    "bytes": 1167719,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/003_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e2cf2fad774727b747949a1b66b4d25cd14310bba6b694396678ba0bdf04108a"
   },
   {
     "bytes": 6559,
@@ -228947,6 +229108,13 @@
     "path": "runtime/live2d/004_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "c8a21973687d2e89cd145e29c1e3a0a385111757caea8504ab9bd39954ee04e8"
+  },
+  {
+    "bytes": 1022334,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/004_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e205790202b1a213c871db3377b3a59380c4b0c9c36e7dd29cdda9ba004f8526"
   },
   {
     "bytes": 8219,
@@ -230167,6 +230335,13 @@
     "sha256": "1afd7c92ed8437bcf60a699dea075cfad98ff0e644d2abd94cf390ae5eb9ce7f"
   },
   {
+    "bytes": 970965,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/004_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "c9043b10a4d110f3851e5f2e7e29b8dc2ce1cd09fed04dbbe2df8ab668b0d738"
+  },
+  {
     "bytes": 1714,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/004_live-mode_live_01/model3.json",
@@ -230270,6 +230445,13 @@
     "path": "runtime/live2d/004_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "c3a4149306a93c3b3be49fc9a145b1cf8c0c1a86e73f6a216ff8608d7f985a9c"
+  },
+  {
+    "bytes": 981916,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/004_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "68cd01de2d64399ceda1332a0e4d3e0acfc2fa6bda9416f065d5d16c15ff272e"
   },
   {
     "bytes": 1180,
@@ -230599,6 +230781,13 @@
     "path": "runtime/live2d/004_live_01/model.moc3",
     "role": "runtime",
     "sha256": "25c89db87b9e0f7a83eec1b88d7c6432fab8b776c77770e41db3c6a6277a7dae"
+  },
+  {
+    "bytes": 1175768,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/004_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2cf76f90d0db17b5caa1607d7feaa3a60979591fae2d9b960ba4000d2eac1bfb"
   },
   {
     "bytes": 8097,
@@ -231322,6 +231511,13 @@
     "sha256": "dac65c7b7c351d6c740b6f39e94a4cb6b41aa147005b6974584bc19906755e26"
   },
   {
+    "bytes": 2780855,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/004_school_summer_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ce210e9d213d314a8d6b92849075b3b971f0750241f00af93f7d21ed25658b8b"
+  },
+  {
     "bytes": 8134,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/004_school_summer_hs/model3.json",
@@ -232041,6 +232237,13 @@
     "path": "runtime/live2d/004_school_winter_hs/model.moc3",
     "role": "runtime",
     "sha256": "e8f0640105a8d47f5859d5f972766b2a0b9b4e634f1077be9734f84259a7858a"
+  },
+  {
+    "bytes": 2927570,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/004_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f623ca7d6dbf4996fedcdc608addab8c273689e1bef9c5652ab426304c7ead20"
   },
   {
     "bytes": 8133,
@@ -232764,6 +232967,13 @@
     "sha256": "8bde65d4db0e924de253dd788f3bc6e54d52e4cb302de787f76b5392f61af1da"
   },
   {
+    "bytes": 2973827,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/004_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "6585f28230a6a8ea24662c8b32d3e833458e73918d63599b1b0a29e429db82e7"
+  },
+  {
     "bytes": 8137,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/004_school_winter_jhs/model3.json",
@@ -233469,6 +233679,13 @@
     "path": "runtime/live2d/005_arbeit_ring_01/model.moc3",
     "role": "runtime",
     "sha256": "b467cf507e89050414bc03fbbfb7e92c15b88ca46968ded7e0a200790315474f"
+  },
+  {
+    "bytes": 1577849,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_arbeit_ring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2048b0ce2a53609e6451e34c7195ba08a3a72e72cec0d4fe01d3a7e31827e5d2"
   },
   {
     "bytes": 8050,
@@ -234183,6 +234400,13 @@
     "path": "runtime/live2d/005_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "4b34efd40e1ed99a4132bc157d478aa5735530e4ce23864f4cb0e797d45ecc4b"
+  },
+  {
+    "bytes": 1606530,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "12826f441f08fb5eb9bb3df3af7132d40d0847e82b19d748f27fc117fdf24858"
   },
   {
     "bytes": 8057,
@@ -236117,6 +236341,13 @@
     "sha256": "8868d15cd5bbd44f172ff410edce3d304b18e646ee1033ef297f891feecd2c7c"
   },
   {
+    "bytes": 1452007,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "c4fbcb5833de03e08bf51c5eb22a794ad62e30057d75949838f496db1e54c4be"
+  },
+  {
     "bytes": 1798,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/005_live-mode_live_01/model3.json",
@@ -236227,6 +236458,13 @@
     "path": "runtime/live2d/005_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "fc502cdf6ed9143dc6a9915d783944f972947223ebed561ca3dde51890236593"
+  },
+  {
+    "bytes": 1447932,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "062fc79d2b4893fe11ff03a6b8c799253fbaacf2f029ae299a3b31ffac548928"
   },
   {
     "bytes": 1260,
@@ -236549,6 +236787,13 @@
     "path": "runtime/live2d/005_live_01/model.moc3",
     "role": "runtime",
     "sha256": "c9a9d6740a8b93d1de950656353c0d7993ba9366bc52df870455129a31f0ba10"
+  },
+  {
+    "bytes": 1471822,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "91b8d79acdb4da724749279c80f6c7286ffd80d8b28c02503bf9d07cd6a2917b"
   },
   {
     "bytes": 8023,
@@ -237265,6 +237510,13 @@
     "sha256": "85b8f6f498dfe2fe77f20e6c26ffd035bde73085ab9654aa9a7fb7441ea2de06"
   },
   {
+    "bytes": 2432935,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_school_summer_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d4b10950c140b88b50a0da969d8349f057068548b5f45e1af83192467472943a"
+  },
+  {
     "bytes": 8059,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/005_school_summer_hs/model3.json",
@@ -237977,6 +238229,13 @@
     "path": "runtime/live2d/005_school_winter_hs/model.moc3",
     "role": "runtime",
     "sha256": "a7111848f9144dcb4b78da40c1f405c1cf5da83717eb2be58bbdb5aa55896bb3"
+  },
+  {
+    "bytes": 1570712,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "09cfa27205eecda2509c3e043b411d7e8a531936e8c4a9c7f2dd552039b4ae70"
   },
   {
     "bytes": 8058,
@@ -238693,6 +238952,13 @@
     "sha256": "696a1355114d5bc0083ada5cb185a3ed6884cc2906da1f39a8af3a1ab5c38642"
   },
   {
+    "bytes": 1731749,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/005_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "68a44afc0de9ad894e3755cd7aaac93417a89acc448e84054eee485f78f3211c"
+  },
+  {
     "bytes": 8062,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/005_school_winter_jhs/model3.json",
@@ -239365,6 +239631,13 @@
     "sha256": "a359d093ec0e28bc321c530a5b32d0290f8adde5cee5b9630a62a735af8791c5"
   },
   {
+    "bytes": 1662468,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_caretaker_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "c0df2ae5ec60dd5832c5bb84c0f2ec918a9f97ef08edb06a52c1b35f395fd836"
+  },
+  {
     "bytes": 7337,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/006_caretaker_01/model3.json",
@@ -240007,6 +240280,13 @@
     "path": "runtime/live2d/006_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "48044d0e947e775dc16c1e989316eded3feffd04541e79c7e80f110633419585"
+  },
+  {
+    "bytes": 2425153,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "feceb0259c340a852b45c0a341f757725db9a72aa14893bc335d6f98221f4d64"
   },
   {
     "bytes": 7850,
@@ -240695,6 +240975,13 @@
     "sha256": "d36302db348c1d3b93c6469d5f1a655fa0e630551004f8fd35acc7fe85c03e8f"
   },
   {
+    "bytes": 2449465,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_casual_spring_01_hat/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "8a9a32a4641fdc5d84f622e48af9861fb6605970be968a3cec9e0e972716bcc2"
+  },
+  {
     "bytes": 7866,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/006_casual_spring_01_hat/model3.json",
@@ -241192,6 +241479,13 @@
     "sha256": "097576c5a72892a9f813704a4bac973f17f8ccbe68dadeb4a227e1b60be02023"
   },
   {
+    "bytes": 16874,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_child_casual_summer_01_silhouette/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0a57a1185ec83963f8255e5635e68890014c116859fc3e2ebf45b47f5159ff82"
+  },
+  {
     "bytes": 610,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/006_child_casual_summer_01_silhouette/model3.json",
@@ -241225,6 +241519,13 @@
     "path": "runtime/live2d/006_live-mode_live_01/model.moc3",
     "role": "runtime",
     "sha256": "92a654914c41d4ea207b9525bb4388d48dbfb11ee260d8c6c52af28117842d5e"
+  },
+  {
+    "bytes": 1193373,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "8c957cc57ef3ff0a724f390db63f75a3ba867b5becc3c375a8bde2ef4da09021"
   },
   {
     "bytes": 1536,
@@ -241323,6 +241624,13 @@
     "path": "runtime/live2d/006_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "f8617e0d63c58194bb1e1d53153fcbbf51806df179c45ff10f66e63ca2820501"
+  },
+  {
+    "bytes": 1166630,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3bc277ad3e17e48f2148fcf55420bfcfcc990f0d27254bdf8b72883a34a4cb53"
   },
   {
     "bytes": 1180,
@@ -241596,6 +241904,13 @@
     "path": "runtime/live2d/006_live_01/model.moc3",
     "role": "runtime",
     "sha256": "0facecbceeac793b230e73e05c481e3c240a1d4adec15e55556dde90c5391110"
+  },
+  {
+    "bytes": 1715289,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "38e830b30e51102745e086f8b13c6690edac4669cac6e975092a359e56f5dcae"
   },
   {
     "bytes": 7812,
@@ -242284,6 +242599,13 @@
     "sha256": "37cfebc5bbc76a0a46c80eea9727e1ec4fa688fe04a630491fbe99a8700a0fb7"
   },
   {
+    "bytes": 1696844,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_live_01_mask/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e0a71de37018b4119628b37c96bc629c4c3a23d01a0b4b4c70721915166f1ca2"
+  },
+  {
     "bytes": 7832,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/006_live_01_mask/model3.json",
@@ -242968,6 +243290,13 @@
     "path": "runtime/live2d/006_live_01_mask_silhouette/model.moc3",
     "role": "runtime",
     "sha256": "558a6d886658d3c144b35680f9f72b164d0b85010b42c0fcd15a7887dad60b4a"
+  },
+  {
+    "bytes": 1595706,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_live_01_mask_silhouette/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "74c85fb399730ae0f7e156f6e6c6d55472b9e1d4540e5da16d38c23f12bb44df"
   },
   {
     "bytes": 7876,
@@ -243656,6 +243985,13 @@
     "sha256": "012b8da25ef7c85abab31e4bd1f135821d5684a4ce73908e1486988b4c5587d5"
   },
   {
+    "bytes": 2525218,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_school_summer_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "7c40322b8b16328abde2989c6dd6b250333220fad143aecb2cc01936c7209768"
+  },
+  {
     "bytes": 7850,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/006_school_summer_hs/model3.json",
@@ -244342,6 +244678,13 @@
     "sha256": "73655e44f6a2a626239e86b0b9e7d203522100773374dc6ce016fd0c437b2b7f"
   },
   {
+    "bytes": 1672053,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/006_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "cf5267234abf4c8fa85492b70ebee170c30466b5104eada6804fde3aa4741975"
+  },
+  {
     "bytes": 7601,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/006_school_winter_hs/model3.json",
@@ -244998,6 +245341,13 @@
     "path": "runtime/live2d/007_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "d70367f89948e3dfb13c567f193ad2729531ce8be98b58619b4422164d85d58d"
+  },
+  {
+    "bytes": 3902475,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ebd5d94a81c4d5911f36e04cd05ee50ee85a178d7b46a0994f3297a67da4f86e"
   },
   {
     "bytes": 7532,
@@ -246148,6 +246498,13 @@
     "sha256": "0938b849f6910955f4bc257b4efbdd0599c1f6bcf15c634a4ee6dd9fbe4b966b"
   },
   {
+    "bytes": 2438534,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "4577bc72d3f0d86f5156761f999dfe65eca52cfec6dac50f5cb0adede5de9747"
+  },
+  {
     "bytes": 1740,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/007_live-mode_live_01/model3.json",
@@ -246251,6 +246608,13 @@
     "path": "runtime/live2d/007_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "e8ec605173b5be17d09b55c44a6d3e85ed3da16e7eeb43274889cb687b280d55"
+  },
+  {
+    "bytes": 2404279,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "37ba666930ce012c39766d9ace6f5818d9ff4988793dceacaa75f01471245fba"
   },
   {
     "bytes": 1185,
@@ -246517,6 +246881,13 @@
     "path": "runtime/live2d/007_live_01/model.moc3",
     "role": "runtime",
     "sha256": "bb5f1fc7e7afcd858914f42a53cd2600ae0994084ede4edf7e193cfdfc97490e"
+  },
+  {
+    "bytes": 2647497,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "338de1241337dcc7da2f28b1f76a735dbd30bb148c41f031206df8f305dd9ed6"
   },
   {
     "bytes": 7767,
@@ -247191,6 +247562,13 @@
     "sha256": "1d11df35e5ddf4fda60d27c28e629547623bc1be2bed687de360a88c6b62a4e6"
   },
   {
+    "bytes": 2648007,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_live_01_mask/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0c5f41abd6161d3f3a5e23b93acfe43a3fc2fb567806dd6cadf231991d0e8be9"
+  },
+  {
     "bytes": 7721,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/007_live_01_mask/model3.json",
@@ -247854,6 +248232,13 @@
     "path": "runtime/live2d/007_school_summer_hs/model.moc3",
     "role": "runtime",
     "sha256": "8daf1768055588800a68c2c97112f63a4074cca300b172acf366433c5b911d6d"
+  },
+  {
+    "bytes": 3742546,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_school_summer_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "dad0b3b70dc0b2268f7e6fac62fcccb93859beb762c464be3e75f6fb47d408ae"
   },
   {
     "bytes": 7609,
@@ -248521,6 +248906,13 @@
     "sha256": "d19fd905a7607753f7ca0ced39790d9f2b99b52db15892840f45bb408d0f6840"
   },
   {
+    "bytes": 4047465,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e518b2c13f8da5e4abed33fd4f71a1a5e99e14aa5c2b14e285e540c0d153e835"
+  },
+  {
     "bytes": 7609,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/007_school_winter_hs/model3.json",
@@ -249186,6 +249578,13 @@
     "sha256": "1398d2c026b8372fc4b24c57b1c3e317e2e47278c0cd9162ac12bc9b2b2ef14a"
   },
   {
+    "bytes": 3866854,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/007_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "7452e8885a137daa04f815ba5938bea5ec73988fd5adbf55cca39f9be8e5261b"
+  },
+  {
     "bytes": 7611,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/007_school_winter_jhs/model3.json",
@@ -249828,6 +250227,13 @@
     "path": "runtime/live2d/008_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "6b6d3d8bbd31ab09e7d09174350c3b87ffafcc60dc10adff6bd042bfe152a6c2"
+  },
+  {
+    "bytes": 2739728,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "44ffce5f885aea5cb886dae80e50c39c78b8e36e1cce452f6cd78d6775ae11ef"
   },
   {
     "bytes": 7088,
@@ -250964,6 +251370,13 @@
     "sha256": "6024a8d2e5cf9f17697ede01ff11389b1afe9887cffd89afbce8d030bcdb0bfa"
   },
   {
+    "bytes": 131627,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_jhs_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "30cd2d7ad04d341468474d786158c4c25ccf55dccdd70437af1ff640eaebfb07"
+  },
+  {
     "bytes": 1372,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/008_jhs_casual_spring_01_still/model3.json",
@@ -251011,6 +251424,13 @@
     "path": "runtime/live2d/008_live-mode_live_01/model.moc3",
     "role": "runtime",
     "sha256": "20c8bf0be81d898a0a7ea711584afb60a2a2678cd024b883d1db9ad6d8db8cf5"
+  },
+  {
+    "bytes": 2702324,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "a5c5e998cb454bf903be3b9cceaf2f4b321c9159f37d3fee627d58ff85aad38b"
   },
   {
     "bytes": 1723,
@@ -251116,6 +251536,13 @@
     "path": "runtime/live2d/008_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "ef9cf5c5292a2f547869b6c1901f46806f1fd25ad73a2157dd9255142990007e"
+  },
+  {
+    "bytes": 2687054,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "abeaf0060c3d550d79b3fd200b9e3501d03f59b5b339fe7b73e1adc8dc535428"
   },
   {
     "bytes": 1182,
@@ -251361,6 +251788,13 @@
     "path": "runtime/live2d/008_live_01/model.moc3",
     "role": "runtime",
     "sha256": "83f76c16ad482443bffc967ba7330c0f53f09eb5ddbf9b2db5c1a6d8b50c593b"
+  },
+  {
+    "bytes": 2338056,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "8bc0415a13702eed7748b9b8fd25bc34504218118738748a2c5f4acfa95a9311"
   },
   {
     "bytes": 7245,
@@ -251986,6 +252420,13 @@
     "sha256": "06caab66b3d3782962361fc292c31639fa59c7c4b6c10ad5c8c2e9d3e7c4d2d6"
   },
   {
+    "bytes": 2327581,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_live_01_mask/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "04dcad01e7744b7ca46a3382b06eeda3ec469aa55b3c4a59fe445e0f9229daf6"
+  },
+  {
     "bytes": 7275,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/008_live_01_mask/model3.json",
@@ -252607,6 +253048,13 @@
     "path": "runtime/live2d/008_school_summer_hs/model.moc3",
     "role": "runtime",
     "sha256": "b7c11b27d7f722e6d2a525d3a935bb33f02a587c0349632634135796855089df"
+  },
+  {
+    "bytes": 3230623,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_school_summer_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "7a5806ca09a61c275cb39e6cd41e0c8a141bf72f1192ccfca1003d435f3c241e"
   },
   {
     "bytes": 8828,
@@ -253379,6 +253827,13 @@
     "sha256": "ec5d9df13cb754e62c80801ca7d85c6c61274d317bcc7aa4230a387ac81cc31b"
   },
   {
+    "bytes": 2371271,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/008_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "85501dfdae3e74955cc65c2211b7083ba89822dfd0545fd94a0d67b7ff94697b"
+  },
+  {
     "bytes": 7090,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/008_school_winter_hs/model3.json",
@@ -254014,6 +254469,13 @@
     "path": "runtime/live2d/009_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "a4b773c5853cde951bbe63b51684939e8560e6c5fd7d36065dd3abbb48999d8f"
+  },
+  {
+    "bytes": 3770958,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/009_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "4f478ebc14f5fadb5b9ea0a25e7fcb9fdb7955947e24683c6c123eec738b9915"
   },
   {
     "bytes": 7527,
@@ -254672,6 +255134,13 @@
     "path": "runtime/live2d/009_casual_spring_01_hat_sunglasses/model.moc3",
     "role": "runtime",
     "sha256": "aa6528181bbba37140bb82f199570b2894844350f009aecd43b13b51a2d1d580"
+  },
+  {
+    "bytes": 3938198,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/009_casual_spring_01_hat_sunglasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "dd404ae8d31d117dacf440e2f734dd0f107deeaf5adfdfd3b56c6c173a16c175"
   },
   {
     "bytes": 7589,
@@ -255822,6 +256291,13 @@
     "sha256": "1dafa87de61d5edf28a55432ca2ac70f4605a194c1326eda83aeb15e58168c48"
   },
   {
+    "bytes": 2286260,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/009_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ae90f162681f7218f9d718a121d7ae4256f002cad78e1c364a545fbc8cbcc387"
+  },
+  {
     "bytes": 1803,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/009_live-mode_live_01/model3.json",
@@ -255932,6 +256408,13 @@
     "path": "runtime/live2d/009_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "f39b1834e4e9bf4a3942f09f4e8e266f4dd74c5771063ac65b043d1b11ecc338"
+  },
+  {
+    "bytes": 2155339,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/009_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b93866ec5b6c378a2a88ee5581e0512f65c407f6287ae66579021e2fd0d0c54e"
   },
   {
     "bytes": 1263,
@@ -256205,6 +256688,13 @@
     "path": "runtime/live2d/009_live_01/model.moc3",
     "role": "runtime",
     "sha256": "4b9bc10d938d3aa1b2af19b520e1744171c4a7b883de75e6d1e39a592af97ba3"
+  },
+  {
+    "bytes": 3696378,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/009_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f4978535488638a7968f101bc206b2f57d2263bce4304f97aef1daa9d2116415"
   },
   {
     "bytes": 7491,
@@ -256863,6 +257353,13 @@
     "path": "runtime/live2d/009_live_01_mask/model.moc3",
     "role": "runtime",
     "sha256": "e7f8b01185fcc7c1f09c32886594149f8dbead3b7ccf28954ad00f345638a3d5"
+  },
+  {
+    "bytes": 3700781,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/009_live_01_mask/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "8f7e737f90e87f78ee4714a16a2849a1df91c2ecb0c45662250771cbcf69c600"
   },
   {
     "bytes": 7512,
@@ -257537,6 +258034,13 @@
     "sha256": "fae099c3bdea98e9187442821ac4b4e62f887481460bcd1b0fa515b45d0d777e"
   },
   {
+    "bytes": 1418224,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3cc0d58f5fa875b09fe676b89ccfc1c42a5e43903f0cde4b06b4bd473fd1dd4c"
+  },
+  {
     "bytes": 7727,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/010_casual_spring_01/model3.json",
@@ -258041,6 +258545,13 @@
     "sha256": "360406ccd4f1021c291a3a5e4f9d5a12f27e1163e95de1471883469cf510ff49"
   },
   {
+    "bytes": 89757,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_child_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "67035ec4462673cca5c91388e383d1e299540fb8ecd7c141f5c698b6d312d7c9"
+  },
+  {
     "bytes": 1032,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/010_child_casual_spring_01_still/model3.json",
@@ -258081,6 +258592,13 @@
     "path": "runtime/live2d/010_live-mode_live_01/model.moc3",
     "role": "runtime",
     "sha256": "5f81e970156cc1851c9da0d0a174644276d710c6be58c56d2cf8b7d299af4822"
+  },
+  {
+    "bytes": 1248682,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "5e8aae90407d9112befb3c7e9f67999ff49a95666c2fe56fbf827725ddb1cb1c"
   },
   {
     "bytes": 1547,
@@ -258179,6 +258697,13 @@
     "path": "runtime/live2d/010_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "a16f7081c139c81a35783668ed2298b8dbdd29c3cbc2d4c765a7a6d7a1f6a61b"
+  },
+  {
+    "bytes": 1218650,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f06118f59d25ae431e3cb5fab36e11e22bd0d4df5abe5f130a519e2f64760b8a"
   },
   {
     "bytes": 1184,
@@ -258459,6 +258984,13 @@
     "path": "runtime/live2d/010_live_01/model.moc3",
     "role": "runtime",
     "sha256": "9487d27dbf0ba276d08d1503a4464b52aede31efaca9024d75ca9e1c83362418"
+  },
+  {
+    "bytes": 1680028,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "a7a8ceb34501dbe99be7094be92ed5040c9c23169d70b84638e309f963bbe8e4"
   },
   {
     "bytes": 7692,
@@ -259140,6 +259672,13 @@
     "sha256": "5ed73d043a2ed963223b9390e56e85449645fec1e561d8175c0a7648e6014ecc"
   },
   {
+    "bytes": 1684301,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_live_01_mask/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3aedd9a21f4897f2ed66012afe078676526bc597e3403c3c649c13e30aacde99"
+  },
+  {
     "bytes": 7712,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/010_live_01_mask/model3.json",
@@ -259817,6 +260356,13 @@
     "path": "runtime/live2d/010_school_summer_hs_1st/model.moc3",
     "role": "runtime",
     "sha256": "356d2814a9e89296282737eee583024c4aa41363eca4069ca88177f47ed592d8"
+  },
+  {
+    "bytes": 6016105,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_school_summer_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b8baaa79694e103c979b39cba82edf9b604010cc9ff6b0c2ab3c8dabac1b6131"
   },
   {
     "bytes": 7741,
@@ -260498,6 +261044,13 @@
     "sha256": "96602fc83dd75bf111f65d32e7593056e8be2e799c154d9d196698c244ba67e9"
   },
   {
+    "bytes": 2964670,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "859c8665cbe9ab24bc273b47c8ca3306d7c0dc9c568f0a30f578cde67b69dfb0"
+  },
+  {
     "bytes": 7743,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/010_school_winter_hs_1st/model3.json",
@@ -261175,6 +261728,13 @@
     "path": "runtime/live2d/010_school_winter_jhs/model.moc3",
     "role": "runtime",
     "sha256": "624c27591d9e71a5d98d5c620f82b51e1df17c716a6b8046b10ec982d086d695"
+  },
+  {
+    "bytes": 3236100,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/010_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2b85833dc0b91245fa931c2af9e845f2fdfba04dd8d0b4ae650b162a5ffef105"
   },
   {
     "bytes": 7944,
@@ -261961,6 +262521,13 @@
     "sha256": "752318189b311b10113335d40b742b283bcd1762ad4be2da5cd2741bd343c153"
   },
   {
+    "bytes": 1587967,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_casual_spring_01_hairdown/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "eaf82be9df8209931eead1d28e9b7cd03436ca3efc29b62d952d511bba93c808"
+  },
+  {
     "bytes": 8406,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/011_casual_spring_01_hairdown/model3.json",
@@ -262708,6 +263275,13 @@
     "path": "runtime/live2d/011_casual_spring_01_hairdown_nose_glasses/model.moc3",
     "role": "runtime",
     "sha256": "caaba44dec74e3e9661c05c669a8fef37aa72bfb8e9489362f8a0f2199fc3a24"
+  },
+  {
+    "bytes": 1661037,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_casual_spring_01_hairdown_nose_glasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "6812256fa72d15c2b93536245d08b40086417e24988bc3b90d82215f9cc99769"
   },
   {
     "bytes": 8459,
@@ -263459,6 +264033,13 @@
     "sha256": "3f1bfef78a6f07bf9e9b7b25ab2a96c96c0d99698d3d7b5c07b34bc28a7577de"
   },
   {
+    "bytes": 1567290,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_casual_spring_01_twintails/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d91b822aee741844875d1ad3bc751cbbb48c8099248447f1e9c0ffe83a8cf8eb"
+  },
+  {
     "bytes": 8411,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/011_casual_spring_01_twintails/model3.json",
@@ -263949,6 +264530,13 @@
     "sha256": "7f3aca3cbcbd7a1b0c632733296a679d0208492236581809b87ee440003e8aac"
   },
   {
+    "bytes": 1193141,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_child_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "20116490cd10864a35d3cde8520eec7a5571094790382b842d28d165fd6a7e63"
+  },
+  {
     "bytes": 1241,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/011_child_casual_spring_01_still/model3.json",
@@ -264290,6 +264878,13 @@
     "path": "runtime/live2d/011_detective_01/model.moc3",
     "role": "runtime",
     "sha256": "cf8d2233394151d394b8956f5868c06a47a534f461169a0dc2f61ca273543e25"
+  },
+  {
+    "bytes": 1710471,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_detective_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "bcf46aced81aa09436b1da947e529f629b635d2c2f33d0d6c719df9159b6e002"
   },
   {
     "bytes": 8555,
@@ -264754,6 +265349,13 @@
     "sha256": "6a83fe9dfe3ffe3a14298b519050ef4e4894a83a5fee9effa96edc030130b8c9"
   },
   {
+    "bytes": 2261076,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "37b7e24c2df4dcec55b5cd785e20d168e298601db93c3702e7ec99fdf496f06b"
+  },
+  {
     "bytes": 1540,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/011_live-mode_live_01/model3.json",
@@ -264850,6 +265452,13 @@
     "path": "runtime/live2d/011_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "f90a3354bf57da8b78abd4085a68a1d2e9385a23b172ffaa0ffae030624f9521"
+  },
+  {
+    "bytes": 2260681,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "18c02352fd747ed76f483f02823a94f1d8d44c1c12ba1e3acc18e52cf11eb7f9"
   },
   {
     "bytes": 1180,
@@ -265228,6 +265837,13 @@
     "path": "runtime/live2d/011_live_01/model.moc3",
     "role": "runtime",
     "sha256": "9fd831ce394ecff7caf11a01d1e1c6cb0ce663a4e05c68939fa39c4c8588976a"
+  },
+  {
+    "bytes": 1716413,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "930e9101a472e4563f9d0934325506debb277952f97af6e213b205ddde7fd601"
   },
   {
     "bytes": 8334,
@@ -265979,6 +266595,13 @@
     "sha256": "dff823b33355ed0d8c703214c21940aba6016a6f9b980fa9971cb453717ba78e"
   },
   {
+    "bytes": 1493162,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_roomwear_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2b81c21f77c5502f845ae2598c62cf33e338e5a8c22a3497beee66fe4d20d7d3"
+  },
+  {
     "bytes": 8350,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/011_roomwear_01/model3.json",
@@ -266728,6 +267351,13 @@
     "sha256": "e5093afa2ddd0f475ef321c28fbd1897ca42f6f098948f0d2f4802830e1d1bf1"
   },
   {
+    "bytes": 1612015,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b2357c76c6a64dc37727e304c2e438ea785bdf5c176409a4d6366ecef89d9884"
+  },
+  {
     "bytes": 8373,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/011_school_winter_jhs/model3.json",
@@ -267183,6 +267813,13 @@
     "sha256": "9ce96447ed8f895b0fa471bc0384967121a810c482a968277315c34b44673690"
   },
   {
+    "bytes": 10205,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_soundonly_virtual_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f90209717c5c1e09aef060db8d3eebc519450cacf37d8799cab068b629c49525"
+  },
+  {
     "bytes": 960,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/011_soundonly_virtual_01_still/model3.json",
@@ -267524,6 +268161,13 @@
     "path": "runtime/live2d/011_virtual_01/model.moc3",
     "role": "runtime",
     "sha256": "15c1448ed784212b9cd2063a0afa97eafc7b4a4d45ebab5d1cc5ced062252090"
+  },
+  {
+    "bytes": 1599372,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/011_virtual_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "044841629ed6cd24dfb5d7b66b00e813552a4b14fead3b3619ebb30537964c19"
   },
   {
     "bytes": 8346,
@@ -268259,6 +268903,13 @@
     "path": "runtime/live2d/012_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "28415c538043f7f7db46c068cf185d537e020f28dd1ea35f880069ac5a978d33"
+  },
+  {
+    "bytes": 2304931,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d11f1abba427ee80bd1732952f600740300211ea49ded2764cdaa4626579470d"
   },
   {
     "bytes": 8268,
@@ -269003,6 +269654,13 @@
     "sha256": "b9d670bd65a951625687624c84f10ca89fdf513055ff04134496d5cba7fc9fc8"
   },
   {
+    "bytes": 2395718,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_casual_spring_01_nose_glasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "18de45b94a10526edce540bc4a9f21e766b568a05ad42bf93af0241030545404"
+  },
+  {
     "bytes": 8319,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/012_casual_spring_01_nose_glasses/model3.json",
@@ -269493,6 +270151,13 @@
     "sha256": "aa14f5b0af576ed9b7f5c0194ddba83f86ff7696f30fbb552409fce6cbd51e7e"
   },
   {
+    "bytes": 90879,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_child_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "878d76c729db8c7e8e948cd734b02a8748229d42fe03b24ca461a889f56048b5"
+  },
+  {
     "bytes": 1258,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/012_child_casual_spring_01_still/model3.json",
@@ -269827,6 +270492,13 @@
     "path": "runtime/live2d/012_detective_01/model.moc3",
     "role": "runtime",
     "sha256": "36e0f95bf36a3339bf6bf15c8ca080507b0bf407685b4ec4f5b86cd07a419bc1"
+  },
+  {
+    "bytes": 3008789,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_detective_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "36f87728c6cf00c34d7c317cb7572addbfd9909b1cb8dae0213f5232caff1802"
   },
   {
     "bytes": 8455,
@@ -270298,6 +270970,13 @@
     "sha256": "a8cdc585cfff9a9b82ad1ab0b31437280e9ed03a5c644d3316717212eff13f7e"
   },
   {
+    "bytes": 2422086,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "46ba4c433c6889f76c3272e1e339a4ddcd056b269098eedd4cd597a2f023d8de"
+  },
+  {
     "bytes": 1633,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/012_live-mode_live_01/model3.json",
@@ -270401,6 +271080,13 @@
     "path": "runtime/live2d/012_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "54c64d9dc441b17cc7a1d39bf07d4b74cd0feb1fa431fa743ef91c8f781ec1e9"
+  },
+  {
+    "bytes": 2405082,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b03c23d865436487b1a4176810befded9cd65f8f8cfdfc4f96533849e56385c8"
   },
   {
     "bytes": 1268,
@@ -270772,6 +271458,13 @@
     "path": "runtime/live2d/012_live_01/model.moc3",
     "role": "runtime",
     "sha256": "aab524a0db22767a3836f5e5baa3d6ae8fa1b79377c1d6e6d87869bbd6f16d21"
+  },
+  {
+    "bytes": 2568933,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b9ae82613ac98156227761949b0ba85e011447fcb4cbaad9437f95b84b37c42f"
   },
   {
     "bytes": 8231,
@@ -271516,6 +272209,13 @@
     "sha256": "8dd012e202ec68e015c4a3297810b2ba5a571159373915b0f8a7c8cc7da602d7"
   },
   {
+    "bytes": 2466363,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "cd5e423e5517e813b40e96ffbb2cbbdbcd3f5784f2b83c443135880581c62825"
+  },
+  {
     "bytes": 8272,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/012_school_winter_jhs/model3.json",
@@ -272258,6 +272958,13 @@
     "sha256": "f3e59e61920fde00175a5f61b714944e65b7fc58046978f5c041abb60bdc69ea"
   },
   {
+    "bytes": 2944722,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/012_virtual_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "861127f72ba58e53ab186e54aa6ed5e5398aea18e509d5032f213d1eb22994a3"
+  },
+  {
     "bytes": 8243,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/012_virtual_01/model3.json",
@@ -272972,6 +273679,13 @@
     "sha256": "329a9c1779687ed61cced5d3a7990d8a016124468121072084229f1c40485996"
   },
   {
+    "bytes": 1696231,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "7db0c908c29906aa331c5c26f09b549063a3e712124180d2407b18de8016a988"
+  },
+  {
     "bytes": 7798,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/013_casual_spring_01/model3.json",
@@ -273665,6 +274379,13 @@
     "sha256": "cf9032f8c70a101a03a07fc79cb9341a3e8bbd49f10490cce49111cfd5f7bb6f"
   },
   {
+    "bytes": 1820632,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_casual_spring_01_nose_glasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d5f7a157df85e5215f54763e48af7f407130b436dc175980bbe6345885a232a5"
+  },
+  {
     "bytes": 7849,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/013_casual_spring_01_nose_glasses/model3.json",
@@ -274148,6 +274869,13 @@
     "sha256": "53f34c9f7211490140e5678b35dd9e4886380fbf1b5c1c8954821dab29496553"
   },
   {
+    "bytes": 431621,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_child_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "83d7b97d241e149a5b003e82f3372bb852165097cf04a4bff1253c29ddf5cfc4"
+  },
+  {
     "bytes": 1238,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/013_child_casual_spring_01_still/model3.json",
@@ -274188,6 +274916,13 @@
     "path": "runtime/live2d/013_live-mode_live_01/model.moc3",
     "role": "runtime",
     "sha256": "8fa1cc0c98b6d3cd7186af65ca4c7564d87e43280e61c6431576913db4276a59"
+  },
+  {
+    "bytes": 1363404,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "6b119969902d52e169780cc5c9d250ddab8de74a761eb41f685dee545821a05f"
   },
   {
     "bytes": 1539,
@@ -274286,6 +275021,13 @@
     "path": "runtime/live2d/013_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "123b69c678d7ebfd2216db9939e8753b6c31e13a2a30628a323d8aa0dc505eb2"
+  },
+  {
+    "bytes": 1349313,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "09ac3af5b8a75bf02d646d3cc428ca54863bf347ed9d94c957f7b86545413e25"
   },
   {
     "bytes": 1181,
@@ -274622,6 +275364,13 @@
     "path": "runtime/live2d/013_live_01/model.moc3",
     "role": "runtime",
     "sha256": "4f57171f4b025f7e208f0c17e6d2d8af9d9f9ff72cdf983a0bd8a7cc121b9556"
+  },
+  {
+    "bytes": 1793304,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "8a749b224d9b4d6bd725aa9ed378b02b95a140d0dc4fac95512707c79c7692d0"
   },
   {
     "bytes": 7761,
@@ -275317,6 +276066,13 @@
     "sha256": "fffbbc302b6d3c7db5c4e5e9f383636b16080610e9271b5fcac96ea73284abf4"
   },
   {
+    "bytes": 1719513,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e26cc3b924ed7c53175dbf389a90206b3dd8b1af0543eb0c4534d0e9dbd31ad2"
+  },
+  {
     "bytes": 7795,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/013_school_winter_hs/model3.json",
@@ -276010,6 +276766,13 @@
     "sha256": "01aac711429be66f355e61c5214f8ac738a3f0c11f7196616e957c13a8a337b8"
   },
   {
+    "bytes": 1934246,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e14bd87f89ee90b4dd6c8303d4f0d6b30c6b93c000a8d54ff342234cde2dae6f"
+  },
+  {
     "bytes": 7802,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/013_school_winter_jhs/model3.json",
@@ -276451,6 +277214,13 @@
     "sha256": "24695e05e78696645f0872578f5803bdcafd583129ac826e72cec161cd8e805d"
   },
   {
+    "bytes": 8993,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_soundonly_virtual_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3b984b3b5cfc55ad2ee4216999134471d091e3a5855b4750a40aa05041df3352"
+  },
+  {
     "bytes": 1017,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/013_soundonly_virtual_casual_spring_01_still/model3.json",
@@ -276750,6 +277520,13 @@
     "path": "runtime/live2d/013_virtual_01/model.moc3",
     "role": "runtime",
     "sha256": "da7d037c09ef61f17f503ace39c380772492ba10ce378cbfe17a4d22aa9cb881"
+  },
+  {
+    "bytes": 2124458,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/013_virtual_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "411d3526482a744a4535a23ad73723aff72fc8082034385148396724a37c98d1"
   },
   {
     "bytes": 7773,
@@ -277506,6 +278283,13 @@
     "path": "runtime/live2d/014_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "846bf452d44d05dd5e9eaa24688e5ae5575be008583a68192ea4ce48c5efed24"
+  },
+  {
+    "bytes": 2167950,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b14715af481be4ffcf3ae145e4eb0af78b63ac5f3d15280138a85b4f8fd7c1e0"
   },
   {
     "bytes": 8860,
@@ -278388,6 +279172,13 @@
     "path": "runtime/live2d/014_casual_spring_01_marukun/model.moc3",
     "role": "runtime",
     "sha256": "c3d8d7864667d2467e8b3abec9092038be07bcc841d7a64f4d82f35b335bc7a7"
+  },
+  {
+    "bytes": 2242616,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_casual_spring_01_marukun/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e5032b7f73c1cbd0a0bdc7608b743c9627bd239db73418309fb3d8a4c2cdc544"
   },
   {
     "bytes": 11506,
@@ -279321,6 +280112,13 @@
     "sha256": "fab5412afce9f4377e4ba8e29d62d2d863489ccd49306bfcd8fc05e5bb059850"
   },
   {
+    "bytes": 2269256,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_casual_spring_01_nose_glasses/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ab6817e39cdee6fab815efc59f4304b874149d7f0082fb4b2aa689d77085c363"
+  },
+  {
     "bytes": 9146,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/014_casual_spring_01_nose_glasses/model3.json",
@@ -279811,6 +280609,13 @@
     "sha256": "1457a212797ca55c060980b6d53dbd7215774f5889557b144720fa38860b9d7a"
   },
   {
+    "bytes": 3359673,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e20ebbacea0a48d1d07b1b82395ede0fbb1791876d31d85d6ff735be256f53b3"
+  },
+  {
     "bytes": 1546,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/014_live-mode_live_01/model3.json",
@@ -279907,6 +280712,13 @@
     "path": "runtime/live2d/014_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "1d26046d66729348ff532f37383666f55acd03b0b1f23f313ffc2785ef61e991"
+  },
+  {
+    "bytes": 3359214,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "07da481f91d2f305232f5727ee28d46b4f217d2187bf8873dbecb54595db8b91"
   },
   {
     "bytes": 1184,
@@ -280306,6 +281118,13 @@
     "path": "runtime/live2d/014_live_01/model.moc3",
     "role": "runtime",
     "sha256": "03dbbb892d78f68f29b7277db544ee35d98eb19240b7a8092421d100eef20705"
+  },
+  {
+    "bytes": 2314522,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "12d28adc49cba5bf98e383adca90a41234209c616833997c67d6cd3f44f838af"
   },
   {
     "bytes": 8822,
@@ -280791,6 +281610,13 @@
     "sha256": "4cc279914f679a286808ba8dbcb5598beec85a7ac09d624ac9fe4cff51fcca90"
   },
   {
+    "bytes": 9610,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_soundonly_virtual_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0e930def9c0746d2add277712675a99e3af25246a6ab6e58c04e6a92e79dae03"
+  },
+  {
     "bytes": 965,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/014_soundonly_virtual_01_still/model3.json",
@@ -281153,6 +281979,13 @@
     "path": "runtime/live2d/014_virtual_01/model.moc3",
     "role": "runtime",
     "sha256": "24dfc86f7bcf13bea05eac7a36938ab72abc78eb04d730523d2a83c97681ca6f"
+  },
+  {
+    "bytes": 2276778,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/014_virtual_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "40a304bc239354bd1f70ac51cb737bc916e1e5729f168e9c534e2b7941bcf715"
   },
   {
     "bytes": 8835,
@@ -281876,6 +282709,13 @@
     "sha256": "05988a789630cb8fa0e4963f6fd50e37af6ae50a092640e0267765c98cfd6988"
   },
   {
+    "bytes": 2392120,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/015_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "84a2a5e44dee094641bf10ebff4f887ed7aab2e662c2965f543ec4bbaee5bf0e"
+  },
+  {
     "bytes": 7425,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/015_casual_spring_01/model3.json",
@@ -282492,6 +283332,13 @@
     "sha256": "767d32ccaa5cc575e9c78074bc5d2de3c0ca5014e9616b0aacd5c17a6e6e70f1"
   },
   {
+    "bytes": 2437288,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/015_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "dc340a582c6047f8e35546ab3ed6f58ce92845faa2136e21a70e9419a18c42e4"
+  },
+  {
     "bytes": 1533,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/015_live-mode_live_01/model3.json",
@@ -282588,6 +283435,13 @@
     "path": "runtime/live2d/015_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "833847b170a9f355ce6aa6d938f0d999c8b2351959bc9bf56275f38a5919ddee"
+  },
+  {
+    "bytes": 2437321,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/015_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "9c77e711906ae4c3a938b9c92f04adf045069da5547a1437fc473652af6f1967"
   },
   {
     "bytes": 1179,
@@ -282910,6 +283764,13 @@
     "path": "runtime/live2d/015_live_01/model.moc3",
     "role": "runtime",
     "sha256": "335ab0678726eeb21920f5a79a00fb77834360b7ff49836909269e6cf0da2af8"
+  },
+  {
+    "bytes": 2493197,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/015_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3df600373e19b7f1156f6ed4a7c1ef951ab59fde0b30ae0cfac13b8cc328077b"
   },
   {
     "bytes": 7304,
@@ -283561,6 +284422,13 @@
     "path": "runtime/live2d/015_school_summer_jhs/model.moc3",
     "role": "runtime",
     "sha256": "d372d107b2691c844aec4a9ada1a26e49075a12d7087324ef88e1e4ab312cb1a"
+  },
+  {
+    "bytes": 2457013,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/015_school_summer_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f2dbe0f5d7d63e43313695000ad66c5e88ad1685bd7d0a8508b22d8199cf8352"
   },
   {
     "bytes": 7580,
@@ -284233,6 +285101,13 @@
     "path": "runtime/live2d/015_virtual_01/model.moc3",
     "role": "runtime",
     "sha256": "823c2a15fc0256b72f867354005c2f19733fd0ff02cacb1872886575de4dac92"
+  },
+  {
+    "bytes": 2669280,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/015_virtual_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "c7ebc0e5f7fdcd5e3a377b3e1c06d538ece6e307c87a22a74d471c090362cded"
   },
   {
     "bytes": 7316,
@@ -284970,6 +285845,13 @@
     "sha256": "1668f88f8a1f1aeef24ece5f3487169eec75fdd00224c4b71b80e4d7b4e8ce11"
   },
   {
+    "bytes": 5303393,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/016_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b6c55480ab2851a52138bd588130c63002e58cf9086039a0b9886e49a749fff4"
+  },
+  {
     "bytes": 9165,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/016_casual_spring_01/model3.json",
@@ -285544,6 +286426,13 @@
     "sha256": "f65096c48914b639254b4eaff211c8887cdc2c191063e92f817b8a8d8021e09b"
   },
   {
+    "bytes": 138601,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/016_child_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "943cc95ca4dcc4cefeef82c330587535f5ca19295688121dba890c8986ecda83"
+  },
+  {
     "bytes": 1665,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/016_child_casual_spring_01_still/model3.json",
@@ -285598,6 +286487,13 @@
     "path": "runtime/live2d/016_live-mode_live_01/model.moc3",
     "role": "runtime",
     "sha256": "fd9b45821aea34ed3d8f0a42e58c71201f6b928af42bc2b3e254dfa0bea0ff62"
+  },
+  {
+    "bytes": 4206129,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/016_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "813821c41d27006e837bf281a02b0e00c1fbfebf6a8a56ce6b3a2f983e27d313"
   },
   {
     "bytes": 1545,
@@ -285696,6 +286592,13 @@
     "path": "runtime/live2d/016_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "af545c851ea7bc59e4d496eef40134c3cbf27498f4b4bad10ed88b7f6d9f5289"
+  },
+  {
+    "bytes": 4205546,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/016_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "5c57903d99505b27daf28c0e04ad97414142925882694dc86edf626da844d84b"
   },
   {
     "bytes": 1184,
@@ -286102,6 +287005,13 @@
     "path": "runtime/live2d/016_live_01/model.moc3",
     "role": "runtime",
     "sha256": "37db044ad8b34ab136fecd48262f1ea9f3c177961b37d0795ced5244cce18e73"
+  },
+  {
+    "bytes": 5899587,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/016_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "7e8243a1f6b4d7a286422c02b392bd65571a4ea2ede1d696c856fa38de3669b4"
   },
   {
     "bytes": 9128,
@@ -286881,6 +287791,13 @@
     "sha256": "7174d5a4e93f5685c6ce51f3118b310a150a76d41f8b129b7216b4f7255fded8"
   },
   {
+    "bytes": 2760428,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "a218b4240d54be3de8e48cf78335dc103eaecf76a9a9cb03cd36b140b5640f23"
+  },
+  {
     "bytes": 7988,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/017_casual_spring_01/model3.json",
@@ -287322,6 +288239,13 @@
     "sha256": "c90afd95468c8cf0cb0f6a8709316aec8872c9f3d6fed161d147f522fb133def"
   },
   {
+    "bytes": 1213655,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ac04c39971b0d07721f229d3fd906dd281b4a5989a6c312d8acd5df2ad843107"
+  },
+  {
     "bytes": 1739,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/017_live-mode_live_01/model3.json",
@@ -287425,6 +288349,13 @@
     "path": "runtime/live2d/017_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "64910c5264146663e99f125e7c3f266e4137156c53dc353f4f5fe1ea7aee6335"
+  },
+  {
+    "bytes": 1199189,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "44672baf1f8835a3e6da64117f2470f0e0620e05365c3a6ba5e0ca3fd34fcf01"
   },
   {
     "bytes": 1185,
@@ -287782,6 +288713,13 @@
     "path": "runtime/live2d/017_live_01/model.moc3",
     "role": "runtime",
     "sha256": "8c6f1244d53e2c4dbefe6fdca727e5ac7cdebc1bcc36400bf202742244a9a7d3"
+  },
+  {
+    "bytes": 2276246,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "81a28cca69c6e97a374122106f0be5b272548e02e16871965129943c1d2da22b"
   },
   {
     "bytes": 7952,
@@ -288498,6 +289436,13 @@
     "sha256": "a81eae7cc0d3461cca7be94f78d929a90162e22ca9b6e304c0558d1e068ac1d1"
   },
   {
+    "bytes": 2188188,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_school_summer_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "51fad4987cb6434776234a8ce314e4ffd49e5508bda9f5a6a640bd5a32fe353e"
+  },
+  {
     "bytes": 8009,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/017_school_summer_jhs_3rd/model3.json",
@@ -289210,6 +290155,13 @@
     "path": "runtime/live2d/017_school_winter_hs_1st/model.moc3",
     "role": "runtime",
     "sha256": "bf29b724d0a4cff7f899b22f0e3526fe9f74b7967bdf8155fa4ac166565564fc"
+  },
+  {
+    "bytes": 2254489,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "4d2994e9fbde11d83ae91dce62131419d8eaadde1c1740a2ab1a604770a69ab9"
   },
   {
     "bytes": 8005,
@@ -289926,6 +290878,13 @@
     "sha256": "31c6cec4d947e47e722f0a6ea37357c9369489727495e1b1c7c1435e1e88b364"
   },
   {
+    "bytes": 2254456,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_school_winter_hs_2nd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "6c6414d70a40c11bd12d402fd09ba73e317ed201ec7b9af89d56cb7d79bd8715"
+  },
+  {
     "bytes": 8004,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/017_school_winter_hs_2nd/model3.json",
@@ -290640,6 +291599,13 @@
     "sha256": "49eca54fbf9703de1d6cec72c80166b9ad6ec647cda3cec03c327700e197f035"
   },
   {
+    "bytes": 2252302,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/017_school_winter_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e11f333b8944f5c1990cbca7c6c337fd45df1c4196b0f129f2c9a5b9e64fb37a"
+  },
+  {
     "bytes": 8009,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/017_school_winter_jhs_3rd/model3.json",
@@ -291326,6 +292292,13 @@
     "sha256": "fcf6f3d4b2d58d6dc7970d85bcabb0d10189b072faa51bcbec9343e8213b122d"
   },
   {
+    "bytes": 2739877,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "6d206724c5d4bb6145035ac36e2a5fdb5369dd0e2465edc5f9e9d5e9772674a8"
+  },
+  {
     "bytes": 7454,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/018_casual_spring_01/model3.json",
@@ -291900,6 +292873,13 @@
     "sha256": "bf3b344dac8d61f6d163c7b1e45c292d5985af395f417af0f9ffd0a601ad98a1"
   },
   {
+    "bytes": 2933628,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_child_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "feb46b69fb6a09d0509e310c7934ca9588e8bc89b75e180f82bdcc8634df49f2"
+  },
+  {
     "bytes": 3758,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/018_child_casual_spring_01/model3.json",
@@ -292061,6 +293041,13 @@
     "sha256": "a7537dae23e87a270358e77fffa15f00c6bcf53a5083c6819e5acb0d798849a5"
   },
   {
+    "bytes": 1244964,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "205483393166f0179bf01f17903c2541b263534ea98e54cb2da02b280b74010c"
+  },
+  {
     "bytes": 1533,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/018_live-mode_live_01/model3.json",
@@ -292157,6 +293144,13 @@
     "path": "runtime/live2d/018_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "b6459452a0c7139dc8a8d8ead79da16a86641d4f38fa14dd756cb22cfa2e60bd"
+  },
+  {
+    "bytes": 1218159,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "835ddbdb45f1545056ea00830512f34da7664e6d50bcad3e44afeb069e5445bf"
   },
   {
     "bytes": 1179,
@@ -292486,6 +293480,13 @@
     "path": "runtime/live2d/018_live_01/model.moc3",
     "role": "runtime",
     "sha256": "2fcae37e4a20d6222a1fffb6407b43d61d3b213b2ec17caf9ace442f85ee9b94"
+  },
+  {
+    "bytes": 2636944,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "1224ee5139bea5a5c8f31c3e61598c6e4edbad2490c6974fe1bd21505b44a87f"
   },
   {
     "bytes": 7211,
@@ -293132,6 +294133,13 @@
     "sha256": "fa6fc8adddb127787766daabe85d873583a66b8598e4cb1c3a8f7f19400315af"
   },
   {
+    "bytes": 2720451,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_school_summer_jhs_2nd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "4ac59302f09d815023ecef2203459010b1578715c09c5e8f32a30568fb7215ea"
+  },
+  {
     "bytes": 7267,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/018_school_summer_jhs_2nd/model3.json",
@@ -293774,6 +294782,13 @@
     "path": "runtime/live2d/018_school_winter_hs_1st/model.moc3",
     "role": "runtime",
     "sha256": "0d37635d197fc5c951e228d21140fd1882d028cab675b2fb64debcb1ab72bbd8"
+  },
+  {
+    "bytes": 3644977,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3a77aecd477e122e36886a97363f3141de16dc6609c4ba1f0c4e0d2068b7df13"
   },
   {
     "bytes": 7263,
@@ -294420,6 +295435,13 @@
     "sha256": "1b84a11eb977795812204b5c3d863610c7644a271eb5b177afaa328608401f79"
   },
   {
+    "bytes": 3648648,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_school_winter_jhs_2nd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f135f4c414a3b3496fecce9b45dee26f156995597b3cfc7d269eec1c198789fa"
+  },
+  {
     "bytes": 7266,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/018_school_winter_jhs_2nd/model3.json",
@@ -295062,6 +296084,13 @@
     "path": "runtime/live2d/018_school_winter_jhs_3rd/model.moc3",
     "role": "runtime",
     "sha256": "4c3e6e3ba870a28aae37fdab73854208fbbe167cf486a9d69ab89f6b4bdb5cb2"
+  },
+  {
+    "bytes": 3645754,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/018_school_winter_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d216db076f90a01f3c2c738daf363906280d026a03d66b13653aea82232f007e"
   },
   {
     "bytes": 7268,
@@ -295778,6 +296807,13 @@
     "sha256": "d0d901039c262490001ce2913a7302267c381da66f6418919d6bd16fbc613e2b"
   },
   {
+    "bytes": 2286537,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "79b0b2f3cdd08b38d3ca58f04d0a3f891698fa0250fd7a85e1235cef3e6e6431"
+  },
+  {
     "bytes": 8382,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/019_casual_spring_01/model3.json",
@@ -296387,6 +297423,13 @@
     "sha256": "d0e265266aa29131724171295636c28e24ecfdadc2be9c77274c108c11ef2a28"
   },
   {
+    "bytes": 2233629,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_child_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d4bc75f34eaefe3c98edd2777be57225d7cf97eb1acd2f23585ca33a9b85d008"
+  },
+  {
     "bytes": 3292,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/019_child_casual_spring_01/model3.json",
@@ -296506,6 +297549,13 @@
     "sha256": "0d2876c912034a6e97ea7d996a90051502cf4e4141dc5025a2800d53f119c7fe"
   },
   {
+    "bytes": 2199772,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "cb970075771c6f45fe44d3d63a595ce795db0b61c1382ab04a2c5ae359158cb5"
+  },
+  {
     "bytes": 1547,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/019_live-mode_live_01/model3.json",
@@ -296602,6 +297652,13 @@
     "path": "runtime/live2d/019_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "7b264f33eb454a7b2ba4383f30861cd4a45758c998adeb4bc164740b07fe11a4"
+  },
+  {
+    "bytes": 2177685,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2ad5a78572ef052e9dbbe11cf9e2c9aac2016c8118f7f39f623647babe9198a9"
   },
   {
     "bytes": 1184,
@@ -297001,6 +298058,13 @@
     "path": "runtime/live2d/019_live_01/model.moc3",
     "role": "runtime",
     "sha256": "2efa2e63d1f4eb12c3d1e81ab37d312eae787ece3f14adfed713583b51209c8d"
+  },
+  {
+    "bytes": 2622802,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0449198e1c387cb6338b74960a049f7e7a0bc5cb38ee534cf253806d48d0b6ac"
   },
   {
     "bytes": 8343,
@@ -297757,6 +298821,13 @@
     "path": "runtime/live2d/019_roomwear_01/model.moc3",
     "role": "runtime",
     "sha256": "d9e25b5a8c6aa31b3d74f3c04a441a25e9895eb449d0af9b0875550b501d8b80"
+  },
+  {
+    "bytes": 2017779,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_roomwear_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "5dced8d0739e9f040bcf3d3dcc57332ab58d4702e7b0c258c4f8073b534ca39a"
   },
   {
     "bytes": 8563,
@@ -298522,6 +299593,13 @@
     "sha256": "b5f6c1a0979ebe4807290dd7066fe5a17919996aa662ae18ad8ed32521abd697"
   },
   {
+    "bytes": 2048595,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_school_summer_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "85ee06b222d67d2828dc7409b5e259afc5c6b10b48eb65a513b87cd6b5a48858"
+  },
+  {
     "bytes": 8402,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/019_school_summer_jhs_3rd/model3.json",
@@ -299278,6 +300356,13 @@
     "sha256": "127b8e4552eb8e1c6e10a5d54810f950b5d1d8ddf0ed562ff96ee8ece4304721"
   },
   {
+    "bytes": 2969145,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "20913ebb631334ee0607b756b8f02d5bd014a889acbab78dd6821c02fa9f1531"
+  },
+  {
     "bytes": 8399,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/019_school_winter_hs_1st/model3.json",
@@ -300032,6 +301117,13 @@
     "path": "runtime/live2d/019_school_winter_hs_2nd/model.moc3",
     "role": "runtime",
     "sha256": "8a9828aff321483f410e411727bab6d2323f45a9aedf3a8f060d3edc0a7e7c5f"
+  },
+  {
+    "bytes": 2970923,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_school_winter_hs_2nd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "16422a7dbb3df27305eeb6965253ab4e0d435313d8e532f748c7c44e41f77f26"
   },
   {
     "bytes": 8481,
@@ -300797,6 +301889,13 @@
     "sha256": "72387531d4eb3f35ea814cdd2105ce17349e7b15ca07bd6b20e9b1443306035d"
   },
   {
+    "bytes": 2968814,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/019_school_winter_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "c32e0e197b942f7cd35049576457eda948535564332eb27979055f8b99061910"
+  },
+  {
     "bytes": 8403,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/019_school_winter_jhs_3rd/model3.json",
@@ -301490,6 +302589,13 @@
     "sha256": "fee93b11130e550e3a7a555700e83c5cf82238d0b50226e8c2569ffdd3f5ef54"
   },
   {
+    "bytes": 2985871,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/020_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "de695c0baacc9c3d28c4a15495b5bc2dd9e819d42a3991a1b15c2b0c8cda046b"
+  },
+  {
     "bytes": 7569,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/020_casual_spring_01/model3.json",
@@ -302127,6 +303233,13 @@
     "sha256": "8fc46757514daa4409d095201fed94316f582d8c4c94946ad2db8f1b8ddd74f6"
   },
   {
+    "bytes": 2393871,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/020_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e0de3c27c0945b49fa64ff2982a3fd210dbc93275ee65d833aa3f09227727c1b"
+  },
+  {
     "bytes": 1804,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/020_live-mode_live_01/model3.json",
@@ -302237,6 +303350,13 @@
     "path": "runtime/live2d/020_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "cf63cec9a77bf8434db0c4ffe68d5108ddd636906b134c38f48365e9e2268ca5"
+  },
+  {
+    "bytes": 2392897,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/020_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "260ef143cceee0a2fa20b8ff8cbb4449f4d54170fb299acd9c10d5643da10531"
   },
   {
     "bytes": 1262,
@@ -302580,6 +303700,13 @@
     "path": "runtime/live2d/020_live_01/model.moc3",
     "role": "runtime",
     "sha256": "4e651d8611baf1ac980ec1a72c4a5c028e5ca281932da2557c6271bbe2d176b2"
+  },
+  {
+    "bytes": 3194892,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/020_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "cfdd77d2c9435c98699966a2456c803cd4db97f710609f2bf1e6fe387bcc2d31"
   },
   {
     "bytes": 7532,
@@ -303252,6 +304379,13 @@
     "path": "runtime/live2d/020_school_summer_jhs_2nd/model.moc3",
     "role": "runtime",
     "sha256": "7f41eead217ed926fcc80a5523f5838d40c0f4de7c9ca69925b03fb02443163e"
+  },
+  {
+    "bytes": 2966404,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/020_school_summer_jhs_2nd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3bcee4cc470e46f7d518322661add8e3c2abdcb1a01836182f6675ff888d50f0"
   },
   {
     "bytes": 7590,
@@ -305296,6 +306430,13 @@
     "path": "runtime/live2d/020_school_winter_jhs_3rd/model.moc3",
     "role": "runtime",
     "sha256": "78ceacfe51899536edb0c43dfd4037a335e55e5b42d906d274d50fb6489f8df0"
+  },
+  {
+    "bytes": 3015419,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/020_school_winter_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "be4522f5ef48b78229543d44705f056e14cc97955fbcf27146c03f695e713530"
   },
   {
     "bytes": 7807,
@@ -307349,6 +308490,13 @@
     "sha256": "2e459ad53894bd77e9667cce149721c5bab4d1c2c7bd922effca7108469a62c1"
   },
   {
+    "bytes": 1036125,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/021_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e4735f3d3b95540f38cd2f1abf7f2f8e2eea348fe9e516fe67d834239b91eb9d"
+  },
+  {
     "bytes": 1541,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/021_live-mode_live_01/model3.json",
@@ -307445,6 +308593,13 @@
     "path": "runtime/live2d/021_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "cef4a6bfbcaf863e0b7a8c1ddc7bf6b99f2d90c9d24e10560f5e10300c3aade4"
+  },
+  {
+    "bytes": 1022126,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/021_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2482718e0bc71780f4a53989466dba53b55b5ffdc459811bb05a4f880708f549"
   },
   {
     "bytes": 1182,
@@ -310135,6 +311290,13 @@
     "sha256": "116fa96df0e2bc1c582bfa0cf4a813cbcbf59bf1e957341efb7312eac8b93460"
   },
   {
+    "bytes": 2270188,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_arbeit_livehouse_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "46ccfee3f4517096e04b37742d9d93e3d62bbdc8c53ddb4526038d720527a8f3"
+  },
+  {
     "bytes": 9262,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/022_arbeit_livehouse_01/model3.json",
@@ -310968,6 +312130,13 @@
     "sha256": "2922e11d1b18b0600f110c2c752011b97ddafd173e987f0121282663a61eb8fe"
   },
   {
+    "bytes": 2439616,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ca68e09414af98144d6ae5e496addcb03f09642fcb5e2f7f2c7dfeebc6a850d5"
+  },
+  {
     "bytes": 9250,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/022_casual_spring_01/model3.json",
@@ -311556,6 +312725,13 @@
     "sha256": "cdfb40d5ae687a8dbd0cf2e7b9a7d0506ee64a6315cb3f5bc0472a36d5e0d979"
   },
   {
+    "bytes": 128122,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_child_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ed62be8d85185d5d67efb6b3547256eef1d0ef01847b49af582e837fcae11da1"
+  },
+  {
     "bytes": 1867,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/022_child_casual_spring_01_still/model3.json",
@@ -311946,6 +313122,13 @@
     "path": "runtime/live2d/022_idol/model.moc3",
     "role": "runtime",
     "sha256": "d3bdfa448ac3bb9703518c36f56d45d7d44876cb56e1090d1d215c7441aed434"
+  },
+  {
+    "bytes": 2450132,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_idol/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f078ca7ccdcf48a29b0bc5fc53b730bad255852fa852dfa93de95a74df043557"
   },
   {
     "bytes": 9121,
@@ -312452,6 +313635,13 @@
     "sha256": "9c2a6b68b2fc7b64f11175f3404791104a6c4e67bd6ea21da8c3037d0f024d46"
   },
   {
+    "bytes": 1114673,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_live-mode_birthday2627_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "5aefff834b262190911fb3bd18af7ab0df08ab52b01c3b30b8bd143d68d9be10"
+  },
+  {
     "bytes": 1584,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/022_live-mode_birthday2627_01/model3.json",
@@ -312550,6 +313740,13 @@
     "sha256": "4c0a6447ee25c5eaa4916e503cd55277faf48183fb8213c4ed8c5624b6c3fefd"
   },
   {
+    "bytes": 1082041,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_live-mode_birthday2627_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ceddeec5a1886a49d19e41476b3a44c5dee2d73d987210186c812e18d4277a78"
+  },
+  {
     "bytes": 1195,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/022_live-mode_birthday2627_01_low/model3.json",
@@ -312632,6 +313829,13 @@
     "path": "runtime/live2d/022_live-mode_live_01/model.moc3",
     "role": "runtime",
     "sha256": "9fe1e85f67d7e583e1fb52fc583d57bbdd0721293c66db54e0465ec53d628b7f"
+  },
+  {
+    "bytes": 1221358,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "1c99e04431104591229471ebee2dcf05f78ac6eb23e5f95e079917d2c750de78"
   },
   {
     "bytes": 1533,
@@ -312730,6 +313934,13 @@
     "path": "runtime/live2d/022_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "526d6385bd87f32debd29151466d90c78464e4533d9376d452f742602491e79c"
+  },
+  {
+    "bytes": 1172721,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "88d8e75710a0ec21beac376c432923e9549bb89203ca86fd8041741d47f35358"
   },
   {
     "bytes": 1179,
@@ -313985,6 +315196,13 @@
     "sha256": "73b5a90f55a9bf2c397f307eaea5816e9ab2faac254d93763aa1c02dd21c2b51"
   },
   {
+    "bytes": 2677521,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_roomwear_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "bfbd11bb71ded4d53989f5e823d2f6d4b186e649889428b79ce08b269d708465"
+  },
+  {
     "bytes": 9308,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/022_roomwear_01/model3.json",
@@ -314825,6 +316043,13 @@
     "sha256": "7f8ac1bba6aaf655b270bf41e1c46a958fa8c75fdaad2ba343dc7b16e8742330"
   },
   {
+    "bytes": 2289198,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/022_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "5c29a0a20e9a86d50c709b8700834b1490becf3608fe7bb73cef13a9e3370835"
+  },
+  {
     "bytes": 9174,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/022_school_winter_hs/model3.json",
@@ -315602,6 +316827,13 @@
     "sha256": "4ed433db8728a06221c1c645e74bbf94d5199bb68162021e6ead1ee8641cf55b"
   },
   {
+    "bytes": 3559704,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/023_arbeit_livehouse_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "954f4d70ca677c0ccc1a0053e8400ae653451f419bd4aae3d770a16b1f982521"
+  },
+  {
     "bytes": 7937,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/023_arbeit_livehouse_01/model3.json",
@@ -316309,6 +317541,13 @@
     "sha256": "28616ac5872a8926c4d3ec86193e0188c18180e190a42a3d8e157146188fdf30"
   },
   {
+    "bytes": 3333022,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/023_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "30c4cf3d0c2bec4c195e918cf9f95dbb77140ecdc773fe9b088812171468ed9c"
+  },
+  {
     "bytes": 7926,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/023_casual_spring_01/model3.json",
@@ -316743,6 +317982,13 @@
     "sha256": "20f29c87dbd98b60cefdfb879918ce797b71edee36cc78a36fb80f8e2af9cffe"
   },
   {
+    "bytes": 6386454,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/023_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "a2c50ea211deffa758a9e8ced1ce9ff7c1e13b90fe4bbac1b17e59be14eab821"
+  },
+  {
     "bytes": 1548,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/023_live-mode_live_01/model3.json",
@@ -316839,6 +318085,13 @@
     "path": "runtime/live2d/023_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "7241bfaec57f64cf0e940da551e978e1009a00368d0caca83806e10576353f29"
+  },
+  {
+    "bytes": 6256194,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/023_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f33fe4f9d90a4570a356ff9264b1e753d7cca7377665590173f553494dbdf64c"
   },
   {
     "bytes": 1182,
@@ -317196,6 +318449,13 @@
     "path": "runtime/live2d/023_live_01/model.moc3",
     "role": "runtime",
     "sha256": "70822f8618dee7909b222413a0dadae5d11fffc9f1169ff148f1a47be0d519d5"
+  },
+  {
+    "bytes": 3111978,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/023_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2f24a292843340a48b1607a000c7dda4605779c71bcb239e17772913ab1bad2f"
   },
   {
     "bytes": 7889,
@@ -317905,6 +319165,13 @@
     "sha256": "cd3e46c15fb764a4a38f79d4ab0d33c1d6974ac6d04c33c3a6550e1a845e0bf9"
   },
   {
+    "bytes": 2965533,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/023_roomwear_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "78c5c798238f9610394c85c91a21dca5323e1631a19c97c1afa094df13fc3cd3"
+  },
+  {
     "bytes": 7906,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/023_roomwear_01/model3.json",
@@ -318540,6 +319807,13 @@
     "path": "runtime/live2d/024_arbeit_livehouse_01/model.moc3",
     "role": "runtime",
     "sha256": "491b76682f2f0b323c003fa7b912508b8f4e6efd9f463b8cd59e476bb9f75f59"
+  },
+  {
+    "bytes": 2079795,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/024_arbeit_livehouse_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "7b8057e7bbc9bad4b748cc09df9dd9400158f98e13fc7c94296dc4b5b7f12cf1"
   },
   {
     "bytes": 7257,
@@ -319179,6 +320453,13 @@
     "sha256": "55f0bfef0c7484c3633273d3dad1a140aff428d1f60fa0aefa021d5b850217e6"
   },
   {
+    "bytes": 2013051,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/024_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "18bd65ccdaac4bc7d68257613a5706cfa02d1bd8c145bb9917f8dc4ac7bd0eb3"
+  },
+  {
     "bytes": 7245,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/024_casual_spring_01/model3.json",
@@ -319613,6 +320894,13 @@
     "sha256": "43dda709269e08519f55e60cff869fcf5fde1d7891e366a356e913bed316f766"
   },
   {
+    "bytes": 1643758,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/024_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "bd82f5705f138746f6500879f17e34146e240dabf2911bb5562c7de8462075b4"
+  },
+  {
     "bytes": 1734,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/024_live-mode_live_01/model3.json",
@@ -319716,6 +321004,13 @@
     "path": "runtime/live2d/024_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "065ea9141b4119d615e0d583766cb05599f241490ed011460edb309c8425db5e"
+  },
+  {
+    "bytes": 1636389,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/024_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "121c997593755505270ddbc92c21e53b3f70bb068ea80d6d1089599a40bc054e"
   },
   {
     "bytes": 1184,
@@ -320003,6 +321298,13 @@
     "path": "runtime/live2d/024_live_01/model.moc3",
     "role": "runtime",
     "sha256": "7a6d42c97219f9f0e0c821e1dc6d90f8232dac0f7c7d976806a75f19b0cf9c52"
+  },
+  {
+    "bytes": 1915343,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/024_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e40ba8226b8b1dfcf812be4ba2891b7fcb6f67bf6accc7c57061d59ddff94c6e"
   },
   {
     "bytes": 7210,
@@ -320642,6 +321944,13 @@
     "sha256": "4ad0aead42d308e23b56384441ea19eb44cf994b4ff556ba88cda23d91352912"
   },
   {
+    "bytes": 6727536,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/024_roomwear_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "a18f7c9c1a35fec70a4c98fb58ad81326b6cbbd7a56d6787a1cb5a0dbf25c3fc"
+  },
+  {
     "bytes": 7225,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/024_roomwear_01/model3.json",
@@ -321277,6 +322586,13 @@
     "path": "runtime/live2d/024_school_winter_hs_1st/model.moc3",
     "role": "runtime",
     "sha256": "b6f3c243fc3977474d07c6fcfef8561f98886a8ea31369c64b051272b16329c9"
+  },
+  {
+    "bytes": 3595378,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/024_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d94f80dde6b5cab14f060109951de81f091a2640f978eae11a05cec4f6697ffb"
   },
   {
     "bytes": 7261,
@@ -321930,6 +323246,13 @@
     "sha256": "f822bd3cc615c82f915aed601f3fb225cea9087ae951ee592883f18e2a61c0b4"
   },
   {
+    "bytes": 1704597,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/025_arbeit_livehouse_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e730903937e1d019ae7e2c2a8700edc3339ea5f0de6427977efeaa4e1fe85f85"
+  },
+  {
     "bytes": 6690,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/025_arbeit_livehouse_01/model3.json",
@@ -322516,6 +323839,13 @@
     "path": "runtime/live2d/025_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "a1e36c04bb77a97d294847cfc17c7e87a9e562233ed11e6bea0b4825406bd329"
+  },
+  {
+    "bytes": 1755552,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/025_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "aad3c6b596fa38793779b94270d1f0e64ae25bd18e36568894bfd02606fdbdf8"
   },
   {
     "bytes": 6676,
@@ -323169,6 +324499,13 @@
     "sha256": "f136477e2100bec70564172c80a44c9bd1ad3874828b50fa5e964fa507479904"
   },
   {
+    "bytes": 1688255,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/025_live-mode_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ec923b6d778891071d0b047f47588b21de68be0b97b15223ebf0f08c48d521d5"
+  },
+  {
     "bytes": 1551,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/025_live-mode_live_01/model3.json",
@@ -323265,6 +324602,13 @@
     "path": "runtime/live2d/025_live-mode_live_01_low/model.moc3",
     "role": "runtime",
     "sha256": "4df91d059bf46482dd30a477213a64b2ead14bc5081910bd64bc7c98cec19d83"
+  },
+  {
+    "bytes": 1688196,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/025_live-mode_live_01_low/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0b2e49e5973e49a817e7e98db653fa609ce24682189fef26297999757899c362"
   },
   {
     "bytes": 1185,
@@ -323566,6 +324910,13 @@
     "path": "runtime/live2d/025_live_01/model.moc3",
     "role": "runtime",
     "sha256": "541669a4059eb421139be4760b93fdb70678081cf73b7314590c6afd5ce05029"
+  },
+  {
+    "bytes": 1814590,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/025_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "48ef122aeea2fd8204a7b50bde2dfc1c078544cfb795348e9fdcd63c91902e66"
   },
   {
     "bytes": 6643,
@@ -324156,6 +325507,13 @@
     "sha256": "ea2606d2a54c04d187f59d1043067f03278cc241b720583a37fd8cb0d33d338c"
   },
   {
+    "bytes": 1461000,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/025_roomwear_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "28870f48acad6edad391105bdc9cd08f0feeb3eec6ac82ce7d2762cec243d6d4"
+  },
+  {
     "bytes": 6658,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/025_roomwear_01/model3.json",
@@ -324744,6 +326102,13 @@
     "sha256": "592abc0f53da35a24166dfcc579bf11267c49774cd424022ff7ddab5ec6c5797"
   },
   {
+    "bytes": 3395298,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/025_school_winter_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "5e6dd7caf38af16ed1a37adbc48778ddd2913e5d22a1ebf5c226d3c1c3310f0e"
+  },
+  {
     "bytes": 6681,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/025_school_winter_jhs/model3.json",
@@ -325115,6 +326480,13 @@
     "sha256": "7694076d28865fbe4584266ebd83758014fc421684507835f54a83af4b66e0ef"
   },
   {
+    "bytes": 46792,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_a_ko_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "87a93c540abda9491801bf48b69cc8c1d29d0ae2aca5730f77a969e4a4aeccea"
+  },
+  {
     "bytes": 807,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_a_ko_casual_spring_01_still/model3.json",
@@ -325295,6 +326667,13 @@
     "path": "runtime/live2d/sub_bell_school_winter_hs/model.moc3",
     "role": "runtime",
     "sha256": "fa0830d6ade595bc4ab57d8d48d4cdf97d5c13628cd9d80929caafa1ba067ee1"
+  },
+  {
+    "bytes": 1221271,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_bell_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e2f00e3b89e68fe14d009e03f024e49806be48b020a2c5ae0805521249210841"
   },
   {
     "bytes": 5915,
@@ -325666,6 +327045,13 @@
     "path": "runtime/live2d/sub_bota_casual_spring_01_still/model.moc3",
     "role": "runtime",
     "sha256": "18256a17bd56e3dc8d7309adb68095d49340bbc0a9dc2b5f64825002688dead6"
+  },
+  {
+    "bytes": 36269,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_bota_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0f26c675285859a85a0994cd3ab1229ffd7b1da518e78fb74c9df0bb0f051a9f"
   },
   {
     "bytes": 809,
@@ -326431,6 +327817,13 @@
     "sha256": "068227224b8eef43de9b8e29c34fde9dd3b4a27f85dd3b66cca6429ab52c42c5"
   },
   {
+    "bytes": 2209758,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_itsuki_child_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f32ff65bf238dc6fd25140fd6bcbb846d1e6bfa58fd86fb9ef9fef67f472cafa"
+  },
+  {
     "bytes": 3529,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_itsuki_child_casual_spring_01/model3.json",
@@ -326737,6 +328130,13 @@
     "path": "runtime/live2d/sub_itsuki_child_tracksuit_01/model.moc3",
     "role": "runtime",
     "sha256": "bd61cb30e9775d98b351955d01181b174396d0e6b8a5ae8c3a71021cb4f77df8"
+  },
+  {
+    "bytes": 2519521,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_itsuki_child_tracksuit_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "65112f1dad29691f1b7155ab18f605bfb9f48b484ecd6f4a839c0c55830eab0f"
   },
   {
     "bytes": 3515,
@@ -327115,6 +328515,13 @@
     "path": "runtime/live2d/sub_kanata_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "99fa49355c9b3dcd6fef88952fe5743de43f53bb4003a5b32b2c098c02a4edf3"
+  },
+  {
+    "bytes": 2268457,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kanata_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "2ae278533dea54c62940fc81d70fb000d838343440c2773651ac36b630bbf784"
   },
   {
     "bytes": 6898,
@@ -327649,6 +329056,13 @@
     "sha256": "646fcbbe6e70efbe2774a73166c25be11caeb12f23cedf2a423bf5a9492fcb16"
   },
   {
+    "bytes": 2264295,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kanata_child_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "635779004c00474ba6446fe970f103a11916baa6b3dab12e7aaef2c22591595d"
+  },
+  {
     "bytes": 3711,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_kanata_child_casual_spring_01/model3.json",
@@ -328046,6 +329460,13 @@
     "path": "runtime/live2d/sub_kanata_live_01/model.moc3",
     "role": "runtime",
     "sha256": "9e8be604e0a35784670c4a42575c92c45874e6f33fb07cf8a5e05e70fc2d5c63"
+  },
+  {
+    "bytes": 2344916,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kanata_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "40be1c87644095625e33938569aff175f88d1d71145120b2368f73230f2bd476"
   },
   {
     "bytes": 6862,
@@ -328657,6 +330078,13 @@
     "sha256": "bf2b14f1315a15395872fa388b48137cc241f5ee43a8de5cecf9206ae890ba19"
   },
   {
+    "bytes": 2195152,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kanata_school_summer_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "504192e5724c244802beafa5bb909d8d9c354908149072dcec5126a0b3a83d14"
+  },
+  {
     "bytes": 6918,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_kanata_school_summer_jhs_3rd/model3.json",
@@ -329264,6 +330692,13 @@
     "path": "runtime/live2d/sub_kanata_school_winter_hs_1st/model.moc3",
     "role": "runtime",
     "sha256": "763d0423f877dbd5d938d0d0260f2018824f3d05beb58ff805d4a37cef63e346"
+  },
+  {
+    "bytes": 3063492,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kanata_school_winter_hs_1st/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3a4978d3e56421c0bc4e870d425bb0cd647d62ea151a08b3fea0921c799a0158"
   },
   {
     "bytes": 7161,
@@ -329896,6 +331331,13 @@
     "sha256": "8dd4991a359d2f793c91d47bfed8b60c383c76940bfe217e35e78ea78f209095"
   },
   {
+    "bytes": 3061981,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kanata_school_winter_jhs_3rd/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "33018c69b8d1e541f438ddc992333f4213f48e788335356cd49121b7792bdabc"
+  },
+  {
     "bytes": 6917,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_kanata_school_winter_jhs_3rd/model3.json",
@@ -330267,6 +331709,13 @@
     "sha256": "e4ca7e5c2e6036eb34144aba7593877b6cc010c83bdf296781620579954c8cb8"
   },
   {
+    "bytes": 41787,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_katsuura_suits_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "31fc0833619691347418a4a462a8e5efa71c750ad27afec444c2078875cf3de3"
+  },
+  {
     "bytes": 800,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_katsuura_suits_01_still/model3.json",
@@ -330309,6 +331758,13 @@
     "sha256": "63c54a0ac05e80352293440a752cd9aa9c16050aecda32254c11df60127b6000"
   },
   {
+    "bytes": 38193,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kiyotsugu_suits_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "4e04b855ce001c5a56bacb5188240ebbaf87a57bd5d01eb3638fab8ac4baa051"
+  },
+  {
     "bytes": 805,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_kiyotsugu_suits_01_still/model3.json",
@@ -330349,6 +331805,13 @@
     "path": "runtime/live2d/sub_kiyotsugu_sweat_01_still/model.moc3",
     "role": "runtime",
     "sha256": "1aa5d8f9db29335d60862c3ec7a433b6e09275f8e74ce0fe740fad2a1d8f8090"
+  },
+  {
+    "bytes": 46698,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_kiyotsugu_sweat_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f614a940fd4ba8335ed7f9dd33c017f799e29d1c9ef9af5888a7ae5e7edc2f10"
   },
   {
     "bytes": 806,
@@ -330524,6 +331987,13 @@
     "path": "runtime/live2d/sub_koharu_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "373663bbeff7364292d15f03c622b713e0e2db712ee41e6b4d22342586bc77aa"
+  },
+  {
+    "bytes": 2143310,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_koharu_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3f289112564cd75a65d359d7c0f3838647d98e6cf878823206d2f5ea06feadd3"
   },
   {
     "bytes": 5861,
@@ -331030,6 +332500,13 @@
     "sha256": "7bca2442c38c0e274396fc3efb27bba64bb5f67407bbff15ac325b29b48950ca"
   },
   {
+    "bytes": 2281643,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_koharu_school_summer_jhs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "c71e4cc62478c61b6d07133e9476ffd67f474b682c31e88c288cdd4d43fc819e"
+  },
+  {
     "bytes": 5866,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_koharu_school_summer_jhs/model3.json",
@@ -331401,6 +332878,13 @@
     "sha256": "4ef6d6ea49bba5d0fd0e0db33a9251b3c16433f4e77624001b3768d1b586a80e"
   },
   {
+    "bytes": 3738,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_logout_virtual_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "e74f962d85505f7a141d3078c567ddcc61f5f6f22991d541d8467edd6961e97d"
+  },
+  {
     "bytes": 717,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_logout_virtual_01_still/model3.json",
@@ -331588,6 +333072,13 @@
     "path": "runtime/live2d/sub_mana_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "df2428e9af3519a75decf296de78f4c3216cbe416bf35aa46706ccc84776fb0e"
+  },
+  {
+    "bytes": 2830783,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mana_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "23b8deb5b4598b7799f1e739a701aaf8ba82ee6ca8564a77ec4111919d866e1a"
   },
   {
     "bytes": 6147,
@@ -332080,6 +333571,13 @@
     "sha256": "63c3789e120c5b3501cc187a761e4a6edfb9bdbc45571879a3163c10d9a9eacc"
   },
   {
+    "bytes": 101863,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_marukun_virtual_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "1cd3d02701a8953f31a6bad382ae45458a74f52abbd524a3f515941ef93e5e31"
+  },
+  {
     "bytes": 2911,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_marukun_virtual_01/model3.json",
@@ -332234,6 +333732,13 @@
     "sha256": "170c5f8cee851acd5a4f9f10fa9148fc33358d45b4ea536113685e23e00c5b56"
   },
   {
+    "bytes": 51347,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mikus_father_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "ae124e9c93623521fe0cc431a369e1520c28e0625352ac346ecb7004a3391c7d"
+  },
+  {
     "bytes": 856,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_mikus_father_casual_spring_01_still/model3.json",
@@ -332290,6 +333795,13 @@
     "sha256": "2f91ea283e9eb5e693f10b03fe9da088ad63929f254da87c326d1469306a0b3e"
   },
   {
+    "bytes": 67804,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mikus_mother_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "abdd19be2e5132159c66c3f873b8733c152d56300b6cfec203cff2891a1422f3"
+  },
+  {
     "bytes": 1229,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_mikus_mother_casual_spring_01_still/model3.json",
@@ -332339,6 +333851,13 @@
     "sha256": "478c020f5b81be8209bf36471213439651f81cc91aaecb7086d2eb4f13f67849"
   },
   {
+    "bytes": 42268,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_minami_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "159e30bb50d64cb1425e20c0b5659fe6fdc98911063778ce1c125a728bd0937e"
+  },
+  {
     "bytes": 819,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_minami_casual_spring_01_still/model3.json",
@@ -332379,6 +333898,13 @@
     "path": "runtime/live2d/sub_mizuho_casual_spring_01_still/model.moc3",
     "role": "runtime",
     "sha256": "d7916a4470068714d6f7056f8197f39f207f10917d4b47fb27e5fd074429fa99"
+  },
+  {
+    "bytes": 54419,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mizuho_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d09ecd2876a4b07002540e0fb0a881ce37d8832f76b9e0cbf3fba2a721ef01b0"
   },
   {
     "bytes": 821,
@@ -332610,6 +334136,13 @@
     "path": "runtime/live2d/sub_mortis_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "6738e668fa04051347ac26c3f8600c978a1e250c602efb1bee6a8c1e7e4348a5"
+  },
+  {
+    "bytes": 3900611,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mortis_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0efb750d69deecfa74d9ae1374af517476ffbf376ca629b67baea6d7a7169576"
   },
   {
     "bytes": 7110,
@@ -333233,6 +334766,13 @@
     "path": "runtime/live2d/sub_mortis_live_01/model.moc3",
     "role": "runtime",
     "sha256": "eaf48c4f58455fc0fdbebefbbd8c1923bb772468321a927d91f3975f093b44ae"
+  },
+  {
+    "bytes": 2628867,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mortis_live_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "d5550d3e7e3d6399f9260f51159a1586864f5d68a79e34de693dcc74f295c98e"
   },
   {
     "bytes": 7270,
@@ -333865,6 +335405,13 @@
     "sha256": "6d060d7ddac7a05b13c417b6b39c79b35349203ebf07f1635a24bf63975abf4a"
   },
   {
+    "bytes": 2628830,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mortis_live_01_mask/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "0c92f34f8adf52c9de8c20c1bdcc613e4a82ad17044ecae1826ddcd4566d6ee3"
+  },
+  {
     "bytes": 7300,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_mortis_live_01_mask/model3.json",
@@ -334493,6 +336040,13 @@
     "path": "runtime/live2d/sub_mortis_live_01_silhouette/model.moc3",
     "role": "runtime",
     "sha256": "44dfe00494c7c423989fbefb97a643c170966e089a5d61924990661cb69ce492"
+  },
+  {
+    "bytes": 2505690,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mortis_live_01_silhouette/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "b050fdbb444db5c2a463e35b52e479a533b116d11ee0e823c9d4f0b072e22547"
   },
   {
     "bytes": 7334,
@@ -335125,6 +336679,13 @@
     "sha256": "06b7a27d4adc69d55d7cf53b1dfa18ca3950850dc952a76bf5d0396fe1fa7643"
   },
   {
+    "bytes": 3749635,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_mortis_school_summer_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "cf0f1840f3b888a3bbd6fe9164d6a11d7b4d3c8307aed7d38c26411b105743a6"
+  },
+  {
     "bytes": 7111,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_mortis_school_summer_hs/model3.json",
@@ -335699,6 +337260,13 @@
     "sha256": "f4755e688633b9c65716615b734e9a76abde8e64420eaa6d36cbb06c5ddb9a8c"
   },
   {
+    "bytes": 2466142,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_popo_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "537027da24eb3a89aa91509c0e62a41af2696e0a6a2bd0b72da92f0e8bc30722"
+  },
+  {
     "bytes": 5914,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_popo_school_winter_hs/model3.json",
@@ -336070,6 +337638,13 @@
     "sha256": "7edd91afa8700b28534d9c2ccda2a75d219a12b869740112f50bf5a5364de8de"
   },
   {
+    "bytes": 53815,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_raikas_fathers_secretary_suits_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "764d035e8d99df22efb58add067ebb31aa2628e358bede11f6e5ca4037744829"
+  },
+  {
     "bytes": 896,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_raikas_fathers_secretary_suits_01_still/model3.json",
@@ -336112,6 +337687,13 @@
     "sha256": "16c4205b2b6766f40711399aee35cdb5ace92745568a6094c06179676a0c30c9"
   },
   {
+    "bytes": 44013,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_raikas_grandmother_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "469b37a66280ee6d36b44e3bcd0eb3dcc25641575738de7dcbcf7ec0d4f2a51f"
+  },
+  {
     "bytes": 865,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_raikas_grandmother_casual_spring_01_still/model3.json",
@@ -336145,6 +337727,13 @@
     "path": "runtime/live2d/sub_raki_casual_spring_01_still/model.moc3",
     "role": "runtime",
     "sha256": "053a380b7d0b27df487f9826bf37a8074c22e227146d3cae04a1a4699a6d561f"
+  },
+  {
+    "bytes": 61277,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_raki_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "37e55475eefcab1645730a34a281b12fb8214a0f941f1f3aed127d5da79835f1"
   },
   {
     "bytes": 808,
@@ -336334,6 +337923,13 @@
     "path": "runtime/live2d/sub_ririko_arbeit_ring_01/model.moc3",
     "role": "runtime",
     "sha256": "15310326723d3276f5dd45ee4ae8b51b4e0a4c1bcefc0e29a1de3f1d6d33cd2e"
+  },
+  {
+    "bytes": 3554551,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_ririko_arbeit_ring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "76f9735be84f3cf30fcfaa9b095dee89e788e3569c2d6cb0afbd4cdbd01e2d11"
   },
   {
     "bytes": 6231,
@@ -336728,6 +338324,13 @@
     "sha256": "37c67c072c975e8b2b7b69fc6b14d9db6e56e825d17fb5606749e0503d6cf57e"
   },
   {
+    "bytes": 28058,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_sadaharu_suits_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f50ffe191f9b010845c7d56dd131d4a08ef6c2518498bf51ca5eb64bdc2be30d"
+  },
+  {
     "bytes": 799,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_sadaharu_suits_01_still/model3.json",
@@ -336768,6 +338371,13 @@
     "path": "runtime/live2d/sub_shifune_casual_spring_01_still/model.moc3",
     "role": "runtime",
     "sha256": "5332a478aebfe2f873435a40bb0e75deabfa4e931319f4fe1fd4e6d7176cdd82"
+  },
+  {
+    "bytes": 51865,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_shifune_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "9cda171ea0624602e0ee82bc8bfe7279b243b66c42a63bdd7401a05f91094ae1"
   },
   {
     "bytes": 823,
@@ -336859,6 +338469,13 @@
     "path": "runtime/live2d/sub_shizukus_maid_01_still/model.moc3",
     "role": "runtime",
     "sha256": "ae5c91f0a9abb62a819f29dd0e0d11f8ccb7f89a7defe318b58f4aa689290ac0"
+  },
+  {
+    "bytes": 46004,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_shizukus_maid_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f7fcd8b9fd15446ff1a40fe91b4abb97f8d8d69d213f10fc382b77b6f75f6627"
   },
   {
     "bytes": 804,
@@ -336966,6 +338583,13 @@
     "sha256": "fe1283cfe48d50e11968c0bda745ff8b55e5c6a7b0a4b50f911b665470ca38fe"
   },
   {
+    "bytes": 59233,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_substitute_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "63526cc661cc3b5d58a54f531e1bca3ec120490effb43b17f89bf239a6e968d3"
+  },
+  {
     "bytes": 844,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_substitute_casual_spring_01_still/model3.json",
@@ -337006,6 +338630,13 @@
     "path": "runtime/live2d/sub_utami_casual_spring_01_still/model.moc3",
     "role": "runtime",
     "sha256": "5de05ebac71d9738e312a0f42fcceb40f2e4384a48fae12c30f313f853c442cf"
+  },
+  {
+    "bytes": 51357,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_utami_casual_spring_01_still/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "fe39315704d09592f65426f43690cc8f6acf13f32787c19bed5d1347b4c38c3d"
   },
   {
     "bytes": 813,
@@ -337202,6 +338833,13 @@
     "path": "runtime/live2d/sub_viola_casual_spring_01/model.moc3",
     "role": "runtime",
     "sha256": "31bf70ba66ffbc72a6dd608d3bedba4384afcda43e2b22846ac9993fee4d87d7"
+  },
+  {
+    "bytes": 1507625,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_viola_casual_spring_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "135e73b1f7eecff303669f5681285ea2e21f50df39f95765d9650d0f9f20c5d3"
   },
   {
     "bytes": 6289,
@@ -337750,6 +339388,13 @@
     "sha256": "bc1f515883b3562f2b6238f97add0428d5c20a037629a7dbaaddf933a4729347"
   },
   {
+    "bytes": 1319299,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_viola_school_winter_hs/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "f75cf1aaeb6137e851925da64c56e2f839092b3e1a74663c1aa3041d846fb135"
+  },
+  {
     "bytes": 6290,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_viola_school_winter_hs/model3.json",
@@ -338282,6 +339927,13 @@
     "sha256": "351f3518a8ae376776a522cc23236a5ca65885e66a5066448d59028a785565f1"
   },
   {
+    "bytes": 2517869,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_yumemita_manager_suits_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "77b9e5892ecf1b9bcfe425ae496b7692bd3768e09f79f9a64e6b024c11d0c80d"
+  },
+  {
     "bytes": 5954,
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/live2d/sub_yumemita_manager_suits_01/model3.json",
@@ -338700,6 +340352,13 @@
     "path": "runtime/live2d/sub_yumemita_manager_virtual_01/model.moc3",
     "role": "runtime",
     "sha256": "e59d47db3eba31ce82c08cea808cc0ebd30951cc814fe1b997869af00a2938ff"
+  },
+  {
+    "bytes": 93448,
+    "mediaType": "application/gzip",
+    "path": "runtime/live2d/sub_yumemita_manager_virtual_01/model.moc3.gz",
+    "role": "runtime",
+    "sha256": "3436641df22500a81cf7d6805aeb5a1ba1ee92af97f6a07839fd61712470c5d5"
   },
   {
     "bytes": 4076,
