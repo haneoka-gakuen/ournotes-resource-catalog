@@ -85057,18 +85057,18 @@
     "sha256": "927b1b9d1f6f63dc5c3cbf6461dfecd04c9450204fc6dc87e997ba24dd4a7766"
   },
   {
-    "bytes": 101991,
+    "bytes": 104674,
     "mediaType": "application/octet-stream",
     "path": "assets/Assets/AddressableResources/Patch/App.Runtime.patch-1.1.0.bytes",
     "role": "assets",
-    "sha256": "f40626ab9ebe9c2e6e654d911f2fb29fb80a5081ebe4b257eac45e59e58f62ce"
+    "sha256": "79af66ff04ae4ea801a7976fa9718c9d57236081ea61f0c1da08b05beb7c8aa1"
   },
   {
-    "bytes": 8162,
+    "bytes": 7914,
     "mediaType": "application/octet-stream",
     "path": "assets/Assets/AddressableResources/Patch/Mingle.Runtime.patch-1.1.0.bytes",
     "role": "assets",
-    "sha256": "2e7ea5258cf4bac0dbce7e2810d181fc81706a5aff83bea82d78f8dca3d279d2"
+    "sha256": "6edda30af8da827306052c7349474475cd95a6eb39865ed10663a73dbd513897"
   },
   {
     "bytes": 0,

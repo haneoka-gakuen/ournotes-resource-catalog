@@ -4,7 +4,7 @@
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/card-recognition/local.json",
     "role": "runtime",
-    "sha256": "228aa67817854e292f650c1de55d1690991ec044f6ab94eb0a7d8182503d9494"
+    "sha256": "fe1c7e167b2082b2b690e21585576fed7654c382b465ce079dce018a6ef9a952"
   },
   {
     "bytes": 205821,
@@ -32,7 +32,7 @@
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/card-recognition/source.json",
     "role": "runtime",
-    "sha256": "0e09675974a5832c6ec1a0271e0703c97ea490865cf25dbd7d66a12d405f1657"
+    "sha256": "0ad02ca0b4e5474e1b7b7ad3ff4288c2581975fb8f9810de83c3c6c801b7a77d"
   },
   {
     "bytes": 1240809,
@@ -354995,7 +354995,7 @@
     "mediaType": "application/json; charset=utf-8",
     "path": "runtime/stamp-maker/manifest.json",
     "role": "runtime",
-    "sha256": "55005c79c10ef1eab697e960ee0c653dc7b86f2cb6032f0d74c2e8d6160107ab"
+    "sha256": "1453b67fb37b24c6cd6cbfa65104912e9f5193d5e550ed79c54a3742e50ff0df"
   },
   {
     "bytes": 5221,
