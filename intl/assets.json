@@ -12345,7 +12345,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_afterlive_10424/adv_script_afterlive_10424-Text.txt",
     "role": "assets",
-    "sha256": "0387bfc3448aeaea5a30f1b3e812f646af14d38d2ea8fced15b5a1314d6fdc0e"
+    "sha256": "17f27b6668880df30a2948ad493e9735b8eef8ffdacc52ce7daa3fee184a9375"
   },
   {
     "bytes": 472,
@@ -13535,7 +13535,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10449/adv_script_anotherstory_10449-Text.txt",
     "role": "assets",
-    "sha256": "e64a695e2821ec4c382cbd01c8c6c3f6d6c2bfd0327f57da918bdf5ca53dfbf7"
+    "sha256": "ffd1a715f267162ad5c33a77362b57f4b90ff640b8e8205571bbf42010c8173c"
   },
   {
     "bytes": 472,
@@ -13566,11 +13566,11 @@
     "sha256": "9eddf77afe385d02e0e65b37357f8cc60c2299019bf21402a359b5bb57a38d60"
   },
   {
-    "bytes": 30185,
+    "bytes": 30191,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10450/adv_script_anotherstory_10450-Text.txt",
     "role": "assets",
-    "sha256": "f5d290c3be3d70e0db6c343365a53a880233fbca6482fefbaf979deb360bad13"
+    "sha256": "69500a39398e628886b5d0f81ed3d3a629d1197b200a2df98c5a633d0fd12507"
   },
   {
     "bytes": 472,
@@ -13706,11 +13706,11 @@
     "sha256": "3cb34636030942c5d3cdb8f63e325b24d386645b05d5d03affec20d7bc0b9e9b"
   },
   {
-    "bytes": 41492,
+    "bytes": 41495,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10454/adv_script_anotherstory_10454-Text.txt",
     "role": "assets",
-    "sha256": "73c30680d15a6f7d700f1277cefe0783cb211df0a3278cf2b1477f718405ccf9"
+    "sha256": "41d0edfb1b03cc37bb5092fb1b5db12fc1e1421182096fd65a70d6428cd8c895"
   },
   {
     "bytes": 472,
@@ -13815,7 +13815,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10457/adv_script_anotherstory_10457-Text.txt",
     "role": "assets",
-    "sha256": "295fa67e383dcfa735e2c2cee6e579dd831ab085916bcbed75d6a4e51efea86b"
+    "sha256": "a413d94d5c7f54baf7a2b5f3eb1656bbc72987c9b2e3790dfe1444edbec8400c"
   },
   {
     "bytes": 472,
@@ -13846,11 +13846,11 @@
     "sha256": "b050814403fedf0179eb9e03a282bc994d4d4d0c6070cffe1afdaea38054d19a"
   },
   {
-    "bytes": 43508,
+    "bytes": 43511,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10458/adv_script_anotherstory_10458-Text.txt",
     "role": "assets",
-    "sha256": "bedaf676011a910f9d70e0bc6f11524ec2770b5de8064d1c37717cfec1784835"
+    "sha256": "b97b581ba409d980855daebd996439bb37e78fe383704f9e311037cbe6c5a696"
   },
   {
     "bytes": 472,
@@ -14021,11 +14021,11 @@
     "sha256": "d9316be5b6fd6440dca04a22364b4684f5a928b19a9fc7de79fac5bd8cdfc765"
   },
   {
-    "bytes": 33751,
+    "bytes": 33766,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10971/adv_script_anotherstory_10971-Text.txt",
     "role": "assets",
-    "sha256": "3e282970195d795ba2dfdd956ca5854e4424e8f4392fe92c0e0ec85d54790ba5"
+    "sha256": "01678a25d497a1133f76e7b98321ea071e7cd5c8c083e2bf3f92442f5a053c75"
   },
   {
     "bytes": 472,
@@ -14066,6 +14066,76 @@
     "bytes": 472,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10972/adv_script_anotherstory_10972-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 474809,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10980/adv_script_anotherstory_10980-Episode.txt",
+    "role": "assets",
+    "sha256": "b75695a97f4ce8a95a6284517ad48567c513dd398e8e20499da23e7e373da9b0"
+  },
+  {
+    "bytes": 21937,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10980/adv_script_anotherstory_10980-Sound.txt",
+    "role": "assets",
+    "sha256": "3009ce173586dccfbe6da39ad48afcdc8c702603b4a33372b03e7cf59626548c"
+  },
+  {
+    "bytes": 1366,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10980/adv_script_anotherstory_10980-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "b7fa7cc8328621c189707e98c4b55d077c5d6315da713c238ed74c96fabbef41"
+  },
+  {
+    "bytes": 32957,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10980/adv_script_anotherstory_10980-Text.txt",
+    "role": "assets",
+    "sha256": "ef1942bb85ba7e57f585cfd1e2c04eaf5be84a8247dd50b00bd01346c45b64c6"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10980/adv_script_anotherstory_10980-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 315287,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10981/adv_script_anotherstory_10981-Episode.txt",
+    "role": "assets",
+    "sha256": "071b260a75a66ac0361236c0a3971e8e0396b8bff495c8d59e97d2479c3229c9"
+  },
+  {
+    "bytes": 21542,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10981/adv_script_anotherstory_10981-Sound.txt",
+    "role": "assets",
+    "sha256": "07dcbdd8129d97fc3c70f3e800fb2b645c826128d1d7151baae2739215b5da4d"
+  },
+  {
+    "bytes": 2541,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10981/adv_script_anotherstory_10981-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "eacec291739633c9f653cebcfaf7ba8e08c9eaf42d3798c5b4d27287f648f463"
+  },
+  {
+    "bytes": 25421,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10981/adv_script_anotherstory_10981-Text.txt",
+    "role": "assets",
+    "sha256": "6e72bf7a3ef7713d979a8c95a4063596e01f710a8a371f1d17935fb72c8835e6"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_anotherstory_10981/adv_script_anotherstory_10981-Video.txt",
     "role": "assets",
     "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
   },
@@ -14686,11 +14756,11 @@
     "sha256": "26c1fc524533ed71c1eeec080286119b499101b0e6125b5f86d088522bae51bb"
   },
   {
-    "bytes": 26263,
+    "bytes": 26269,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_6_03/adv_script_eventstory_6_03-Text.txt",
     "role": "assets",
-    "sha256": "19fb3d73e52bdd5173f422717ad350f366a571f99ca121b10612c375e63ca5d4"
+    "sha256": "cae9baff2c1e8784fdb110060842757101ee8a0e8adaec4e2d2780ea1ef10db3"
   },
   {
     "bytes": 472,
@@ -14791,11 +14861,11 @@
     "sha256": "374aef24443d547585a92712b72dcde80f96fde53d84681fb83258340f8a27e3"
   },
   {
-    "bytes": 35652,
+    "bytes": 35655,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_6_06/adv_script_eventstory_6_06-Text.txt",
     "role": "assets",
-    "sha256": "81ec41070f5ea51f75b76941a37e36875bd11fb8e9ac19ca81a25853c12c3d92"
+    "sha256": "0822d5b287d2359bd9ac6988ee1ee2e1ae5e12f30fa31d135a37cd06519bb857"
   },
   {
     "bytes": 472,
@@ -14865,7 +14935,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_7_01/adv_script_eventstory_7_01-Text.txt",
     "role": "assets",
-    "sha256": "6783600c961056528de5c2399d21a3ef8d880cec131417c45f1e90bce2b6c096"
+    "sha256": "9e5011e65a291ca4d9d2408e23542374cae3461d23c50ade5fe32c01f016f395"
   },
   {
     "bytes": 472,
@@ -14970,7 +15040,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_7_04/adv_script_eventstory_7_04-Text.txt",
     "role": "assets",
-    "sha256": "10f6fe9caccac7e087342473654657931cd3175f39f0d47a56951223cfebe33b"
+    "sha256": "bf7babb0b9e0885153381f9fc24ca6ee26d82488008770887a5f9a68a0e68fa2"
   },
   {
     "bytes": 472,
@@ -15036,11 +15106,11 @@
     "sha256": "ec307a1a9c7360b4efc3b5cdcc4ae1b1f093b0638db0957d4cd87cc8db2b7980"
   },
   {
-    "bytes": 60542,
+    "bytes": 60545,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_7_06/adv_script_eventstory_7_06-Text.txt",
     "role": "assets",
-    "sha256": "0e1505d065d2f2771be6a6d9d602e308276010e809c8345d2a380653f018a0c1"
+    "sha256": "dc6c3b389d53169b80534a1338eb55f9949aaa15d576365aeb5cd890c6eba186"
   },
   {
     "bytes": 472,
@@ -15071,11 +15141,11 @@
     "sha256": "7b31c7ce97a436a9ecf96dfc72a7b14bb102cbe5f9cfaf3d9bfc45be21e80b9a"
   },
   {
-    "bytes": 26298,
+    "bytes": 26303,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_7_07/adv_script_eventstory_7_07-Text.txt",
     "role": "assets",
-    "sha256": "146b9da3f8898d8b41e6a16a99519d640cac54b460f5d825a34446b11a5f8c55"
+    "sha256": "35bddde0f5c7ae8a74fb6dbb105afc959bfb948131735991829c17c692c51506"
   },
   {
     "bytes": 472,
@@ -15141,11 +15211,11 @@
     "sha256": "93943942a8efe0684215949f9162687aee48ff1b43d94c84db60d980aac3cfff"
   },
   {
-    "bytes": 53288,
+    "bytes": 53285,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_8_02/adv_script_eventstory_8_02-Text.txt",
     "role": "assets",
-    "sha256": "48048a3c8ab7a57d9579fea3c23030993480a35eae523ebdc56f5d7bd8e79a26"
+    "sha256": "7b60649973cee9bc225af91610437b5a108e0b886f56c49ce4b6bdbcabdce4f5"
   },
   {
     "bytes": 472,
@@ -15180,7 +15250,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_8_03/adv_script_eventstory_8_03-Text.txt",
     "role": "assets",
-    "sha256": "e7e9cc4daead797105b5ba0522c0bf036dda291faad3fc5c3688266bced1ae5f"
+    "sha256": "4cfd1b4e236acce604ad413e8650e7dfbada2ca87ea96a5461ef44229fdc37dc"
   },
   {
     "bytes": 472,
@@ -15326,6 +15396,251 @@
     "bytes": 472,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_8_07/adv_script_eventstory_8_07-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 440176,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_01/adv_script_eventstory_9_01-Episode.txt",
+    "role": "assets",
+    "sha256": "08547f3c449c37918b035778010283b0e482e6500c26edb1f9a8db07bf5970ed"
+  },
+  {
+    "bytes": 22486,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_01/adv_script_eventstory_9_01-Sound.txt",
+    "role": "assets",
+    "sha256": "72a64afb9a01b2ce1522813463a3c32d7182a151971b20c54037fa487ffa1816"
+  },
+  {
+    "bytes": 1678,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_01/adv_script_eventstory_9_01-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "e56e8690a70ffb2ef1994e0a17a4296a19547b5dd21f0b6f6bb5aea3d2d1c0cc"
+  },
+  {
+    "bytes": 30954,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_01/adv_script_eventstory_9_01-Text.txt",
+    "role": "assets",
+    "sha256": "976ca957846cbfe73d43133ba9b750e7635aca51f75a60bb6bfba3bf09df0252"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_01/adv_script_eventstory_9_01-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 524480,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_02/adv_script_eventstory_9_02-Episode.txt",
+    "role": "assets",
+    "sha256": "9bfce351f07d50a25489c8fbe6b7677cda8ad869d1a16e67aba53860bab2b57e"
+  },
+  {
+    "bytes": 34463,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_02/adv_script_eventstory_9_02-Sound.txt",
+    "role": "assets",
+    "sha256": "65e99ebf2503c8497705500daf785066114a1b68ab1dac290ee289465de29f54"
+  },
+  {
+    "bytes": 4004,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_02/adv_script_eventstory_9_02-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "15d2c94a90946c002917ebf16270631a9f66f926a98117287d56b5fe07791a7e"
+  },
+  {
+    "bytes": 48456,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_02/adv_script_eventstory_9_02-Text.txt",
+    "role": "assets",
+    "sha256": "c2deb725da5e2838ab76b6c0fe45d426d90b85be577f11fa3892ca0af9723c7a"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_02/adv_script_eventstory_9_02-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 607816,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_03/adv_script_eventstory_9_03-Episode.txt",
+    "role": "assets",
+    "sha256": "10cd84b49accfa4e9ac8bf18b052f5b099f9b50d617aa2d0495c4f04ea9cb21a"
+  },
+  {
+    "bytes": 33932,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_03/adv_script_eventstory_9_03-Sound.txt",
+    "role": "assets",
+    "sha256": "cc8af7e3e17a75a083da38e5a8a73b1de9bce025c48bf6c9a5c0a1ca76d59890"
+  },
+  {
+    "bytes": 2208,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_03/adv_script_eventstory_9_03-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "5a701786d03eae91d88eaaa229a30c41be8a31e600e0e8b42fda3b9d55a8580e"
+  },
+  {
+    "bytes": 52453,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_03/adv_script_eventstory_9_03-Text.txt",
+    "role": "assets",
+    "sha256": "22cf56f9e13c08651de2bb861a8dc5bcf743cffef21a394730ca04c748f60634"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_03/adv_script_eventstory_9_03-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 605317,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_04/adv_script_eventstory_9_04-Episode.txt",
+    "role": "assets",
+    "sha256": "b4db1a38380b4e9af42fe6fd4e541c122dfad64379663c59a996588384961f9d"
+  },
+  {
+    "bytes": 31798,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_04/adv_script_eventstory_9_04-Sound.txt",
+    "role": "assets",
+    "sha256": "cc3f7e887f6ac3969ef201a6cd943e493fd8f7e47132ef1588d784cf4d975d21"
+  },
+  {
+    "bytes": 3281,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_04/adv_script_eventstory_9_04-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "a7d5db3abd46bd89990f6961718e49e216643de2b8c98ae6803677da60a60aea"
+  },
+  {
+    "bytes": 46712,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_04/adv_script_eventstory_9_04-Text.txt",
+    "role": "assets",
+    "sha256": "6389b5c47523df2c944dbbc6c52ccc0c2dedb90b109fbc46b9f1752bb75245ba"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_04/adv_script_eventstory_9_04-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 570827,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_05/adv_script_eventstory_9_05-Episode.txt",
+    "role": "assets",
+    "sha256": "36b48fe9925b519e43a4a1d311eb35dacdd91a669abcf58aabe3047a3066ea0a"
+  },
+  {
+    "bytes": 23516,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_05/adv_script_eventstory_9_05-Sound.txt",
+    "role": "assets",
+    "sha256": "4bee356d1a4272714b07dfd340ec2c877fca93bde349ed620ca10e1af1d60e53"
+  },
+  {
+    "bytes": 1833,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_05/adv_script_eventstory_9_05-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "af43cfd5786c542f3966de7faa945b4e5da070255296772a0708f4758d36b163"
+  },
+  {
+    "bytes": 36405,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_05/adv_script_eventstory_9_05-Text.txt",
+    "role": "assets",
+    "sha256": "4a6ed44290809a9cdf088fb2d6be015ce881005077341e1915532a6ff82cc076"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_05/adv_script_eventstory_9_05-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 702152,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_06/adv_script_eventstory_9_06-Episode.txt",
+    "role": "assets",
+    "sha256": "90629f873b71ccbcb28b997b749023366e7bd1aaebf98bddb2b4040aa281c68e"
+  },
+  {
+    "bytes": 29263,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_06/adv_script_eventstory_9_06-Sound.txt",
+    "role": "assets",
+    "sha256": "0a0ee2264700b3c89f9d24f06a36dd79c83dcea48ec01d06ad06d7ff03ea9d70"
+  },
+  {
+    "bytes": 3733,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_06/adv_script_eventstory_9_06-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "107aec1d7704eec9a35c2544c1b6f1274f5258ee06ecef799a7cb48161f5932e"
+  },
+  {
+    "bytes": 33727,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_06/adv_script_eventstory_9_06-Text.txt",
+    "role": "assets",
+    "sha256": "e476a7406257a4dde241036fff9632c0a8ea9a85a904238e096c434eb05481b3"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_06/adv_script_eventstory_9_06-Video.txt",
+    "role": "assets",
+    "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
+  },
+  {
+    "bytes": 266741,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_07/adv_script_eventstory_9_07-Episode.txt",
+    "role": "assets",
+    "sha256": "90e0c37ad2e2e85c5e476769e240ae1b8390c875ec8717ae3678be2c0709692c"
+  },
+  {
+    "bytes": 16494,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_07/adv_script_eventstory_9_07-Sound.txt",
+    "role": "assets",
+    "sha256": "bcb92b0976e502cb420d235ab6bc50c9337c9e57457363f003880fc1231302f0"
+  },
+  {
+    "bytes": 1569,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_07/adv_script_eventstory_9_07-SoundCueSheet.txt",
+    "role": "assets",
+    "sha256": "3e04c90cce2d808d7653e0c42db5b273cf46bcde34fcd37f2b5d14a9da3d19c4"
+  },
+  {
+    "bytes": 24157,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_07/adv_script_eventstory_9_07-Text.txt",
+    "role": "assets",
+    "sha256": "43e2cbb8ebd2ca5178b5d1f8f2d84a8ea2040469ae15be5030d0711258c127bb"
+  },
+  {
+    "bytes": 472,
+    "mediaType": "text/plain; charset=utf-8",
+    "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_eventstory_9_07/adv_script_eventstory_9_07-Video.txt",
     "role": "assets",
     "sha256": "6211711c8fa372fe42f455d81bcf8ba465e2b583cb9cd7e0f1af78a332685ee8"
   },
@@ -18151,11 +18466,11 @@
     "sha256": "6b60c732f1010ef951dfd1f995c34b7a7ec3f2ed7b211f58037399ef70d37704"
   },
   {
-    "bytes": 4272,
+    "bytes": 4275,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_home_10691/adv_script_home_10691-Text.txt",
     "role": "assets",
-    "sha256": "d49cf2c05eaae0da1ab592f4e1fa3e96dbef6da0b776b303ae595b3feeceae36"
+    "sha256": "2239cf2e744bc7dda5272064654917b55ddedea20e74d3b9899e0b92af18bc27"
   },
   {
     "bytes": 472,
@@ -19030,7 +19345,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_home_10716/adv_script_home_10716-Text.txt",
     "role": "assets",
-    "sha256": "052a284d782d5b4d0b133bc17e9d5c6d9eab4469430e7124e94a9035fd65f264"
+    "sha256": "309029bc81adcc239d3ce62a98ddfa5e8b33a375f36b9827bdfaba2599ab8977"
   },
   {
     "bytes": 472,
@@ -27286,11 +27601,11 @@
     "sha256": "8833b39f8955e801b57e753762db8b334772388dce1c9034882e1dfdf83fde8d"
   },
   {
-    "bytes": 4085,
+    "bytes": 4079,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_home_11234/adv_script_home_11234-Text.txt",
     "role": "assets",
-    "sha256": "53b8cb892ba7cef735d940de4592951f085dc9d4256c1da672c2ed221553029f"
+    "sha256": "4e5097c25fbe8a250638752c84f72705dceae705995121f26b0fa4f703947072"
   },
   {
     "bytes": 472,
@@ -27671,11 +27986,11 @@
     "sha256": "bf714af5a4bccd7db0ea79bdca51cb401b8ef11d1ca9cac1724279aeb3680732"
   },
   {
-    "bytes": 4791,
+    "bytes": 4794,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_home_11245/adv_script_home_11245-Text.txt",
     "role": "assets",
-    "sha256": "30b478305c29481cdf536571a843b25d0ce26ae19d73c032f47a997f6ebf34ab"
+    "sha256": "2a852b9fa5a19450465d58e5d79f852827caddb199b84b8403f580933149e3c9"
   },
   {
     "bytes": 472,
@@ -28445,7 +28760,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_hotaru_mahoro_linkstory_1/adv_script_hotaru_mahoro_linkstory_1-Text.txt",
     "role": "assets",
-    "sha256": "580fe727842840d600b7f3dbb743fcc94c00b80ef38d1b9eda218b759577424d"
+    "sha256": "336e95320aaf05150d61da0248434c418422961535bae869b6fa4a3bd8750cbd"
   },
   {
     "bytes": 472,
@@ -28760,7 +29075,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_01/adv_script_kadan_005_1_01-Text.txt",
     "role": "assets",
-    "sha256": "766ff86168757f2a96cf16a207eb2abd321dba754061470dd4f4a3454f2e970e"
+    "sha256": "9cd5325273e8a9119cc83624926b7e862adbe93dcdf2042a514bcd50e714886d"
   },
   {
     "bytes": 472,
@@ -28861,11 +29176,11 @@
     "sha256": "d5bd84c50be05076822b53bca78713da20ba707c394377ccfdaa8fe473931fa2"
   },
   {
-    "bytes": 63671,
+    "bytes": 63683,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_04/adv_script_kadan_005_1_04-Text.txt",
     "role": "assets",
-    "sha256": "72e059a3ab47aad18aa9142706046d3319cee43e8ede326dacf9e4434c0a98ec"
+    "sha256": "1a35ad69f09153ad48fbd7ca63f54035ab9e648c4ddf3508c0cb666874d7ff6e"
   },
   {
     "bytes": 472,
@@ -28900,7 +29215,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_05/adv_script_kadan_005_1_05-Text.txt",
     "role": "assets",
-    "sha256": "bb2f4933b06f6a34b8cc2c18b9744109e1cad4cd6d0ecdc4cd7f8db3811e53dc"
+    "sha256": "3f55e6798c803f4c484760ebcef89170263d52cb0deee73071cec4eb2b811dc7"
   },
   {
     "bytes": 472,
@@ -28935,7 +29250,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_06/adv_script_kadan_005_1_06-Text.txt",
     "role": "assets",
-    "sha256": "af7f6ab901edeb52bd36ad317ed87813829a6ca7ed5470f7877953a6f391b067"
+    "sha256": "6fd1ec687ab83276886fa65a4fab5af572df184f3f40bc86e26c7aac0e615fdc"
   },
   {
     "bytes": 472,
@@ -28966,11 +29281,11 @@
     "sha256": "f4b1be32b3675b55830e8d2bfcf18068963a23020379c2b639e9a22e538488c6"
   },
   {
-    "bytes": 119802,
+    "bytes": 119823,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_07/adv_script_kadan_005_1_07-Text.txt",
     "role": "assets",
-    "sha256": "1ed95fc58c2638055027314c405340f2b0728f07e99fbde72dde8d454c3ce16f"
+    "sha256": "b0595b7c46a026ad1ec7e4c8ec5742e0b1e5780380740db4f2f5a7a6e9cdb55f"
   },
   {
     "bytes": 792,
@@ -29001,11 +29316,11 @@
     "sha256": "113e823308b1f50e894a485ee7dde305ce544496b66fca1f59eba4c038e47b2b"
   },
   {
-    "bytes": 71992,
+    "bytes": 71995,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_08/adv_script_kadan_005_1_08-Text.txt",
     "role": "assets",
-    "sha256": "20cd90524f711552854a853f59d6dfff0079e543e45891dc5340767d859e9fee"
+    "sha256": "81b5eac270252054e6767c0e12135963833b84da6f09a60a7ed30bdd6bb0c04c"
   },
   {
     "bytes": 472,
@@ -29036,11 +29351,11 @@
     "sha256": "4f8ae6c11a9e65fad5250229261d83520d459c096fc3980f044cf1c4a27b95f3"
   },
   {
-    "bytes": 86833,
+    "bytes": 86830,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_09/adv_script_kadan_005_1_09-Text.txt",
     "role": "assets",
-    "sha256": "ad99cf4dfd40fe99b169250bd2e15eac6d78e593eab70af8a73850865364614f"
+    "sha256": "42dc3eee14b71a6e527dd301925ce06514d271e248b488ea6d7aaf50ccaeffce"
   },
   {
     "bytes": 472,
@@ -29075,7 +29390,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_10/adv_script_kadan_005_1_10-Text.txt",
     "role": "assets",
-    "sha256": "6bccadea136beae1c917d00fed57274249b66ed6b917d02d8561e2a66d4a73ff"
+    "sha256": "bc0853113f90a40efc91586fc8af2f5b82732a3f58dd8eaabfe0ec9383da746e"
   },
   {
     "bytes": 472,
@@ -29145,7 +29460,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_12/adv_script_kadan_005_1_12-Text.txt",
     "role": "assets",
-    "sha256": "405ef932a1e9a414671a29c43f7920e7b9e78dff481e465581afa19d3c46c78d"
+    "sha256": "24c780e6da11ad94f9d9018f14d0bba0e55d00c51edb286d33333d10ad1df951"
   },
   {
     "bytes": 472,
@@ -29246,11 +29561,11 @@
     "sha256": "45c9f938db50c84eb60ed0640c973e0a9dfc79d29f7141229f4714ed8b2ef205"
   },
   {
-    "bytes": 56982,
+    "bytes": 56985,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_15/adv_script_kadan_005_1_15-Text.txt",
     "role": "assets",
-    "sha256": "730b5fafb26b579a36172f3257c35c2a6fb2623f5e823d003aacc6bbbd5ab92b"
+    "sha256": "1aea364ac2da52c35454a141222d092875d1194dc1847cd6f616f05a87dd549c"
   },
   {
     "bytes": 472,
@@ -29320,7 +29635,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_17/adv_script_kadan_005_1_17-Text.txt",
     "role": "assets",
-    "sha256": "daba440658101c15e0a35e426c998ff04b2533f7540f02d93951f71ce2263c83"
+    "sha256": "63db090b5a0617c22661db942e5534862758ede9cb211ae073ac3557f2289c59"
   },
   {
     "bytes": 472,
@@ -29355,7 +29670,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_18/adv_script_kadan_005_1_18-Text.txt",
     "role": "assets",
-    "sha256": "d191e55ffc1e87846e23928a82d4f878042d28145af790d521663ababc2cd5d4"
+    "sha256": "e208b6b8de5ea66323cffbde27b7584c569ccae1334f14947f33adee5f8839b1"
   },
   {
     "bytes": 793,
@@ -29425,7 +29740,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_kadan_005_1_20/adv_script_kadan_005_1_20-Text.txt",
     "role": "assets",
-    "sha256": "a7b4f6ad00ec392c8e67e7546ae9b8c89f41a15e51bb8c034ba61c29b7753d40"
+    "sha256": "d57ff06daae153e7529bf7faaf1bc921491a4a4285d7a5d0ca5553334c6960f9"
   },
   {
     "bytes": 472,
@@ -32256,11 +32571,11 @@
     "sha256": "31c53c7e7fe8cbb70a3c247819fd34f7bfd3e0c5e41d861f0fb6499c4c3566bd"
   },
   {
-    "bytes": 84616,
+    "bytes": 84617,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_mygo_001_1_14/adv_script_mygo_001_1_14-Text.txt",
     "role": "assets",
-    "sha256": "8f2fc78e2d9d218dc57086e53b25335d9e7667ee1472f4ef8741e2e8824effc9"
+    "sha256": "61ccc1455254bb0ef761fc2ae499221b1e4323bbe0bd285f408879d07a508a48"
   },
   {
     "bytes": 472,
@@ -33660,7 +33975,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_raika_miku_linkstory_1/adv_script_raika_miku_linkstory_1-Text.txt",
     "role": "assets",
-    "sha256": "7fb71afd079fe9e6975ffef3ed2c4730a42010b481cf0bfe263fac609633d094"
+    "sha256": "6a8ade22abc9e6072f13cc7266c2492e11a21aaf468f7bc26aa64a2fad998f25"
   },
   {
     "bytes": 472,
@@ -33761,11 +34076,11 @@
     "sha256": "765321fa64d72824f37ec1c9a9f1cfbdc81c08eda7999a809ae8874a9f626546"
   },
   {
-    "bytes": 23075,
+    "bytes": 23078,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_raika_shizuku_linkstory_1/adv_script_raika_shizuku_linkstory_1-Text.txt",
     "role": "assets",
-    "sha256": "d6969f22bb7bb62ccd136a91f105c75b7827606cc25bbd9edab7e483fd31bfd8"
+    "sha256": "e8ab61b3dce49a17c2122ae236dfafa5becc8ec259d745fea511d9d453a751ed"
   },
   {
     "bytes": 472,
@@ -33835,7 +34150,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_raika_shizuku_linkstory_3/adv_script_raika_shizuku_linkstory_3-Text.txt",
     "role": "assets",
-    "sha256": "b8086bc0b597b621d89cb91f70a5d87ac1d8529bb2fc8c3430fa18debca1aad2"
+    "sha256": "99a282e878f42a1d86e3cf1270e0fe8b45ea871228cebf9da6f86bd1a8cd9d78"
   },
   {
     "bytes": 472,
@@ -33901,11 +34216,11 @@
     "sha256": "33f002598bcdfbf5e5395b0ad240e8ac9228d3f649980547fd7df9aa925d0d2d"
   },
   {
-    "bytes": 24615,
+    "bytes": 24618,
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_raika_yomogi_linkstory_2/adv_script_raika_yomogi_linkstory_2-Text.txt",
     "role": "assets",
-    "sha256": "06a90ce2f379548b82634c1ebf86b6abc942857f00d56c6da7c0438cf3eccd7f"
+    "sha256": "7e4f20da12df966e53acfc4408307590966e8f2f492011758ceb06bdff7ff4d7"
   },
   {
     "bytes": 472,
@@ -36355,7 +36670,7 @@
     "mediaType": "text/plain; charset=utf-8",
     "path": "assets/Assets/AddressableResources/Adv/Episode/adv_script_yumemita_003_1_13/adv_script_yumemita_003_1_13-Text.txt",
     "role": "assets",
-    "sha256": "3e63f34099a4ce67c7e059eaf150babe203cea601e2d039b9c840affa31eac81"
+    "sha256": "3592bdf92556c035facf9a4ef7e69e9ca19b0af2640d43139755386ca198203f"
   },
   {
     "bytes": 770,
@@ -37294,6 +37609,48 @@
     "path": "assets/Assets/AddressableResources/Adv/Frame/adv_frame_rec_video/data/Texture/frame_video_rec04.png",
     "role": "assets",
     "sha256": "64c6b294215ad6377f1dc43968e00ee665e3490d5237071b989b39b93008ccd4"
+  },
+  {
+    "bytes": 82590,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Frame/adv_frame_scrollwork_black/data/Texture/adv_frame_scrollwork_black.png",
+    "role": "assets",
+    "sha256": "ffadad887abae864f552262647de08ab7d3910ae83f23bdaf9a346ac00cf860d"
+  },
+  {
+    "bytes": 119039,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Frame/adv_frame_shadow_mutsumi/data/texture/mutsumi_s 1.png",
+    "role": "assets",
+    "sha256": "ac1c8ac3fb7311ecf5abd3ca0be45db78619d7a42bfe40af1d61b71b671aa492"
+  },
+  {
+    "bytes": 114580,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Frame/adv_frame_shadow_mutsumi/data/texture/mutsumi_s 2.png",
+    "role": "assets",
+    "sha256": "7cf0a8c15e1d880e80353f9d66bbe4942319d8ee0fc33905a592457df886be01"
+  },
+  {
+    "bytes": 119158,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Frame/adv_frame_shadow_mutsumi/data/texture/mutsumi_s 3.png",
+    "role": "assets",
+    "sha256": "9d353a4ff365571610e6162fbffdfbe50ec2a9df2a66781798ec0ad0557b0f60"
+  },
+  {
+    "bytes": 112947,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Frame/adv_frame_shadow_mutsumi/data/texture/mutsumi_s 4.png",
+    "role": "assets",
+    "sha256": "92e28e9d4113b7dcff27edbab4a6bb515bf39e9ec666a9f775f7605c6acb12e0"
+  },
+  {
+    "bytes": 129087,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Frame/adv_frame_shadow_mutsumi/data/texture/mutsumi_s.png",
+    "role": "assets",
+    "sha256": "dd5a1ec26e83e7e4928928761c030653d4a53d004e003cdb7fdb3165755a8ea7"
   },
   {
     "bytes": 21346,
@@ -39891,6 +40248,62 @@
     "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000364/data/adv_bkg_stage_000364.png",
     "role": "assets",
     "sha256": "7916a6329aaa6c81a5d2de41fa54f967d72f78842acaf858b6d84ce65a64517a"
+  },
+  {
+    "bytes": 2318428,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000365/data/adv_bkg_stage_000365.png",
+    "role": "assets",
+    "sha256": "6acc2db2dc83772e27ac76873cb35c67a5f8a972b921de81fbb1345acc8c5653"
+  },
+  {
+    "bytes": 2721143,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000366/data/adv_bkg_stage_000366.png",
+    "role": "assets",
+    "sha256": "5674fa17e5a76964747987584fe6df37234033abfba4c584e32eb55bcf8318da"
+  },
+  {
+    "bytes": 2201506,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000367/data/adv_bkg_stage_000367.png",
+    "role": "assets",
+    "sha256": "163c1a9b404fb6e0d3e685cb59188356a0c6f99feb50b5e95dd21d56810719ae"
+  },
+  {
+    "bytes": 2221514,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000368/data/adv_bkg_stage_000368.png",
+    "role": "assets",
+    "sha256": "608f9b9c070a920f23b999bb231df991ba4eb294101f3829be3cedd692d7c33d"
+  },
+  {
+    "bytes": 2224209,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000369/data/adv_bkg_stage_000369.png",
+    "role": "assets",
+    "sha256": "8bea46018e703491ebeac41045ffd10430f81bbf92f6fa9630fb8e460bd1e9b7"
+  },
+  {
+    "bytes": 2254398,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000370/data/adv_bkg_stage_000370.png",
+    "role": "assets",
+    "sha256": "791d1bcb393f32c2c81354c8522ece827f9947468cd670d0a1bfe6265a929693"
+  },
+  {
+    "bytes": 2372980,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000371/data/adv_bkg_stage_000371.png",
+    "role": "assets",
+    "sha256": "887dfa0688edb08d85b488303ea26f6a61a004b2c8516a18ab9bb986665b2f21"
+  },
+  {
+    "bytes": 1120201,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Stage/adv_bkg_stage_000372/data/adv_bkg_stage_000372.png",
+    "role": "assets",
+    "sha256": "c19b71aa32ba0fafaaf614aac804eb294d54391cdcdff571349da273d444dbee"
   },
   {
     "bytes": 10619,
@@ -42560,6 +42973,27 @@
     "sha256": "948ac1324e3d482d18ca8c05c21248aca2f3c3736432d67016ecb61aa7119f9a"
   },
   {
+    "bytes": 2976492,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Still/charaillust/adv_still_charaillust_000046/data/adv_still_charaillust_000046.png",
+    "role": "assets",
+    "sha256": "24ebee50cac979fc66885eed4cb53f3b36f0b1baf0a65139ced86638354a2dd9"
+  },
+  {
+    "bytes": 2563579,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Still/charaillust/adv_still_charaillust_000047/data/adv_still_charaillust_000047.png",
+    "role": "assets",
+    "sha256": "158701d10783301ecb50c2621222eb60f06a1237e4937e04b6e1294c5ce1d9be"
+  },
+  {
+    "bytes": 3480528,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Adv/Still/charaillust/adv_still_charaillust_000048/data/adv_still_charaillust_000048.png",
+    "role": "assets",
+    "sha256": "6434ef4b579e3e63f74e56d5e84e22d9e5651a083d8760e0d5a22dd25518c6fa"
+  },
+  {
     "bytes": 2258460,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Adv/Still/charaillust/adv_still_charaillust_000049/data/adv_still_charaillust_000049.png",
@@ -44373,6 +44807,13 @@
     "sha256": "701b4ef7d6d1d2e1318616597ee1720cf69cd2080a3f0e997c6e1aa100ed0adc"
   },
   {
+    "bytes": 22592,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/BiliUI/BiliChatFrame/Chat_Frame_7.png",
+    "role": "assets",
+    "sha256": "00796bed2d99264fd89be19ad6c5dadf9caac09d43155fb99d94392f14d27e9f"
+  },
+  {
     "bytes": 10163,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/BiliUI/BiliChatIcon/chat_icon_at.png",
@@ -44455,6 +44896,20 @@
     "path": "assets/Assets/AddressableResources/BiliUI/BiliChatThemePreview/Millsage/ChatSkin_Skin_ThemeList.png",
     "role": "assets",
     "sha256": "40341319d12be1b58d3048b11b22ecae81b7226909310b05549e45ea41376273"
+  },
+  {
+    "bytes": 889122,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/BiliUI/BiliChatThemePreview/Mujica/ChatSkin_Skin_Theme.png",
+    "role": "assets",
+    "sha256": "25e2320b774937b28a8539fab8661318c122502db6f618d941f47d0fce8266e9"
+  },
+  {
+    "bytes": 72568,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/BiliUI/BiliChatThemePreview/Mujica/ChatSkin_Skin_ThemeList.png",
+    "role": "assets",
+    "sha256": "a4dc7590073d86385e918b18acd587eafbff7406c84f0c4c7163f84c20c7f4d3"
   },
   {
     "bytes": 502843,
@@ -50281,6 +50736,41 @@
     "sha256": "ee0a212dda6892ff3464b541f81b9326dee73f03126b5a767ae9fa5016a187ab"
   },
   {
+    "bytes": 163802,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Banner/gacha_banner_00023(en).png",
+    "role": "assets",
+    "sha256": "c2cfe232d89ebdaaff9934db7cbb83ae7988c0aaaff89a1a14bf487e276c6303"
+  },
+  {
+    "bytes": 162382,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Banner/gacha_banner_00023(ko).png",
+    "role": "assets",
+    "sha256": "f44edbcc06af9c9bd687d014e41eed995804a646be64b121a47c3fa927d1d62a"
+  },
+  {
+    "bytes": 163305,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Banner/gacha_banner_00023(zh-Hans).png",
+    "role": "assets",
+    "sha256": "f5ea3eb6c69e5a43a8fbff29f3d45f1a4d4f5c7cc826952e5e63811026f8d8d1"
+  },
+  {
+    "bytes": 163446,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Banner/gacha_banner_00023(zh-Hant).png",
+    "role": "assets",
+    "sha256": "58bf80528bfc755ae5c1080983323aeeec7cbaf0727051e8a5bc9c328b738510"
+  },
+  {
+    "bytes": 163158,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Banner/gacha_banner_00023.png",
+    "role": "assets",
+    "sha256": "02290323e9ad4589849bf982697fc332092021763cfc7f198238810c632f345a"
+  },
+  {
     "bytes": 941452,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Gacha/Bg/gacha_bg_00001.png",
@@ -51210,6 +51700,41 @@
     "path": "assets/Assets/AddressableResources/Gacha/Logo/gacha_logo_00022.png",
     "role": "assets",
     "sha256": "f5c614372c63fdbee414d60735211922a6fdd1262191150d7a9d9aacba3d1855"
+  },
+  {
+    "bytes": 160303,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Logo/gacha_logo_00023(en).png",
+    "role": "assets",
+    "sha256": "6ffdd8bb94cf2eeab580aa56d0f45422915e12259066ed907575788f89d9909d"
+  },
+  {
+    "bytes": 154525,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Logo/gacha_logo_00023(ko).png",
+    "role": "assets",
+    "sha256": "0c78d562376a924c1e14d46297ba6ab18d38d8e083b0f963c6b24f69f33ccc93"
+  },
+  {
+    "bytes": 157231,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Logo/gacha_logo_00023(zh-Hans).png",
+    "role": "assets",
+    "sha256": "a9f206b3898e0abfbdfe235f034e7cf07ab40ee9b9de11fff8d681374b2abe9e"
+  },
+  {
+    "bytes": 157266,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Logo/gacha_logo_00023(zh-Hant).png",
+    "role": "assets",
+    "sha256": "c64a5e9e49eabe717de92915bb5b9a6c9926bf45a1bfe9efbc1a1e8d650948fc"
+  },
+  {
+    "bytes": 155483,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Gacha/Logo/gacha_logo_00023.png",
+    "role": "assets",
+    "sha256": "00778c5d5ac1a988953aef2dd18cb0f4a21dc463bd9e23adbc7d14ed505c43f5"
   },
   {
     "bytes": 83047,
@@ -54215,6 +54740,41 @@
     "sha256": "b3b0d4a07f5b71f1364277a6aa63adc51b0c003ad5190dc22d050628ad5b9f1e"
   },
   {
+    "bytes": 2607215,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/GachaAnimation/Banner/tex_gacha_banner_23(en).png",
+    "role": "assets",
+    "sha256": "a6c67209540aaa6a58a75fc479bb11b76eaec46075df1003b85088de21a81f1c"
+  },
+  {
+    "bytes": 2547020,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/GachaAnimation/Banner/tex_gacha_banner_23(ko).png",
+    "role": "assets",
+    "sha256": "e73832d5710deeab1bd78a4a9d429e9e619cc7abf7b3639aa4c41c7250e1755f"
+  },
+  {
+    "bytes": 2591957,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/GachaAnimation/Banner/tex_gacha_banner_23(zh-Hans).png",
+    "role": "assets",
+    "sha256": "32dd03599f5fcd4ef559c7489eb8c453196f4c6463a593749a45e818234833c7"
+  },
+  {
+    "bytes": 2591710,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/GachaAnimation/Banner/tex_gacha_banner_23(zh-Hant).png",
+    "role": "assets",
+    "sha256": "f76c4180027b628b6ebef50731df23947604fa70f3dd2940042fbaf73b2332ac"
+  },
+  {
+    "bytes": 2565919,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/GachaAnimation/Banner/tex_gacha_banner_23.png",
+    "role": "assets",
+    "sha256": "64d14f578cb28c77a4b6f593c8a0fbb5c3982a25936b69d13f6b8e065940a17c"
+  },
+  {
     "bytes": 3269665,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/GachaAnimation/Banner/tex_gacha_banner_3(en).png",
@@ -55265,6 +55825,34 @@
     "sha256": "13162bbba1e3d6eff64fb32781581ba129ce6876962ac826532870d439e94182"
   },
   {
+    "bytes": 98499,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Banner/home_banner_1100000009(ko).png",
+    "role": "assets",
+    "sha256": "550f5a2abd2ae2844421e1bc80cb214dd37c08ab8a8338d3a82e7504152cb7c3"
+  },
+  {
+    "bytes": 98499,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Banner/home_banner_1100000009(zh-Hans).png",
+    "role": "assets",
+    "sha256": "87b5cdfbedcdaa472d7bce0336f8b968c6b9e2e897410d35c0ca8fecf1077957"
+  },
+  {
+    "bytes": 98586,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Banner/home_banner_1100000009(zh-Hant).png",
+    "role": "assets",
+    "sha256": "1da3ba7d7cd90be7f6836912295bc3fe51c44289390a08a43af0fdbc456f11eb"
+  },
+  {
+    "bytes": 98235,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Banner/home_banner_1100000009.png",
+    "role": "assets",
+    "sha256": "80b4703c7d5efba72b39cdf9c6637e6f4dd14a4d5082fa1dbb35666eccb2493c"
+  },
+  {
     "bytes": 230621,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/Banner/limited_mission/limited_mission_banner_0001(en).png",
@@ -56224,6 +56812,181 @@
     "sha256": "4b24dd051354ae5278b07c741948ef8986e9ed33ca8fb7c6796c1ab78eff9f07"
   },
   {
+    "bytes": 1612562,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_0(en).png",
+    "role": "assets",
+    "sha256": "4774714b22ca87347e686eef06faad8578fecca4a5e050a45e6068f2ce48a8eb"
+  },
+  {
+    "bytes": 1593659,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_0(ko).png",
+    "role": "assets",
+    "sha256": "554ec25a1623abc90996e31aebccec83a9fc292d918b457c85a7867e6fb6d47e"
+  },
+  {
+    "bytes": 1600600,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_0(zh-Hans).png",
+    "role": "assets",
+    "sha256": "47223e67a6312f86d49d51bdd746ea77ce8f01ff363f30eb580312faf5aa75b6"
+  },
+  {
+    "bytes": 1593121,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_0(zh-Hant).png",
+    "role": "assets",
+    "sha256": "2dcff47ce379333b1a49fe8e937ed3802666ba96581f7f9b4710268a49e34d2f"
+  },
+  {
+    "bytes": 1612380,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_0.png",
+    "role": "assets",
+    "sha256": "d446b7a5f6e344e85ebbe1ffa1f8ac15c7b47a6b9078197bfedcee2c9dc4264e"
+  },
+  {
+    "bytes": 1240960,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_1(en).png",
+    "role": "assets",
+    "sha256": "e17140f1b62c54774b8845dd7635d5f85f1eb3d43392b7cdf0037020fef213ee"
+  },
+  {
+    "bytes": 1177710,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_1(ko).png",
+    "role": "assets",
+    "sha256": "8cad3f949c09f1c3f70cbda830f64de6799269eb851a5bc8053361ce0ebf575a"
+  },
+  {
+    "bytes": 1179721,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_1(zh-Hans).png",
+    "role": "assets",
+    "sha256": "a94abb72556221d74145976c1ce0e68b524d7bd0b017dc4937ec0b8e662fbb17"
+  },
+  {
+    "bytes": 1179871,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_1(zh-Hant).png",
+    "role": "assets",
+    "sha256": "3c454339ed2b6949c659f170c8f35d27957c51d0ceaa60f8c47fa8c85a9f250d"
+  },
+  {
+    "bytes": 1249971,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_1.png",
+    "role": "assets",
+    "sha256": "1ba1dd19dc21f75d8c91237168988742c6144303ae254148e0f04849be8e8cf8"
+  },
+  {
+    "bytes": 1137211,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_2(en).png",
+    "role": "assets",
+    "sha256": "a3d16a5d8e269edec703605fd5537b8641a0c1c146cf50f9280236313b408b0d"
+  },
+  {
+    "bytes": 1133376,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_2(ko).png",
+    "role": "assets",
+    "sha256": "59e74a25c28091d7a05b1390f6f3748c44f4cb467c815781a210cc1705f0bb60"
+  },
+  {
+    "bytes": 1100404,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_2(zh-Hans).png",
+    "role": "assets",
+    "sha256": "d39b849fc385b9f5e189087f35bd0c2e042099613ad6325d5ee908f8677403c3"
+  },
+  {
+    "bytes": 1100296,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_2(zh-Hant).png",
+    "role": "assets",
+    "sha256": "3545579d6c3442c01b07d908060cd2d41a259ce5bb04961b9042aebd612bf91e"
+  },
+  {
+    "bytes": 1194514,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_2.png",
+    "role": "assets",
+    "sha256": "e625fed43cdd180d92ab02170ef23d32b153d7bdcec50f8c4863b86cc2bedb1a"
+  },
+  {
+    "bytes": 1324073,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_3(en).png",
+    "role": "assets",
+    "sha256": "cbbe8b95408bc2a302d3cf846a29de4379f8e527153df192e325ea97f58cd830"
+  },
+  {
+    "bytes": 1293680,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_3(ko).png",
+    "role": "assets",
+    "sha256": "0788135c304c358b28ac0bc2cbf91e07f898362cfa0d7ed08476b740ba3b9ff2"
+  },
+  {
+    "bytes": 1289009,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_3(zh-Hans).png",
+    "role": "assets",
+    "sha256": "c83220a54dda9c1a4d48e1ab1613a13f24dad76425624facb65374f665365e70"
+  },
+  {
+    "bytes": 1289076,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_3(zh-Hant).png",
+    "role": "assets",
+    "sha256": "f5b4bbed7090823a63d227efbf1e0f253d7acb8ebf3966c48331027c87cd6b13"
+  },
+  {
+    "bytes": 1362400,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_3.png",
+    "role": "assets",
+    "sha256": "4e39ca0574a1d855eac4b2ac689be57e03d6af4953000a7dfa68e4704cad9bac"
+  },
+  {
+    "bytes": 990182,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_4(en).png",
+    "role": "assets",
+    "sha256": "f2dc1825aaa31f7dc2ce8e65184daff352125949d58641245920ebede0742b60"
+  },
+  {
+    "bytes": 951889,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_4(ko).png",
+    "role": "assets",
+    "sha256": "889b7f64340488bd41e1242afc9c6d472a67787e4f53b867be6dd420952f5a16"
+  },
+  {
+    "bytes": 960874,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_4(zh-Hans).png",
+    "role": "assets",
+    "sha256": "7fd4c8dfae6856902e4bebc02fafaa84b99f622b2f24e1b1faa1a672cabdf3cb"
+  },
+  {
+    "bytes": 949161,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_4(zh-Hant).png",
+    "role": "assets",
+    "sha256": "191f7ca3f610003ecdd3983d811007e18a2d4b44e4b308d6e5204a61b4f2d152"
+  },
+  {
+    "bytes": 1003161,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_00005_4.png",
+    "role": "assets",
+    "sha256": "b5155bfb9c6704ca30b6f5b1cc7d90781300c8716282b245741f79ae0a63063e"
+  },
+  {
     "bytes": 1602360,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_EventTop_02_01(ko).png",
@@ -56693,39 +57456,39 @@
     "sha256": "188e431c035d352fbb9d734f9cec1d5aa64b626f54a74cd8618f551205df2b30"
   },
   {
-    "bytes": 730617,
+    "bytes": 714533,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_FormationEdit_4(en).png",
     "role": "assets",
-    "sha256": "9829fb3684caeb8b732df76ba098902ad144af96b5975a6a0c8ca8edca880a91"
+    "sha256": "e66b72265ff54198458e93d85900e36719dc3246aadea881bb177b6a86f45e29"
   },
   {
-    "bytes": 680583,
+    "bytes": 665808,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_FormationEdit_4(ko).png",
     "role": "assets",
-    "sha256": "bf4e9e10f9ad71529cc4648b3b5be4f8698fedc75fdd82159c817d5a77b62299"
+    "sha256": "86805abedbf6177270f9dcb98f31ac93575cdcf79bbe1cf9bdf0fb9e531b1df3"
   },
   {
-    "bytes": 690331,
+    "bytes": 676522,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_FormationEdit_4(zh-Hans).png",
     "role": "assets",
-    "sha256": "3327b642d2907caf085c8e6f19774c65cb741181602f45e09ae3242788ca2b91"
+    "sha256": "c7159876abe23b97523d320c21e6dc1e273028eb1d1641196943884f6dc75a5d"
   },
   {
-    "bytes": 696068,
+    "bytes": 677704,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_FormationEdit_4(zh-Hant).png",
     "role": "assets",
-    "sha256": "e7b1ce8508e6b842057e1d275bfe2195ed7dfef7da591fe9ab17e1333233af28"
+    "sha256": "228fd6f5d29fba9299cac3d1003491458993bdc8554438b9c9178afe3d676220"
   },
   {
-    "bytes": 721679,
+    "bytes": 746448,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/CarouselHelp/Help_FormationEdit_4.png",
     "role": "assets",
-    "sha256": "6bd71a8f5282d3ce3e4f662d0affdecfe2aa87b1e50e2e0dec04f04584cdf34c"
+    "sha256": "0565190719d9357e7ed2e87ed0327a3669753e2193dc45dd48aa01f1e48b670e"
   },
   {
     "bytes": 1204536,
@@ -63182,6 +63945,1161 @@
     "sha256": "b89ad56d9d98f8551596d6dd6252172385d1c779b776339145725230fa2d31e0"
   },
   {
+    "bytes": 907875,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005(en).png",
+    "role": "assets",
+    "sha256": "e54111d99d0960ced1bd134020337c7d7afadecb5e893f11feec20364758a5c5"
+  },
+  {
+    "bytes": 900073,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005(ko).png",
+    "role": "assets",
+    "sha256": "8f73dec911c7f03c1aba75fef1aac5149403470574f12bdf8a694deb28b1c5e6"
+  },
+  {
+    "bytes": 910777,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005(zh-Hans).png",
+    "role": "assets",
+    "sha256": "c84249afd278ddbbdb11c9fc8ef15bea0812081183d814ded6f04a57c4072fd9"
+  },
+  {
+    "bytes": 910322,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005(zh-Hant).png",
+    "role": "assets",
+    "sha256": "41a1b7b42b4db48800e818b47c3fae9c57d8267d6f4163fc1c30bada465bfb2c"
+  },
+  {
+    "bytes": 887759,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005.png",
+    "role": "assets",
+    "sha256": "113cf4932702d94b0ba1bff52d38614007b2d2dd42f2482b7534b9ecc01173f1"
+  },
+  {
+    "bytes": 733473,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_01(en).png",
+    "role": "assets",
+    "sha256": "ebf5a7319dc5c53b786a878084c791182c27886dc578ee1ec3df1bebba90282f"
+  },
+  {
+    "bytes": 728771,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_01(ko).png",
+    "role": "assets",
+    "sha256": "904f9e85799ebc624dece61172a121ef359313d32b37a9b19ed0abdb77f23ae7"
+  },
+  {
+    "bytes": 733485,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_01(zh-Hans).png",
+    "role": "assets",
+    "sha256": "8d6eb35e2dd69eb8e31e83a8f6784e7dae91117610d62d7addb36621afcf3eb7"
+  },
+  {
+    "bytes": 733703,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_01(zh-Hant).png",
+    "role": "assets",
+    "sha256": "fedd671d630d31291e547657d6027a392ddb91df9bc49cfc55ea937b38cc2e3a"
+  },
+  {
+    "bytes": 722088,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_01.png",
+    "role": "assets",
+    "sha256": "3f1d3e44c288d557ba15796762917e1dd5d0fe7284b85f10fefbcdf4b4bdba56"
+  },
+  {
+    "bytes": 708603,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_02(en).png",
+    "role": "assets",
+    "sha256": "f60ad3f91d0da3de22e842aa4b0e419b16cb1438a5623906155e37cb86c50086"
+  },
+  {
+    "bytes": 703826,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_02(ko).png",
+    "role": "assets",
+    "sha256": "e7b6ef6a4961084a5f4624cd3d59c640d751a6a7220a3865c2644de43debd72b"
+  },
+  {
+    "bytes": 708940,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_02(zh-Hans).png",
+    "role": "assets",
+    "sha256": "a926670d22980c59e8f0c6680afd2a1edf7ff19fc900c1dd564e7c56bb7c570a"
+  },
+  {
+    "bytes": 708986,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_02(zh-Hant).png",
+    "role": "assets",
+    "sha256": "60da718d0d0fcab2043ab6e172535a9ee4f8a636032d3811dde067c65e92db96"
+  },
+  {
+    "bytes": 698796,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_02.png",
+    "role": "assets",
+    "sha256": "a45b15dbc25041ae658c7c82dab5bef95aa4e77297f933f5c1b8b143a32664a3"
+  },
+  {
+    "bytes": 744535,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_03(en).png",
+    "role": "assets",
+    "sha256": "cecfadc37d3a8d06fd148e341a2eca2590c2e0c0e569b0124c3bd65c479811dd"
+  },
+  {
+    "bytes": 739799,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_03(ko).png",
+    "role": "assets",
+    "sha256": "a7ab4f0363dcb026592992703b86793d268793a78039d63679659bd8c8d48d2d"
+  },
+  {
+    "bytes": 744537,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_03(zh-Hans).png",
+    "role": "assets",
+    "sha256": "d3b98d1bba6130659147564eb836352ce0079e5cee5dc0fa2ab9a028022e229a"
+  },
+  {
+    "bytes": 744497,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_03(zh-Hant).png",
+    "role": "assets",
+    "sha256": "d7ad60c03be49617ae8168f0ae20e10e626b17813c368800fbf9cf596faa82f3"
+  },
+  {
+    "bytes": 731165,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_03.png",
+    "role": "assets",
+    "sha256": "23131bdb5335a4095189e8567f2173e6add0b7db5d26911a1b1a50efa5a3623b"
+  },
+  {
+    "bytes": 592818,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_04(en).png",
+    "role": "assets",
+    "sha256": "793d0c6e5a279794ac8f42e12f425374edb69016abb0d0e8afe8dc29f81dfaa7"
+  },
+  {
+    "bytes": 587109,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_04(ko).png",
+    "role": "assets",
+    "sha256": "25a175eeb5c6c8a5a373017eac4ce4aa58fb1349e891dde25551a95377facff4"
+  },
+  {
+    "bytes": 593258,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_04(zh-Hans).png",
+    "role": "assets",
+    "sha256": "1d6ff7eacad5dc580ba24c9eba9778f7b76aa43c8b4b159b109ace8c220bc76e"
+  },
+  {
+    "bytes": 593292,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_04(zh-Hant).png",
+    "role": "assets",
+    "sha256": "a529f6fc79e80e54723b9e90e59a784b7802017d8e53e867859053cdb205409d"
+  },
+  {
+    "bytes": 582531,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_04.png",
+    "role": "assets",
+    "sha256": "aecdda47fe3f4c987e21b59467c2cc2437cf496d5dbaf03d2ca08a0d868ca414"
+  },
+  {
+    "bytes": 521405,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_05(en).png",
+    "role": "assets",
+    "sha256": "8ecdaf4bbe543930e50a6d8313685e336875a4cd663f5530d3699ed3475b0308"
+  },
+  {
+    "bytes": 516132,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_05(ko).png",
+    "role": "assets",
+    "sha256": "a3287bdf092ccb2987bc6dfc0135815efec65b1e5637fbeccc187a13a4cd3f08"
+  },
+  {
+    "bytes": 565827,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_05(zh-Hans).png",
+    "role": "assets",
+    "sha256": "698b4382cd3523a77451cfa3160fac3c6e29a6b92682147fc489c4dba1361b74"
+  },
+  {
+    "bytes": 520694,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_05(zh-Hant).png",
+    "role": "assets",
+    "sha256": "4d11c97a4ee6b02904cce624ae4a3fb180ede6de56f41224429d702ea9ebfeff"
+  },
+  {
+    "bytes": 513971,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_05.png",
+    "role": "assets",
+    "sha256": "d9cfa6ced7f6d60de64b48f2c889f314294d229800504c4372b16923b0b7b908"
+  },
+  {
+    "bytes": 524406,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_06(en).png",
+    "role": "assets",
+    "sha256": "721cdb76f0becde599460bd3a03f02c65ddf2e4a5a6caf438d7778e1d3038659"
+  },
+  {
+    "bytes": 519137,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_06(ko).png",
+    "role": "assets",
+    "sha256": "f169fa6cf28acf74e161798bbe1bd1c0a8ebeae744f5df5a1af609fc3939bb83"
+  },
+  {
+    "bytes": 524113,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_06(zh-Hans).png",
+    "role": "assets",
+    "sha256": "9c8fb1943930a7e423329273f470c1d6dfdd3beaa8cdbb9f963b43fead0e308c"
+  },
+  {
+    "bytes": 523687,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_06(zh-Hant).png",
+    "role": "assets",
+    "sha256": "b9cabcff8b44a0a2743d2f8a3d2555bab3ae2dbba4736bc5f9fd3e12b26a61e3"
+  },
+  {
+    "bytes": 516694,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_06.png",
+    "role": "assets",
+    "sha256": "8e8df7ff80e39e9b16d380a84c961b4835d9c412bcb743571b3190b7e613d1bf"
+  },
+  {
+    "bytes": 526295,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_07(en).png",
+    "role": "assets",
+    "sha256": "417fac45e1aa9d7cfa3afb5a1b70b0c2a87243974fe80614f1441625a6996e66"
+  },
+  {
+    "bytes": 520897,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_07(ko).png",
+    "role": "assets",
+    "sha256": "e33f175b4f2781231e07abe6fe8f746fea517648f26add5b6ad297239ed985a8"
+  },
+  {
+    "bytes": 526070,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_07(zh-Hans).png",
+    "role": "assets",
+    "sha256": "9acae0a68e615e7e3fff2880d0ee3e3156410fe569a5b10c65bdea18c0bf460f"
+  },
+  {
+    "bytes": 525558,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_07(zh-Hant).png",
+    "role": "assets",
+    "sha256": "81e7f7e40eac51af16ff3d6eb9309cf26d856342069ea6e261e06dbe53d76e12"
+  },
+  {
+    "bytes": 518684,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_07.png",
+    "role": "assets",
+    "sha256": "8539bcc4efcded400181220657e15e814bd90c8e359b83206b279fc8499b9489"
+  },
+  {
+    "bytes": 527060,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_08(en).png",
+    "role": "assets",
+    "sha256": "12e08d818fa9495df981445d6060c0dabb052819046444d5f0fd76fa76389489"
+  },
+  {
+    "bytes": 521539,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_08(ko).png",
+    "role": "assets",
+    "sha256": "fb454d60bc806d39476235771633118ede645a1694295f424c9c5a10138ce918"
+  },
+  {
+    "bytes": 526833,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_08(zh-Hans).png",
+    "role": "assets",
+    "sha256": "804b0ca6d642d72a49bf373bb964ebce8d1c9b60e16a00ae9600a27f32fbc527"
+  },
+  {
+    "bytes": 526411,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_08(zh-Hant).png",
+    "role": "assets",
+    "sha256": "10b5ecec04df1efbc355b8dad046bff406fb483daa4eb6cb7633402799b83815"
+  },
+  {
+    "bytes": 519460,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_01_00005_08.png",
+    "role": "assets",
+    "sha256": "5e6c257653367d4446ea234da1dc4f0441c60b16e4af1ee1288babad9ed9133e"
+  },
+  {
+    "bytes": 220117,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_01(en).png",
+    "role": "assets",
+    "sha256": "80bceca6e66e62bfcb566f2d0ac99f2d785472d5bcf8c22151472a10d016910f"
+  },
+  {
+    "bytes": 216892,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_01(ko).png",
+    "role": "assets",
+    "sha256": "14f51bacb952d7860e84039d6a1fec615aefc3cb94822c8295414a221730fd7e"
+  },
+  {
+    "bytes": 221213,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_01(zh-Hans).png",
+    "role": "assets",
+    "sha256": "a13d732d884f1c20899b130f7d1e9e2cabe0c124381e5a4a43fedf94935cc506"
+  },
+  {
+    "bytes": 220886,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_01(zh-Hant).png",
+    "role": "assets",
+    "sha256": "52f6e5b7f0e2f3e226c5afa84b7d04f579a69471f05c2df0a9faf1dff4b48a89"
+  },
+  {
+    "bytes": 214502,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_01.png",
+    "role": "assets",
+    "sha256": "c573fd611a3a0924feb8645b01b3665b27c56f5d9ab8188d69686dee7cd82e21"
+  },
+  {
+    "bytes": 213907,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_02(en).png",
+    "role": "assets",
+    "sha256": "746383bcc9d95b39ba9bd9dd474051a2c495f6cea85c8b65e9f46548585a1e42"
+  },
+  {
+    "bytes": 211138,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_02(ko).png",
+    "role": "assets",
+    "sha256": "b44b3e8a20e4267eb30f4542209a8d76bf97de1f29e4bdbeb6a123cc6593a621"
+  },
+  {
+    "bytes": 215171,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_02(zh-Hans).png",
+    "role": "assets",
+    "sha256": "650a14a8fe1a1d3803c56729fccb894dabdd408e3b2f4698f94a5fe65e5a16e3"
+  },
+  {
+    "bytes": 214744,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_02(zh-Hant).png",
+    "role": "assets",
+    "sha256": "2f985ddf2969c7abe32c5313b7cae45be9ef0f1a20680a70153427fb9bbefa4a"
+  },
+  {
+    "bytes": 208368,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_02.png",
+    "role": "assets",
+    "sha256": "9010a7fb705e54f7979685d596860b750d3ddf184ecfae259ba8e66df1499bb2"
+  },
+  {
+    "bytes": 220391,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_03(en).png",
+    "role": "assets",
+    "sha256": "bbc98a08bb3dce28fc35d040176b5502f33315b4717abd0d2b17d3b015caca45"
+  },
+  {
+    "bytes": 217162,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_03(ko).png",
+    "role": "assets",
+    "sha256": "0c81e400aec819a0dfa1b83b9f6164e1fbe6dfb16a98d893b8eebcc45e2f78a4"
+  },
+  {
+    "bytes": 221596,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_03(zh-Hans).png",
+    "role": "assets",
+    "sha256": "940ad041ddff94371a55c13f2b12484d914f9f0ee26db9610597a6483950c7c3"
+  },
+  {
+    "bytes": 221283,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_03(zh-Hant).png",
+    "role": "assets",
+    "sha256": "0d74f43681914ec0b4e3b54b8f320727e4430b59a61209f828e2174294651423"
+  },
+  {
+    "bytes": 214579,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_03.png",
+    "role": "assets",
+    "sha256": "54ca40c6201f49bf56f79dc4dcd73ed4a5af5a74b3498662f6543291e2b6b92b"
+  },
+  {
+    "bytes": 170200,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_04(en).png",
+    "role": "assets",
+    "sha256": "0146616ace9797a0b11551e1fd6ae43b2f538f2f2901be836b6e80b90959dd52"
+  },
+  {
+    "bytes": 166765,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_04(ko).png",
+    "role": "assets",
+    "sha256": "5d2c318ae1d7997e7e69e87e03eec89222ba1ceeb14c955e8269959936168d4f"
+  },
+  {
+    "bytes": 170917,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_04(zh-Hans).png",
+    "role": "assets",
+    "sha256": "59a2d9951bef75e0c120b02072976a61fbff68dfd11f976c1c62ca39398b2a2b"
+  },
+  {
+    "bytes": 171085,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_04(zh-Hant).png",
+    "role": "assets",
+    "sha256": "1329a9c892a5f55639224f7edc3d548f131379ec7500f2fddd3121e74c1da6c0"
+  },
+  {
+    "bytes": 163696,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_04.png",
+    "role": "assets",
+    "sha256": "cf5d515603205687bedbdd7afb03de072a924450c54173cbba4f551142eab18f"
+  },
+  {
+    "bytes": 145149,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_05(en).png",
+    "role": "assets",
+    "sha256": "d861b36fd2b8480f7c87c612f9f6f3971f12fa9b4dcec063144659190909f596"
+  },
+  {
+    "bytes": 141915,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_05(ko).png",
+    "role": "assets",
+    "sha256": "1929768d2808dcc330466f744479a4216e63ba54453081bf409fadbd696927b0"
+  },
+  {
+    "bytes": 146433,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_05(zh-Hans).png",
+    "role": "assets",
+    "sha256": "2ffbf278a514ea101f331fd3a7bf4e2c5a7cfeb4e8b2383987c971a4b2473754"
+  },
+  {
+    "bytes": 146239,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_05(zh-Hant).png",
+    "role": "assets",
+    "sha256": "11da137931e1ca23461a942b14eac0cd32b2f7d669b2c2cc8a00bdb3ac715912"
+  },
+  {
+    "bytes": 138634,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_05.png",
+    "role": "assets",
+    "sha256": "3aacc8510bdb629f4f050f2061bd55e6a5bfab95ccacfbf0d1e445d9ffa85a4c"
+  },
+  {
+    "bytes": 139386,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_06(en).png",
+    "role": "assets",
+    "sha256": "8b89328f0393a9451dd0ac0f648ab956f0acd62f6fa93117510066e0e85c9ddd"
+  },
+  {
+    "bytes": 136048,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_06(ko).png",
+    "role": "assets",
+    "sha256": "7fee34237c3a14369c4f712618abcb9c098c2ab67e4cbfc31a8e66f18d99f42d"
+  },
+  {
+    "bytes": 140769,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_06(zh-Hans).png",
+    "role": "assets",
+    "sha256": "3bed6eac91ed89d8c37fba9fae227056c423ab47290defa63af28c127ff4193c"
+  },
+  {
+    "bytes": 140480,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_06(zh-Hant).png",
+    "role": "assets",
+    "sha256": "11b2bcc727c2cd89744e7aa151e67d8a23de5671e20486011d29278a5cf5d725"
+  },
+  {
+    "bytes": 131425,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_06.png",
+    "role": "assets",
+    "sha256": "ce57098b1457188c8c06b000f31410c900f051ba06aeaf1ab3a6f28c7d163c36"
+  },
+  {
+    "bytes": 143217,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_07(en).png",
+    "role": "assets",
+    "sha256": "3265f37aa67f68d0f5e18c02c221f87dfe860620203f6fdde2bae40da6f52260"
+  },
+  {
+    "bytes": 139779,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_07(ko).png",
+    "role": "assets",
+    "sha256": "baed2a15eac77ce413d858ae447347b87c40a097ce388c7f0060c6e9ea4083b4"
+  },
+  {
+    "bytes": 144526,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_07(zh-Hans).png",
+    "role": "assets",
+    "sha256": "0cddd262d1eb9e6297f19bb788ebc06beb30cff8b0ee6db957e69ba1393e676c"
+  },
+  {
+    "bytes": 144255,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_07(zh-Hant).png",
+    "role": "assets",
+    "sha256": "0f826fbd678ffbbef61149ab13f548e430312b70302f8cb5ffa7c893b714f8e6"
+  },
+  {
+    "bytes": 135885,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_07.png",
+    "role": "assets",
+    "sha256": "3dec77d0ba9ad8a4113005bb5b8dbd8c71ee5e6fd3ea045dc741f5b5b841004c"
+  },
+  {
+    "bytes": 127245,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_08(en).png",
+    "role": "assets",
+    "sha256": "8c3dd90a5b260ce53f44b3b0c66a9cca73ce150eb834dbbec806d1c40c64f13a"
+  },
+  {
+    "bytes": 123917,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_08(ko).png",
+    "role": "assets",
+    "sha256": "b518db633a842161a0992c27908fb2b78c6cdf6b013530078a198f2ebfc9aa83"
+  },
+  {
+    "bytes": 128593,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_08(zh-Hans).png",
+    "role": "assets",
+    "sha256": "f1e5ad23d2dc18094ad72717d30478385de42ed8b1e52ad4270bc363329651a5"
+  },
+  {
+    "bytes": 128341,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_08(zh-Hant).png",
+    "role": "assets",
+    "sha256": "841b9b69d7f5ad9e01ca8fa962f43272c78b8002602a58b4c3b95d42bb9e4b49"
+  },
+  {
+    "bytes": 120672,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100030_08.png",
+    "role": "assets",
+    "sha256": "a9dbe95589e81f73d7257c814594d2b5967e4bc4eee966d2b586dbea1b874fed"
+  },
+  {
+    "bytes": 221269,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_01(en).png",
+    "role": "assets",
+    "sha256": "f044a6ed1ffcc09ecc360cfaffa7a3032dd512386fb00c17a34de0572d078821"
+  },
+  {
+    "bytes": 218238,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_01(ko).png",
+    "role": "assets",
+    "sha256": "3fb70b41250f12108c513845b8f684c79644d14b7cc960f1e6a72bd7fe787f6d"
+  },
+  {
+    "bytes": 222908,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_01(zh-Hans).png",
+    "role": "assets",
+    "sha256": "c8798070a00f12df1d175b8db2810046de0f01bba1aa772c710ad57cfa050c9c"
+  },
+  {
+    "bytes": 222585,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_01(zh-Hant).png",
+    "role": "assets",
+    "sha256": "698a7f3a6eaace4e8417be534712e4c61bb8ff6e965ea64fecbefd9b918bd0f7"
+  },
+  {
+    "bytes": 216075,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_01.png",
+    "role": "assets",
+    "sha256": "2e04c436d2b8ed613724cbff2907bb143b9a2b8234d3f94268050bf130147edd"
+  },
+  {
+    "bytes": 215051,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_02(en).png",
+    "role": "assets",
+    "sha256": "14b3a2fcaa418b9c052c40286ed279512c2da5581b7adbe93e1bfdb24f4a2c85"
+  },
+  {
+    "bytes": 212478,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_02(ko).png",
+    "role": "assets",
+    "sha256": "ea39adf56bc27eb76209e4326366b37d7e3621d33b77ad2031c31730f3c7d8db"
+  },
+  {
+    "bytes": 216856,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_02(zh-Hans).png",
+    "role": "assets",
+    "sha256": "ddd60ac9718ab1a3f9868cb1584781e2c3d35189c1f5e5e2c9049f5bce142e91"
+  },
+  {
+    "bytes": 216449,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_02(zh-Hant).png",
+    "role": "assets",
+    "sha256": "3acaa30a782040da856cecdd63bc9a64f549c98594c28c099fe99ba845687496"
+  },
+  {
+    "bytes": 209949,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_02.png",
+    "role": "assets",
+    "sha256": "c9d22f42a9942c9f9814af00d120de3e885b794ac561f2558ac68216ab10cae1"
+  },
+  {
+    "bytes": 221542,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_03(en).png",
+    "role": "assets",
+    "sha256": "560126a10744970529c353cea46a71df533f9a2896f37902893f82f4c296c9cf"
+  },
+  {
+    "bytes": 218502,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_03(ko).png",
+    "role": "assets",
+    "sha256": "eda2bf002fbe30084afd8e89201679acf5da5bbf804ab64afe047bb35213bf90"
+  },
+  {
+    "bytes": 223291,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_03(zh-Hans).png",
+    "role": "assets",
+    "sha256": "6475b772ce67b936db1fd47339a1482fcef3c5a1cc02a96798f35b62b6c6d08d"
+  },
+  {
+    "bytes": 222981,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_03(zh-Hant).png",
+    "role": "assets",
+    "sha256": "8c7409bb0dcb58d7ee85afa7b12c306e44c07f71d3e1a3df74ecdb9826ce6819"
+  },
+  {
+    "bytes": 216155,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_03.png",
+    "role": "assets",
+    "sha256": "f3cb10eb9e75b8325107754447ee93235d4d2cbb1e8ca72cfd574e2e75eb3d24"
+  },
+  {
+    "bytes": 171186,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_04(en).png",
+    "role": "assets",
+    "sha256": "57d0989bf05a2cdcdf5d77385d926f40e3d1331f582eee273aa6cab8aae03ca9"
+  },
+  {
+    "bytes": 168208,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_04(ko).png",
+    "role": "assets",
+    "sha256": "9bad982d7cf19ec47d38ce46c2a61aa38e8d9ecd3a0fbe04540a32b985f76340"
+  },
+  {
+    "bytes": 172807,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_04(zh-Hans).png",
+    "role": "assets",
+    "sha256": "1bef162193784aca9ec4a0f20a0a2d8aca093956967fa7f55f923ea14af82f7e"
+  },
+  {
+    "bytes": 172976,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_04(zh-Hant).png",
+    "role": "assets",
+    "sha256": "54a246a953fc34eb9ad733dd445016fb3e2dc74ef3b403cee643b8055daafc37"
+  },
+  {
+    "bytes": 165328,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_04.png",
+    "role": "assets",
+    "sha256": "db8b6cf8b8d8886dbf3bee306966222d95d63395b902d53068dda1a63fca50ed"
+  },
+  {
+    "bytes": 146307,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_05(en).png",
+    "role": "assets",
+    "sha256": "d61911e456961dc2a382606a71390e057c23484f8f12df983981169fea546e4c"
+  },
+  {
+    "bytes": 143246,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_05(ko).png",
+    "role": "assets",
+    "sha256": "fc1883e74f271df2ae8ef203d81fac5ac3187f002be6f2a6f7d2482bfd56a011"
+  },
+  {
+    "bytes": 148153,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_05(zh-Hans).png",
+    "role": "assets",
+    "sha256": "d78027031d7f8cf27640b5a40cd4001c847607c0510b77fb7536a93a8bad415c"
+  },
+  {
+    "bytes": 147965,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_05(zh-Hant).png",
+    "role": "assets",
+    "sha256": "b8b4b181c3e71de7cbe5532692fba855244b10fb20aee4e891c07a4c28a9bb18"
+  },
+  {
+    "bytes": 140194,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_05.png",
+    "role": "assets",
+    "sha256": "4f69a039806650eff820e631611f60c145b5d35dadd2c930f27dc80be7628e63"
+  },
+  {
+    "bytes": 140540,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_06(en).png",
+    "role": "assets",
+    "sha256": "89d1c962a81de10d2251266acbf817617104f1f3f97c4047d24fb51473357bb2"
+  },
+  {
+    "bytes": 137417,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_06(ko).png",
+    "role": "assets",
+    "sha256": "11daef1f2060d74cf18dd364d24c8e47f54c99a921b0986919e08b2703b791c6"
+  },
+  {
+    "bytes": 142488,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_06(zh-Hans).png",
+    "role": "assets",
+    "sha256": "3ae9fd721fe69b4a87197e65119a2c7099a18f96fdaa2bd00c410a4f48287793"
+  },
+  {
+    "bytes": 142188,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_06(zh-Hant).png",
+    "role": "assets",
+    "sha256": "abf3d877a53fbd5d4792abceb9b4050730998a3fed038762dd239ffebb4be515"
+  },
+  {
+    "bytes": 133010,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_06.png",
+    "role": "assets",
+    "sha256": "ee85e2b5f4a8b38553f0f4d543dd4ea3b4e52ff4ae729467efaa121dfeb156d7"
+  },
+  {
+    "bytes": 144367,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_07(en).png",
+    "role": "assets",
+    "sha256": "a48e77449abb48fc64d16a25cff31f762524cd53a167bee3c0434f562ba05e61"
+  },
+  {
+    "bytes": 141156,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_07(ko).png",
+    "role": "assets",
+    "sha256": "7d00eca88cd1cc07db5dce39f7951091645d5862ba364898a87966b380b2cedb"
+  },
+  {
+    "bytes": 146260,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_07(zh-Hans).png",
+    "role": "assets",
+    "sha256": "ec961956e0e86510ebe2d310e0a7209c7e83998f50c6440006c5d2c064a8a6d4"
+  },
+  {
+    "bytes": 145993,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_07(zh-Hant).png",
+    "role": "assets",
+    "sha256": "2163344006e20302461760019fc5a0b6f175bb1c6258fcb4a3d714131a2b98fd"
+  },
+  {
+    "bytes": 137500,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_07.png",
+    "role": "assets",
+    "sha256": "b649d8a336b342715a67c8065a9000f738ea147d3e8da0fe476af96fa79a180b"
+  },
+  {
+    "bytes": 128406,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_08(en).png",
+    "role": "assets",
+    "sha256": "9f329392a8cbedf1572693a2dfe3977f1821a95be3e3001dbec4f525f021ff9b"
+  },
+  {
+    "bytes": 125269,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_08(ko).png",
+    "role": "assets",
+    "sha256": "12a74d91951bbd5a8a8fb4841b19187badd0df4f33b50613413dcb32e21e72f7"
+  },
+  {
+    "bytes": 130305,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_08(zh-Hans).png",
+    "role": "assets",
+    "sha256": "64348fe07e151cd4ff19c2014aa1ca7ed965f2151ce873b02803f3f166e64bc6"
+  },
+  {
+    "bytes": 130056,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_08(zh-Hant).png",
+    "role": "assets",
+    "sha256": "fcd7efcfb6149842998a3ee84a4c0c65c6f9424eeff87bbcd6a2a7af93fdea29"
+  },
+  {
+    "bytes": 122251,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100041_08.png",
+    "role": "assets",
+    "sha256": "36988c580a24ee231846b5c7ffd1d841bfac40edc4989448f788df7848a7766d"
+  },
+  {
+    "bytes": 218843,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_01(en).png",
+    "role": "assets",
+    "sha256": "43b3952686b6c86994a04807f154dac1ecb4e07f51b28fdf81d96b59a2e7e33c"
+  },
+  {
+    "bytes": 219992,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_01(ko).png",
+    "role": "assets",
+    "sha256": "ed6eb3a0967e26d2638f95c8255ea37c9e247696e37df16d734e7c7a0f04160a"
+  },
+  {
+    "bytes": 224003,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_01(zh-Hans).png",
+    "role": "assets",
+    "sha256": "86a8ce6f324eca8a5de038b6bc46304036722bf95664b3a97e016e5e4a13f148"
+  },
+  {
+    "bytes": 223662,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_01(zh-Hant).png",
+    "role": "assets",
+    "sha256": "6f9ef238759635d3b036a4dc6b210352d1186588c8406db9b69085aaea59aab5"
+  },
+  {
+    "bytes": 216752,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_01.png",
+    "role": "assets",
+    "sha256": "6b583e10fa6c85ef0d83c0a0cc4783a7f88a2201f6e97d65281c0ee496a1a461"
+  },
+  {
+    "bytes": 212600,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_02(en).png",
+    "role": "assets",
+    "sha256": "ab53357c6f7179317715d806bcedab886e758fa93f05a97b2748f9258b08da71"
+  },
+  {
+    "bytes": 214223,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_02(ko).png",
+    "role": "assets",
+    "sha256": "ba63805c2cf70c0c36ecead3c4c91ab96777a7ad4f277c011d1e5cc1aa1b5a4f"
+  },
+  {
+    "bytes": 217928,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_02(zh-Hans).png",
+    "role": "assets",
+    "sha256": "9ac295f4c468e6beef852e87174c931e1cba4fd7368f13f63e1fc54ba63e4353"
+  },
+  {
+    "bytes": 217526,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_02(zh-Hant).png",
+    "role": "assets",
+    "sha256": "0948910e4f2377ae6eb35dab39f4ea26b3140d9aa025c1444c685b64d4d8bfb1"
+  },
+  {
+    "bytes": 210554,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_02.png",
+    "role": "assets",
+    "sha256": "02bffa8c819c7fad0327c57d17a0e8b29af60a28ec988bd10bb6df38d1fd821e"
+  },
+  {
+    "bytes": 219114,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_03(en).png",
+    "role": "assets",
+    "sha256": "61e1ffcffb6748634fbb7a37625f6146c54b490f89449dc07a82391e89217faf"
+  },
+  {
+    "bytes": 220251,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_03(ko).png",
+    "role": "assets",
+    "sha256": "e426df0b223bc0e6fbae80f575fe7a5a46ea2065fa30b89444063e87a46f07e0"
+  },
+  {
+    "bytes": 224386,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_03(zh-Hans).png",
+    "role": "assets",
+    "sha256": "11bedfa49866de56f4a168a382376eddf687fd2bdc07673ccfbf925182ad16f1"
+  },
+  {
+    "bytes": 224057,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_03(zh-Hant).png",
+    "role": "assets",
+    "sha256": "309a5e4914c7eb00b2b57f79c27870c241b5ffe71f8e8d31b6904f31546cea12"
+  },
+  {
+    "bytes": 216941,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_03.png",
+    "role": "assets",
+    "sha256": "f68d6865989a64fba44cfdd2cf780037dd076683b9a995e94798eb990ddf04b4"
+  },
+  {
+    "bytes": 168914,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_04(en).png",
+    "role": "assets",
+    "sha256": "5289e85fe90dedca1736e6ffe0def80b9c182aeb54d2e5e867dfafea86b55a25"
+  },
+  {
+    "bytes": 170043,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_04(ko).png",
+    "role": "assets",
+    "sha256": "28baf684d8be193de3e660db2046c267a6909347cd65cf9927698ca94ba571be"
+  },
+  {
+    "bytes": 173849,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_04(zh-Hans).png",
+    "role": "assets",
+    "sha256": "7c25b77d2f4b73436bbe283734b1d8bf3a83adff5f13e7a9907192d9b6204720"
+  },
+  {
+    "bytes": 174005,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_04(zh-Hant).png",
+    "role": "assets",
+    "sha256": "3818532ce5d080fba8cbaeb173c79931aa96ac4bdc3e899a3752e994dae1cd30"
+  },
+  {
+    "bytes": 166452,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_04.png",
+    "role": "assets",
+    "sha256": "101f4158e21e59124345966fa3f69c457a2e6b1c578f80f24f313a6a26f1eaba"
+  },
+  {
+    "bytes": 143877,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_05(en).png",
+    "role": "assets",
+    "sha256": "3217a7753d120bacaff74f50b02f87f07c77406e78e44ca77fdf3f56adfcc274"
+  },
+  {
+    "bytes": 145017,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_05(ko).png",
+    "role": "assets",
+    "sha256": "72133bf54b894f7c086f8e403c603f35bc9c499e38fc28710f3a90791eca83c3"
+  },
+  {
+    "bytes": 149215,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_05(zh-Hans).png",
+    "role": "assets",
+    "sha256": "82ab32b5de353587972b8b190b47723a8128683b501eec5907640e912f8a6ded"
+  },
+  {
+    "bytes": 149021,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_05(zh-Hant).png",
+    "role": "assets",
+    "sha256": "6127dc54976eb230a486fb02c91de0541bea00efc31a59f35734f6756cdbbdfb"
+  },
+  {
+    "bytes": 141747,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_05.png",
+    "role": "assets",
+    "sha256": "d909a38675b3d712c045f1d2f8af3df74f4d41968c6970a86a714aee4fd83381"
+  },
+  {
+    "bytes": 138100,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_06(en).png",
+    "role": "assets",
+    "sha256": "dad28f70ce5abae2626c950e914aa0474e935dee31c70bc303bd203e5a919142"
+  },
+  {
+    "bytes": 139185,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_06(ko).png",
+    "role": "assets",
+    "sha256": "02e1c01c1f230ec444ad377abf72cd64a10be07220b46db8f55666885a32d44c"
+  },
+  {
+    "bytes": 143549,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_06(zh-Hans).png",
+    "role": "assets",
+    "sha256": "fc02bd2af622294e6a7f3220d74f67a6b35fc2165c4358fa2cf474de4849cb9f"
+  },
+  {
+    "bytes": 143268,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_06(zh-Hant).png",
+    "role": "assets",
+    "sha256": "ff94577d896b33baa179a4a25b614f67c82c620853ee309873a82ebaf361beb3"
+  },
+  {
+    "bytes": 134341,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_06.png",
+    "role": "assets",
+    "sha256": "b81becb96ecb698b337b9c7d84a525961fa2bb0e1ca23d54f6c59564b69d0c58"
+  },
+  {
+    "bytes": 141940,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_07(en).png",
+    "role": "assets",
+    "sha256": "76eec13444024bc24603aad7ed8bcff2a7c91f81cc9b263e36ec0d438edbb477"
+  },
+  {
+    "bytes": 142932,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_07(ko).png",
+    "role": "assets",
+    "sha256": "5d6bbba6d7ee66b66bb4eaebbb0def6aed36a05b934ab05fd0f2084ac75cd981"
+  },
+  {
+    "bytes": 147306,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_07(zh-Hans).png",
+    "role": "assets",
+    "sha256": "6bb92bd9fe3ba3624cb28a495cac8bd3e837a211dd366f6d9d654019e042d781"
+  },
+  {
+    "bytes": 147037,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_07(zh-Hant).png",
+    "role": "assets",
+    "sha256": "b3f98f53d4012ca94b3e97b9fa4cd32d3bd8cd89d65dd022b0ce1514ec21d49b"
+  },
+  {
+    "bytes": 138799,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_07.png",
+    "role": "assets",
+    "sha256": "096bd38a197d33cb4410ae851d09816943ad03c7046c73aea789f1485c5f4788"
+  },
+  {
+    "bytes": 125944,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_08(en).png",
+    "role": "assets",
+    "sha256": "6bc4adf695bebe52258052668d4b5018200b54da13d7baf4660d448d456046df"
+  },
+  {
+    "bytes": 127048,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_08(ko).png",
+    "role": "assets",
+    "sha256": "38475af3e7d46130acdf78e40e6d06aa27eb55b3cec33f8e48ad47bfed5701df"
+  },
+  {
+    "bytes": 131423,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_08(zh-Hans).png",
+    "role": "assets",
+    "sha256": "d72486b44a74906cc131d30b1e35e3fc7a9f4658dd82afcae7d1f72e9d0b08c4"
+  },
+  {
+    "bytes": 131166,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_08(zh-Hant).png",
+    "role": "assets",
+    "sha256": "120c808734dcc67c0e75c587dbb49c8f2357fd14d3bcf02b6d177a7dab57ce30"
+  },
+  {
+    "bytes": 122948,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/01_00005/degree_event_100116_08.png",
+    "role": "assets",
+    "sha256": "421bdc24d023c3c21b6a405c72971ef5e292b9aab3b1f3fe630b26cc1b999f14"
+  },
+  {
     "bytes": 98269,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/Degree/Event/degree_gacha_00001(en).png",
@@ -63390,6 +65308,34 @@
     "path": "assets/Assets/AddressableResources/Image/Degree/Event/degree_gacha_00016.png",
     "role": "assets",
     "sha256": "c08f4f65fdeed0cd9b2f3ae9bd043eff763dc80530dfbe732e80167ed62a8cca"
+  },
+  {
+    "bytes": 163340,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/degree_gacha_00023(en).png",
+    "role": "assets",
+    "sha256": "653cf09cd6131ddb40fffe3d156002beb52009de62a76db94b6805dc7fa39ec3"
+  },
+  {
+    "bytes": 161795,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/degree_gacha_00023(zh-Hans).png",
+    "role": "assets",
+    "sha256": "ea3111be91139a33bd78d73e5e4d68b7a869b831f995095d4d246efaa5f13226"
+  },
+  {
+    "bytes": 161849,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/degree_gacha_00023(zh-Hant).png",
+    "role": "assets",
+    "sha256": "024a1b9b5c92b048cf52d419d0ac7689f65da85028712fed20729eca164141fc"
+  },
+  {
+    "bytes": 158692,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Degree/Event/degree_gacha_00023.png",
+    "role": "assets",
+    "sha256": "37b1755811142fbbaaf17927c97232907a0c331956ceb20a8d5fbd83bd4a5a56"
   },
   {
     "bytes": 401111,
@@ -64288,6 +66234,83 @@
     "sha256": "b77e1847c8a38b105c3fc6992897e4d3f3f69371a829fa05df46df284ae80243"
   },
   {
+    "bytes": 130946,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Banner/event_banner_00005(en).png",
+    "role": "assets",
+    "sha256": "a88cd5b85db2cff56a3633d7c60dad1bbd4fa382cfb57d7a494baa81a92acc18"
+  },
+  {
+    "bytes": 131040,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Banner/event_banner_00005(ko).png",
+    "role": "assets",
+    "sha256": "36a141433527e3133bed39a05d40ad696989a2f3a5435b2ec0955bb283be8067"
+  },
+  {
+    "bytes": 132802,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Banner/event_banner_00005(zh-Hans).png",
+    "role": "assets",
+    "sha256": "ccbd894f9465a7a8fbb5a8381790b94cd397194167065e3f5ab5bcb3ea14c38b"
+  },
+  {
+    "bytes": 133168,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Banner/event_banner_00005(zh-Hant).png",
+    "role": "assets",
+    "sha256": "d7abf131d83eb790c18df8d8c21d0de06e4c3245c96cc1714aeab16c61a2274c"
+  },
+  {
+    "bytes": 131900,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Banner/event_banner_00005.png",
+    "role": "assets",
+    "sha256": "d2e8eba4b8a30f82ab10f7ab1555367e0cd9ef4bf57a1f41db9dc908d653298d"
+  },
+  {
+    "bytes": 142917,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Logo/event_logo_01_0005(en).png",
+    "role": "assets",
+    "sha256": "e9939c53c66b9837ac42058dac6e342f72dd51703f2188b1f925bec1fe70a1c2"
+  },
+  {
+    "bytes": 136834,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Logo/event_logo_01_0005(ko).png",
+    "role": "assets",
+    "sha256": "7a1976661719fb14826316a8b717fb2b616fdf3adf276770fe78ee0f3a8a50a9"
+  },
+  {
+    "bytes": 142854,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Logo/event_logo_01_0005(zh-Hans).png",
+    "role": "assets",
+    "sha256": "142a66f4b1cd15979e2644e53d464e2728195ff2a4b214eba15ba36a7434fe6d"
+  },
+  {
+    "bytes": 142525,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Logo/event_logo_01_0005(zh-Hant).png",
+    "role": "assets",
+    "sha256": "1a3ad865390c654edbdd622d55d701efdcf66949b2f4349b490a162375481849"
+  },
+  {
+    "bytes": 141854,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Logo/event_logo_01_0005.png",
+    "role": "assets",
+    "sha256": "74e8f19de27a112c1e29378382e9d98d5980ca2eeddf27226ce39368fdefefae"
+  },
+  {
+    "bytes": 2714896,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Event/05/Top/event_top_01_0005.png",
+    "role": "assets",
+    "sha256": "4bf3ab738e8fbc142d0e04585e0baf4eac59c2cebb1cc09ca440f9ec9a3bcf06"
+  },
+  {
     "bytes": 7805,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/Event/GekisouRankingIcon/1st.png",
@@ -64330,39 +66353,46 @@
     "sha256": "b1de91d6052699a4335901723709f48243210b74d6d56de55d3e763798833baa"
   },
   {
-    "bytes": 1406734,
-    "mediaType": "image/png",
-    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_1(en).png",
-    "role": "assets",
-    "sha256": "0041d62c71dc55ab127b92ea8c00be60f26ef9aef92914e804586ad0bd5eb7a2"
-  },
-  {
-    "bytes": 1421213,
-    "mediaType": "image/png",
-    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_1(ko).png",
-    "role": "assets",
-    "sha256": "ec0fdec5de57ac9b9c55ca10167bf72a8ac53a133980fe878b7d74fc88860e7b"
-  },
-  {
-    "bytes": 1417998,
-    "mediaType": "image/png",
-    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_1(zh-Hans).png",
-    "role": "assets",
-    "sha256": "2b91c70272992de68f79f5bc8aa5cf9bc17e347b07b21f895d77b06f87f933db"
-  },
-  {
-    "bytes": 1409527,
-    "mediaType": "image/png",
-    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_1(zh-Hant).png",
-    "role": "assets",
-    "sha256": "5a641f0fedabf7ab9660862505b3d784a0649932f901132af419c3fefbf0fc78"
-  },
-  {
     "bytes": 1422093,
     "mediaType": "image/png",
-    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_1.png",
+    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_00004.png",
     "role": "assets",
     "sha256": "655d282c85ab6818b649ff22e87c381d7f9aa6fa0ccfa7380e43e31bd00e6979"
+  },
+  {
+    "bytes": 1285119,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_00005(en).png",
+    "role": "assets",
+    "sha256": "492f6c4ad06dc895e7293d423757636f05cad4944601ba7bafbf81740308387d"
+  },
+  {
+    "bytes": 1274482,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_00005(ko).png",
+    "role": "assets",
+    "sha256": "67a875aa7fc194beadb045be95f8a354ed0be2deb582f7a922f592aa87a8fce2"
+  },
+  {
+    "bytes": 1280704,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_00005(zh-Hans).png",
+    "role": "assets",
+    "sha256": "592879c5e2a084cbb39db1e5edfe41ae3c2c42e7a4ba65226ce4e14f9b4e73ef"
+  },
+  {
+    "bytes": 1277553,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_00005(zh-Hant).png",
+    "role": "assets",
+    "sha256": "c57b15f8b49653db0c42a39215a5650aeda0eb89b35df37c35704e461d63e28b"
+  },
+  {
+    "bytes": 1285407,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/HomeLanding/Event/HomeLanding_Event_00005.png",
+    "role": "assets",
+    "sha256": "258265a575dce5c4f0fdf307d7bbcd826cc798ef424dc2c90893aeb1eca0cbb8"
   },
   {
     "bytes": 1027163,
@@ -65072,6 +67102,13 @@
     "sha256": "7d26c844f797bd132fcefc558fe441b6c8614b77bb298b59b630412de1e57f97"
   },
   {
+    "bytes": 441389,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Jacket/jkt_002_100116.png",
+    "role": "assets",
+    "sha256": "924e8fb4cef92ccd5325daa69fb54324e144e4b3d1ed94d1519703b29e34e69c"
+  },
+  {
     "bytes": 230094,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Image/Jacket/jkt_003_100050.png",
@@ -65735,6 +67772,13 @@
     "path": "assets/Assets/AddressableResources/Image/Jacket/small/jkt_002_100115.png",
     "role": "assets",
     "sha256": "3034a45d060ec96599e502b5e68d7e4f46825521210daf73fb137671300304f5"
+  },
+  {
+    "bytes": 33122,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Image/Jacket/small/jkt_002_100116.png",
+    "role": "assets",
+    "sha256": "36c10613900511737b48ff103d3993fc3eb794eb0a815cbb215f7c15e59048b2"
   },
   {
     "bytes": 28319,
@@ -71974,6 +74018,111 @@
     "sha256": "eb754dc1aa823ee371a53c9c82c6d4f7da809729cc9b7c6d392afd929ea4cbff"
   },
   {
+    "bytes": 22532,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000076(en).png",
+    "role": "assets",
+    "sha256": "b4d1dae0204a420ca7a8fbf117df86d2955baab000370964ede77de5758a891a"
+  },
+  {
+    "bytes": 22532,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000076(ko).png",
+    "role": "assets",
+    "sha256": "b4d1dae0204a420ca7a8fbf117df86d2955baab000370964ede77de5758a891a"
+  },
+  {
+    "bytes": 22532,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000076(zh-Hans).png",
+    "role": "assets",
+    "sha256": "b4d1dae0204a420ca7a8fbf117df86d2955baab000370964ede77de5758a891a"
+  },
+  {
+    "bytes": 22532,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000076(zh-Hant).png",
+    "role": "assets",
+    "sha256": "b4d1dae0204a420ca7a8fbf117df86d2955baab000370964ede77de5758a891a"
+  },
+  {
+    "bytes": 22532,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000076.png",
+    "role": "assets",
+    "sha256": "b4d1dae0204a420ca7a8fbf117df86d2955baab000370964ede77de5758a891a"
+  },
+  {
+    "bytes": 22519,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000077(en).png",
+    "role": "assets",
+    "sha256": "94b0f2f137a074129c326c3b74fea334c18bb4cea0d0a0be12768725452be23b"
+  },
+  {
+    "bytes": 22519,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000077(ko).png",
+    "role": "assets",
+    "sha256": "94b0f2f137a074129c326c3b74fea334c18bb4cea0d0a0be12768725452be23b"
+  },
+  {
+    "bytes": 22519,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000077(zh-Hans).png",
+    "role": "assets",
+    "sha256": "94b0f2f137a074129c326c3b74fea334c18bb4cea0d0a0be12768725452be23b"
+  },
+  {
+    "bytes": 22519,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000077(zh-Hant).png",
+    "role": "assets",
+    "sha256": "94b0f2f137a074129c326c3b74fea334c18bb4cea0d0a0be12768725452be23b"
+  },
+  {
+    "bytes": 22519,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000077.png",
+    "role": "assets",
+    "sha256": "94b0f2f137a074129c326c3b74fea334c18bb4cea0d0a0be12768725452be23b"
+  },
+  {
+    "bytes": 23846,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000078(en).png",
+    "role": "assets",
+    "sha256": "b613e6dafefaec9396f23142e60d09f3754934e558c38ff9df58ff75e38f1ae0"
+  },
+  {
+    "bytes": 23846,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000078(ko).png",
+    "role": "assets",
+    "sha256": "b613e6dafefaec9396f23142e60d09f3754934e558c38ff9df58ff75e38f1ae0"
+  },
+  {
+    "bytes": 23846,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000078(zh-Hans).png",
+    "role": "assets",
+    "sha256": "b613e6dafefaec9396f23142e60d09f3754934e558c38ff9df58ff75e38f1ae0"
+  },
+  {
+    "bytes": 23846,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000078(zh-Hant).png",
+    "role": "assets",
+    "sha256": "b613e6dafefaec9396f23142e60d09f3754934e558c38ff9df58ff75e38f1ae0"
+  },
+  {
+    "bytes": 23846,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Item/piece/item_icon_piece_10000078.png",
+    "role": "assets",
+    "sha256": "b613e6dafefaec9396f23142e60d09f3754934e558c38ff9df58ff75e38f1ae0"
+  },
+  {
     "bytes": 16397,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Item/point/item_icon_point_001(en).png",
@@ -77173,6 +79322,34 @@
     "path": "assets/Assets/AddressableResources/Live/MusicScore/0115/0115_03.bytes",
     "role": "assets",
     "sha256": "e86152dbf5d6d320fa69775fea7501f9fd9e48f420618b1de18d80610ef3ace3"
+  },
+  {
+    "bytes": 3726,
+    "mediaType": "application/octet-stream",
+    "path": "assets/Assets/AddressableResources/Live/MusicScore/0116/0116_00.bytes",
+    "role": "assets",
+    "sha256": "10e485a44c74a930cf9499fccff0cbf8d42a8d51ed1bf17de6cdc96d0904efc9"
+  },
+  {
+    "bytes": 9268,
+    "mediaType": "application/octet-stream",
+    "path": "assets/Assets/AddressableResources/Live/MusicScore/0116/0116_01.bytes",
+    "role": "assets",
+    "sha256": "364e29b19d2604cfeb7d272531872b6237ab3274ee543079f755ae2537a9130f"
+  },
+  {
+    "bytes": 17020,
+    "mediaType": "application/octet-stream",
+    "path": "assets/Assets/AddressableResources/Live/MusicScore/0116/0116_02.bytes",
+    "role": "assets",
+    "sha256": "8bd301897b41a01a5472905c176b30d2bc6408ca28fe942f733ea72ece7d761f"
+  },
+  {
+    "bytes": 29773,
+    "mediaType": "application/octet-stream",
+    "path": "assets/Assets/AddressableResources/Live/MusicScore/0116/0116_03.bytes",
+    "role": "assets",
+    "sha256": "d85fc75a1bad99c5fce5aaa547656b23ed860a83ebc7a07bd3ca60eab47eec17"
   },
   {
     "bytes": 5160,
@@ -82642,6 +84819,111 @@
     "sha256": "cacb9c1a7bbc102cc4243bbcbd7dd385560d177327f737780fc3873a4b1bb3e0"
   },
   {
+    "bytes": 3811172,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/76/member_background.png",
+    "role": "assets",
+    "sha256": "586d503b512b523e456dd86adb4b030ebbe8a86c66e171aa67bb283cdc7fb1b1"
+  },
+  {
+    "bytes": 3449332,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/76/member_character.png",
+    "role": "assets",
+    "sha256": "cade6df62f5e731075497bf08613baee7aaba63e1f419d4f78a93ebabf7e3006"
+  },
+  {
+    "bytes": 3794644,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/76/member_full.png",
+    "role": "assets",
+    "sha256": "2586c35d9dd83ece4cdeb8cd065861879bb55758745f7c2a9545d0561940b5f1"
+  },
+  {
+    "bytes": 349917,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/76/member_thumbnail.png",
+    "role": "assets",
+    "sha256": "11da5c36714fb39e49926e00f3572b0053799f3191c9611ed34f0e143cc3671f"
+  },
+  {
+    "bytes": 13620,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/76/skill_sprite.png",
+    "role": "assets",
+    "sha256": "4476acc35e6691a734052ea4fe88bcc9b8a5ff40a1ddceb1be08d8ed9dfd9835"
+  },
+  {
+    "bytes": 3302636,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/77/member_background.png",
+    "role": "assets",
+    "sha256": "a98cdb3325193a88e16131b0af044f7aa3c26628f28d892f2fe743d42d752727"
+  },
+  {
+    "bytes": 2988138,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/77/member_character.png",
+    "role": "assets",
+    "sha256": "79f3aaaafea177c03eaf5d6f639e39dfe2852974c2810d3e1d47b03b1bbabc02"
+  },
+  {
+    "bytes": 3797716,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/77/member_full.png",
+    "role": "assets",
+    "sha256": "a314fb11c4580a7c87876954fc27e41e0e88390c84a0e3cb965549dced5b134f"
+  },
+  {
+    "bytes": 323231,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/77/member_thumbnail.png",
+    "role": "assets",
+    "sha256": "15e9fbedde759e60e9b624854b1a949867897e82539d9ce5df4e4e8515096784"
+  },
+  {
+    "bytes": 12998,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/77/skill_sprite.png",
+    "role": "assets",
+    "sha256": "27932162f4004d9ccd84d5cd4ec665321efdb2715dbd80a565330a5b663250dc"
+  },
+  {
+    "bytes": 2886068,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/78/member_background.png",
+    "role": "assets",
+    "sha256": "0a1a5262f9a1cd8f7f26ffd1baff5d015adf4c745f782553bca3666d60d785ec"
+  },
+  {
+    "bytes": 972411,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/78/member_character.png",
+    "role": "assets",
+    "sha256": "1936a4812cf6df8898e2cbc43384ada1dae49a9938fd44eae382060c359602cb"
+  },
+  {
+    "bytes": 3155791,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/78/member_full.png",
+    "role": "assets",
+    "sha256": "7f55b2644b7dc69f3b9ca52cedb0a4d21ea5f85e098fc5381065724842fbfe02"
+  },
+  {
+    "bytes": 314226,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/78/member_thumbnail.png",
+    "role": "assets",
+    "sha256": "30fc05e5cf83db8ef5f1149b8fc1873e633ed4ae5b94c4c486d0d79dace6ed60"
+  },
+  {
+    "bytes": 13433,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/MemberCard/78/skill_sprite.png",
+    "role": "assets",
+    "sha256": "8160b9cfedb779d8b2329098a9291856983e1033cf1469d0a37f1dcd60582898"
+  },
+  {
     "bytes": 472559,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/MemberCard/8/member_character.png",
@@ -82775,11 +85057,18 @@
     "sha256": "927b1b9d1f6f63dc5c3cbf6461dfecd04c9450204fc6dc87e997ba24dd4a7766"
   },
   {
-    "bytes": 46067,
+    "bytes": 101991,
     "mediaType": "application/octet-stream",
     "path": "assets/Assets/AddressableResources/Patch/App.Runtime.patch-1.1.0.bytes",
     "role": "assets",
-    "sha256": "0d7e537d53f69422294b35c05740ac7aa910c1c00488ba73385e14f5dc4050ba"
+    "sha256": "f40626ab9ebe9c2e6e654d911f2fb29fb80a5081ebe4b257eac45e59e58f62ce"
+  },
+  {
+    "bytes": 8162,
+    "mediaType": "application/octet-stream",
+    "path": "assets/Assets/AddressableResources/Patch/Mingle.Runtime.patch-1.1.0.bytes",
+    "role": "assets",
+    "sha256": "2e7ea5258cf4bac0dbce7e2810d181fc81706a5aff83bea82d78f8dca3d279d2"
   },
   {
     "bytes": 0,
@@ -83025,6 +85314,41 @@
     "path": "assets/Assets/AddressableResources/SeasonPass/Banner/banner_seasonpass_00008.png",
     "role": "assets",
     "sha256": "dd3c7845721e1ad8065f65f3c93c9530f5b4149448fd607a2c38bd5d87765b00"
+  },
+  {
+    "bytes": 130775,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SeasonPass/Banner/banner_seasonpass_00009(en).png",
+    "role": "assets",
+    "sha256": "19a44e51be861b003efde138cc3b334cf3771b7b2e7394b5eb0a6a6a97bb80e0"
+  },
+  {
+    "bytes": 130871,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SeasonPass/Banner/banner_seasonpass_00009(ko).png",
+    "role": "assets",
+    "sha256": "576876528b54bad6edbdf9a37efc70db4a344846881bfff493de1c1cc3d0dfad"
+  },
+  {
+    "bytes": 132093,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SeasonPass/Banner/banner_seasonpass_00009(zh-Hans).png",
+    "role": "assets",
+    "sha256": "a7607005cddd60a5bd796bdb4f7cbfa51c42eb5f331330c1ba7e94a77df861da"
+  },
+  {
+    "bytes": 132056,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SeasonPass/Banner/banner_seasonpass_00009(zh-Hant).png",
+    "role": "assets",
+    "sha256": "c347dcbae6ca78bdc95ccaa8ba21aa79634a8f432e5b4b4d4cd4ffd97babf319"
+  },
+  {
+    "bytes": 131943,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SeasonPass/Banner/banner_seasonpass_00009.png",
+    "role": "assets",
+    "sha256": "ab11f66523398f43bc98763728c90f2243a6a4c7cdd12d229e21765829037320"
   },
   {
     "bytes": 1176795,
@@ -83867,11 +86191,46 @@
     "sha256": "f87549c26766a1b279e4610de166a96cfc41f786143ccfdf2501cefe6ae42f5a"
   },
   {
+    "bytes": 64948,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_bili_1000000132_2.png",
+    "role": "assets",
+    "sha256": "d1ff9ff99a77cb883af123c1be268737b3fbded9d305efd7a531025c8f34fc3a"
+  },
+  {
     "bytes": 72276,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_bili_1000000133.png",
     "role": "assets",
     "sha256": "b36e4221a796613ace197c2fe95eed07a13b874409b166159e38e7234967e3de"
+  },
+  {
+    "bytes": 872390,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_bili_1000000146_1(ko).png",
+    "role": "assets",
+    "sha256": "066463d8cc627b7f6b8cca9a03daf10d62a2616d693141a2f250592161437bcc"
+  },
+  {
+    "bytes": 872689,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_bili_1000000146_1(zh-Hans).png",
+    "role": "assets",
+    "sha256": "223daeb5a8e04eeccce29049ac1cb7f658dc78cb7312d6a159b8e210efaefc81"
+  },
+  {
+    "bytes": 873139,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_bili_1000000146_1(zh-Hant).png",
+    "role": "assets",
+    "sha256": "8b151a5477a16e9cb208d7a9b3a8a7d996fb8e7ab16d05a69812b3821a2c27fc"
+  },
+  {
+    "bytes": 872692,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_bili_1000000146_1.png",
+    "role": "assets",
+    "sha256": "193db4e8199aa628609bb0cd90aa4de8c515744a29138b0db1eec53be33fe214"
   },
   {
     "bytes": 828350,
@@ -84012,6 +86371,41 @@
     "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_event_01_00004.png",
     "role": "assets",
     "sha256": "e2a39651a472f3115ada15d1006a065dc5e97e08c0de062564ccb1b42a407066"
+  },
+  {
+    "bytes": 931686,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_event_01_00005(en).png",
+    "role": "assets",
+    "sha256": "3dc9219a79dc925e93f490b65ae5ad5129b4d2148f0fda42f3e28f8d4b6a5652"
+  },
+  {
+    "bytes": 926944,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_event_01_00005(ko).png",
+    "role": "assets",
+    "sha256": "bef88e026c6272a60b6c72065a9a3a2f0b817ca275b0f9c5f5628cb5ce0374c4"
+  },
+  {
+    "bytes": 934210,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_event_01_00005(zh-Hans).png",
+    "role": "assets",
+    "sha256": "eb0aa40b5fdf8dc56c839f2b6dc2ca166c116ad62e7f49ea07ce197b82f249e8"
+  },
+  {
+    "bytes": 934890,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_event_01_00005(zh-Hant).png",
+    "role": "assets",
+    "sha256": "de278769cb1d263fb116dbefa541156ec73f41a00384037c30a527e8d8571061"
+  },
+  {
+    "bytes": 936200,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/ItemThumbnail/shop_thumb_event_01_00005.png",
+    "role": "assets",
+    "sha256": "608a3c283aa2d05075bf5aae25399a709e94e39fe73862344f6907533ca93eef"
   },
   {
     "bytes": 709545,
@@ -84908,6 +87302,41 @@
     "path": "assets/Assets/AddressableResources/Shop/Tab/bannertab_seasonpass_0008.png",
     "role": "assets",
     "sha256": "dd3c7845721e1ad8065f65f3c93c9530f5b4149448fd607a2c38bd5d87765b00"
+  },
+  {
+    "bytes": 130775,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/Tab/bannertab_seasonpass_0009(en).png",
+    "role": "assets",
+    "sha256": "19a44e51be861b003efde138cc3b334cf3771b7b2e7394b5eb0a6a6a97bb80e0"
+  },
+  {
+    "bytes": 130871,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/Tab/bannertab_seasonpass_0009(ko).png",
+    "role": "assets",
+    "sha256": "576876528b54bad6edbdf9a37efc70db4a344846881bfff493de1c1cc3d0dfad"
+  },
+  {
+    "bytes": 132093,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/Tab/bannertab_seasonpass_0009(zh-Hans).png",
+    "role": "assets",
+    "sha256": "a7607005cddd60a5bd796bdb4f7cbfa51c42eb5f331330c1ba7e94a77df861da"
+  },
+  {
+    "bytes": 132056,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/Tab/bannertab_seasonpass_0009(zh-Hant).png",
+    "role": "assets",
+    "sha256": "c347dcbae6ca78bdc95ccaa8ba21aa79634a8f432e5b4b4d4cd4ffd97babf319"
+  },
+  {
+    "bytes": 131943,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Shop/Tab/bannertab_seasonpass_0009.png",
+    "role": "assets",
+    "sha256": "ab11f66523398f43bc98763728c90f2243a6a4c7cdd12d229e21765829037320"
   },
   {
     "bytes": 12938255,
@@ -86525,6 +88954,41 @@
     "path": "assets/Assets/AddressableResources/Stamp/illust/stamp_illust_mutsumi_002.png",
     "role": "assets",
     "sha256": "e8ee67408f5c5ec57f2b2ddab7fa051b4ed64d5907b2b267b410c47ecfa10666"
+  },
+  {
+    "bytes": 120656,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Stamp/illust/stamp_illust_mutsumi_003(en).png",
+    "role": "assets",
+    "sha256": "446f12ffb9f6061ba3ae690e696446e3ce54ecf9cf6c2d996ed1b5eba518af25"
+  },
+  {
+    "bytes": 125450,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Stamp/illust/stamp_illust_mutsumi_003(ko).png",
+    "role": "assets",
+    "sha256": "3b26ec2b27a18dc4975024c1d057a6334e3268998379cbb71418d56f0e48c0e4"
+  },
+  {
+    "bytes": 134161,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Stamp/illust/stamp_illust_mutsumi_003(zh-Hans).png",
+    "role": "assets",
+    "sha256": "67b70b902aec2f74c57fbe0c245e00ce511dda5d77f88bc93e2b67e02debfad3"
+  },
+  {
+    "bytes": 136688,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Stamp/illust/stamp_illust_mutsumi_003(zh-Hant).png",
+    "role": "assets",
+    "sha256": "2acaf632f9b8b94431eac3312e451eb08ae907cc110bee8049dff9265ff7ff53"
+  },
+  {
+    "bytes": 159430,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Stamp/illust/stamp_illust_mutsumi_003.png",
+    "role": "assets",
+    "sha256": "833f2c32f4be3e6027fc0fa58b26ab87ca740c5be8cc84d88c7acac25bbbb4b4"
   },
   {
     "bytes": 116798,
@@ -88977,6 +91441,41 @@
     "sha256": "1018875fa3eccd13fe7baf80d49e4b81b15853176ce45e3e370713c53474ac17"
   },
   {
+    "bytes": 130946,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Chapter/ui_banner_chapter_9(en).png",
+    "role": "assets",
+    "sha256": "a88cd5b85db2cff56a3633d7c60dad1bbd4fa382cfb57d7a494baa81a92acc18"
+  },
+  {
+    "bytes": 131040,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Chapter/ui_banner_chapter_9(ko).png",
+    "role": "assets",
+    "sha256": "36a141433527e3133bed39a05d40ad696989a2f3a5435b2ec0955bb283be8067"
+  },
+  {
+    "bytes": 132802,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Chapter/ui_banner_chapter_9(zh-Hans).png",
+    "role": "assets",
+    "sha256": "ccbd894f9465a7a8fbb5a8381790b94cd397194167065e3f5ab5bcb3ea14c38b"
+  },
+  {
+    "bytes": 133168,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Chapter/ui_banner_chapter_9(zh-Hant).png",
+    "role": "assets",
+    "sha256": "d7abf131d83eb790c18df8d8c21d0de06e4c3245c96cc1714aeab16c61a2274c"
+  },
+  {
+    "bytes": 131900,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Chapter/ui_banner_chapter_9.png",
+    "role": "assets",
+    "sha256": "d2e8eba4b8a30f82ab10f7ab1555367e0cd9ef4bf57a1f41db9dc908d653298d"
+  },
+  {
     "bytes": 112231,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_1_another_1.png",
@@ -90123,6 +92622,69 @@
     "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_8_episode_7.png",
     "role": "assets",
     "sha256": "343acdb8b6b89a827cac22d4332d7df99effa9d9a033f20c81596c23d39f768d"
+  },
+  {
+    "bytes": 100643,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_another_1.png",
+    "role": "assets",
+    "sha256": "2e7cb27c16033c553269f185416d8ade7db44e6d3fc14a8cde6b5295cb534798"
+  },
+  {
+    "bytes": 100747,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_another_2.png",
+    "role": "assets",
+    "sha256": "5efca050642a21cd07ba37090d0dcb15b5f1a4858e304f05ea4afc06a4bf2a37"
+  },
+  {
+    "bytes": 15958,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_episode_1.png",
+    "role": "assets",
+    "sha256": "6a748312e5cb84eae2ae6d4fbcc7b03a695d273e607910dc180199c40a68fc2c"
+  },
+  {
+    "bytes": 85256,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_episode_2.png",
+    "role": "assets",
+    "sha256": "7865fd3228c26c56eeba7c4c8c571e65b2cdf11f61e42d82f1821391ae80c401"
+  },
+  {
+    "bytes": 103576,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_episode_3.png",
+    "role": "assets",
+    "sha256": "84ddf01f22fbdfdcb3d6d900ca2ed29e38dba91aa05ad8577637c589ea03b0e5"
+  },
+  {
+    "bytes": 119162,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_episode_4.png",
+    "role": "assets",
+    "sha256": "9f12d275366e5b6cc04065a83b624d71e2a656b2b229c75b533b6a1adc28c613"
+  },
+  {
+    "bytes": 90194,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_episode_5.png",
+    "role": "assets",
+    "sha256": "bb91bedbd2c8d11eed3024f3a6daec6aa73d6577e2996f62ae134fd5e4f17b52"
+  },
+  {
+    "bytes": 34179,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_episode_6.png",
+    "role": "assets",
+    "sha256": "736428121580f18d5b49ab4f84a9cb88b540ed2a0011de4c450fae1d0dac8a02"
+  },
+  {
+    "bytes": 100841,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Banner/Episode/ui_banner_chapter_9_episode_7.png",
+    "role": "assets",
+    "sha256": "fcafb36ec8d7a9a3d0ef0002c54ad391ca322ac4838ecf923c3289e56925f8b4"
   },
   {
     "bytes": 92997,
@@ -91455,6 +94017,41 @@
     "sha256": "0fca71c852a2f2f98a1e106481cb0f4886b418b787a7f557f67b8fc3574d01b8"
   },
   {
+    "bytes": 198911,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Icon/ui_icon_chapter_event_00005(en).png",
+    "role": "assets",
+    "sha256": "bdeb3dd28d114956a1517c342607bfda6e2c022899ba2912c538446318e1ce6f"
+  },
+  {
+    "bytes": 189655,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Icon/ui_icon_chapter_event_00005(ko).png",
+    "role": "assets",
+    "sha256": "a0cefaa3cf2b10f08ab6d48694c87e963fd8658d8c90ef62f75ff4ea83cd2fdc"
+  },
+  {
+    "bytes": 200745,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Icon/ui_icon_chapter_event_00005(zh-Hans).png",
+    "role": "assets",
+    "sha256": "10560c29bd8e968aaebffdf843e67fcb04c3cbd470ab49bbdf4a45e4e5daef97"
+  },
+  {
+    "bytes": 200472,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Icon/ui_icon_chapter_event_00005(zh-Hant).png",
+    "role": "assets",
+    "sha256": "9ee0eefc22256d88a0bb7f6d1e357521b981ed9d500ce680601a615765f93c50"
+  },
+  {
+    "bytes": 205811,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Icon/ui_icon_chapter_event_00005.png",
+    "role": "assets",
+    "sha256": "9726e7069dc25dc317800607d3c13a8f57f08037143a478645b43ae84b936127"
+  },
+  {
     "bytes": 321374,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/Story/Image/Chapter/ui_image_birthday.png",
@@ -91516,6 +94113,13 @@
     "path": "assets/Assets/AddressableResources/Story/Image/Chapter/ui_image_chapter_8.png",
     "role": "assets",
     "sha256": "74038d07ac78b4be4182f7ddb4319908737f78e38372d7afc79b1eebc2a77a0b"
+  },
+  {
+    "bytes": 2559146,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Chapter/ui_image_chapter_9.png",
+    "role": "assets",
+    "sha256": "93788aaf40668722caf328524b9a7a528e87c18c2e38bd9b3065113e32c8dab5"
   },
   {
     "bytes": 676318,
@@ -92657,6 +95261,69 @@
     "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_8_episode_7.png",
     "role": "assets",
     "sha256": "2c6541586d23da37b4a54acef1ab99da21c1376d4a1a7a27893297709eca31bb"
+  },
+  {
+    "bytes": 563684,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_another_1.png",
+    "role": "assets",
+    "sha256": "4062178db47397df8929e9916ab8497681dc7a34edb2b6ee7ea566c42d889b06"
+  },
+  {
+    "bytes": 625041,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_another_2.png",
+    "role": "assets",
+    "sha256": "9333bfc7c3abb4df75a8622aa765c74abf2305b8d5a92a2558ba444e3445ca75"
+  },
+  {
+    "bytes": 79117,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_episode_1.png",
+    "role": "assets",
+    "sha256": "e93997391b1608e4d6e5adb8ee584606136dbcf350f9b566cc2cedeec9b91eac"
+  },
+  {
+    "bytes": 563222,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_episode_2.png",
+    "role": "assets",
+    "sha256": "34b7c6f9f524e967ed433b45742171dd733abc0a99e1de6a7009ea39925c111c"
+  },
+  {
+    "bytes": 599704,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_episode_3.png",
+    "role": "assets",
+    "sha256": "d9490ec502244aecda5c7b17c8f28697e0f49fa705e13d1f0bd23f3470ec596e"
+  },
+  {
+    "bytes": 680211,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_episode_4.png",
+    "role": "assets",
+    "sha256": "f2780d31aa26ca28e9276bfd7d350323dbf782a8491299ecfde34332e782fc5a"
+  },
+  {
+    "bytes": 504571,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_episode_5.png",
+    "role": "assets",
+    "sha256": "1f91cf3ace1b1f96343322e23ec988515befb01b20ff67ee9ed0da791b5082aa"
+  },
+  {
+    "bytes": 314498,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_episode_6.png",
+    "role": "assets",
+    "sha256": "1beefc335eb4f0bd76e23cb218398fbc2c890442978988a99afe214731389d38"
+  },
+  {
+    "bytes": 679383,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/Story/Image/Episode/ui_image_chapter_9_episode_7.png",
+    "role": "assets",
+    "sha256": "bcaf093b00bb2e8f7ae85434110119f01a67aa88f0c2bbe257763e63829c270e"
   },
   {
     "bytes": 12041,
@@ -94234,6 +96901,48 @@
     "sha256": "33d60066cb777ea45e51a13f9c37720d3a4876a0a8cfaacdec221dbb4989c30d"
   },
   {
+    "bytes": 12233,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/78/skill_sprite.png",
+    "role": "assets",
+    "sha256": "57a543b972af9a34a7aba5cd2a37775b3787d4f297ced92e569088e2d1998a6f"
+  },
+  {
+    "bytes": 2578725,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/78/snap_full.png",
+    "role": "assets",
+    "sha256": "5b06e2b82324f52d64b5c71f81a0278705bd8f0c99af45e89da8379713edefe0"
+  },
+  {
+    "bytes": 252011,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/78/snap_thumbnail.png",
+    "role": "assets",
+    "sha256": "4f5a3a80ac046c592dc8fd71f60cc4dfa3a4046f774d4ae28eec298200d79533"
+  },
+  {
+    "bytes": 12627,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/79/skill_sprite.png",
+    "role": "assets",
+    "sha256": "c4c397261c972a5f6e1bf441c181525943fb3298a739afecfd0e632feab1e1de"
+  },
+  {
+    "bytes": 2355677,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/79/snap_full.png",
+    "role": "assets",
+    "sha256": "c64cc02a150cef51d346df54a37b71eb2dff0f7673dcbac175fe7bd153a86b00"
+  },
+  {
+    "bytes": 258257,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/79/snap_thumbnail.png",
+    "role": "assets",
+    "sha256": "656383654fec73b087f503348a6dea9cacfaf931969ed845b36a6110176834b5"
+  },
+  {
     "bytes": 10989,
     "mediaType": "image/png",
     "path": "assets/Assets/AddressableResources/SupportCard/8/skill_sprite.png",
@@ -94253,6 +96962,27 @@
     "path": "assets/Assets/AddressableResources/SupportCard/8/snap_thumbnail.png",
     "role": "assets",
     "sha256": "6d9589167c3bddf817d09c283380c529f464c5723d450f1113c41dd375105af4"
+  },
+  {
+    "bytes": 12183,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/80/skill_sprite.png",
+    "role": "assets",
+    "sha256": "c8aea0256c16e0ddd86ba98ef01ca8eb3f125385f1d621dddcf7c7a11cf044c3"
+  },
+  {
+    "bytes": 2995257,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/80/snap_full.png",
+    "role": "assets",
+    "sha256": "c465e26020322dfe9863ea9d1074de97daf6e68bd550b50ba898ef3aaae544d8"
+  },
+  {
+    "bytes": 234344,
+    "mediaType": "image/png",
+    "path": "assets/Assets/AddressableResources/SupportCard/80/snap_thumbnail.png",
+    "role": "assets",
+    "sha256": "d1bb6691a4edb7f43879dfb06272a5a5cbdd374308abdd12f6e111f59954f124"
   },
   {
     "bytes": 11639,
@@ -96332,6 +99062,13 @@
     "path": "assets/Assets/Haneoka/StampMaker/shared/sha256/fbe14b75d8773cdc9320bc3a37159dccd5feade7598542eed2eab1aca9a3cc30.png",
     "role": "assets",
     "sha256": "fbe14b75d8773cdc9320bc3a37159dccd5feade7598542eed2eab1aca9a3cc30"
+  },
+  {
+    "bytes": 106381,
+    "mediaType": "image/png",
+    "path": "assets/Assets/Haneoka/StampMaker/shared/sha256/ff7c2c85645946464e2bea196e1d2dc972ec4beba3a15e30adad708a552572ee.png",
+    "role": "assets",
+    "sha256": "ff7c2c85645946464e2bea196e1d2dc972ec4beba3a15e30adad708a552572ee"
   },
   {
     "bytes": 7471,
